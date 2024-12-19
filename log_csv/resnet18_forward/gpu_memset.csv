@@ -1,0 +1,5 @@
+External id,cat,memory bandwidth (GB/s),ph,pid,correlation,device,bytes,tid,context,stream,name,ts,dur
+264,gpu_memset,0.29698375870069604,X,0,1530,0,512,7,1,7,Memset (Device),6783222081212.824,0.864
+281,gpu_memset,0.07424593967517401,X,0,1628,0,128,7,1,7,Memset (Device),6783222081303.768,0.865
+314,gpu_memset,0.07158836689038031,X,0,1828,0,128,7,1,7,Memset (Device),6783222081461.337,0.896
+331,gpu_memset,0.12536728697355534,X,0,1932,0,128,7,1,7,Memset (Device),6783222081573.433,0.512

@@ -1,0 +1,748 @@
+cat,Ev Idx,ph,Python id,pid,tid,Python parent id,name,ts,dur
+python_function,638,X,1,0,0,,threading.py(973): _bootstrap,6783222558765.208,307829.069
+python_function,639,X,2,0,0,1,threading.py(1016): _bootstrap_inner,6783222558766.774,307827.503
+python_function,640,X,3,0,0,2,decorator.py(232): fun,6783222558770.082,307824.195
+python_function,641,X,4,0,0,3,IPython/core/history.py(61): only_when_enabled,6783222558771.337,307822.94
+python_function,642,X,5,0,0,4,IPython/core/history.py(903): run,6783222558775.175,307819.102
+python_function,643,X,6,0,0,5,threading.py(607): wait,6783222558775.953,307818.324
+python_function,644,X,7,0,0,6,threading.py(320): wait,6783222558776.683,307817.594
+python_function,645,X,8,0,0,7,threading.py(973): _bootstrap,6783222558782.234,307812.043
+python_function,646,X,9,0,0,8,threading.py(1016): _bootstrap_inner,6783222558782.728,307811.549
+python_function,647,X,10,0,0,9,ipykernel/control.py(23): run,6783222558783.904,307810.373
+python_function,648,X,11,0,0,10,tornado/platform/asyncio.py(205): start,6783222558785.858,307808.419
+python_function,649,X,12,0,0,11,asyncio/base_events.py(603): run_forever,6783222558787.777,307806.5
+python_function,650,X,13,0,0,12,asyncio/base_events.py(1871): _run_once,6783222558789.026,307805.251
+python_function,651,X,14,0,0,13,selectors.py(469): select,6783222558790.346,307803.931
+python_function,652,X,15,0,0,14,threading.py(973): _bootstrap,6783222558792.928,307801.349
+python_function,653,X,16,0,0,15,threading.py(1016): _bootstrap_inner,6783222558793.246,307801.031
+python_function,654,X,17,0,0,16,threading.py(953): run,6783222558794.051,307800.226
+python_function,655,X,18,0,0,17,ipykernel/iostream.py(387): _watch_pipe_fd,6783222558795.175,307799.102
+python_function,656,X,19,0,0,18,threading.py(973): _bootstrap,6783222558797.478,307796.799
+python_function,657,X,20,0,0,19,threading.py(1016): _bootstrap_inner,6783222558798.698,307795.579
+python_function,658,X,21,0,0,20,threading.py(953): run,6783222558800.235,307794.042
+python_function,659,X,22,0,0,21,ipykernel/iostream.py(387): _watch_pipe_fd,6783222558800.517,307793.76
+python_function,660,X,23,0,0,22,threading.py(973): _bootstrap,6783222558803.551,307790.726
+python_function,661,X,24,0,0,23,threading.py(1016): _bootstrap_inner,6783222558803.819,307790.458
+python_function,662,X,25,0,0,24,ipykernel/heartbeat.py(106): run,6783222558805.501,307788.776
+python_function,663,X,26,2151687,2151690,,threading.py(973): _bootstrap,6783222558808.879,307785.398
+python_function,664,X,27,2151687,2151690,26,threading.py(1016): _bootstrap_inner,6783222558809.082,307785.195
+python_function,665,X,28,2151687,2151690,27,threading.py(953): run,6783222558810.144,307784.133
+python_function,666,X,29,2151687,2151690,28,ipykernel/iostream.py(92): _thread_main,6783222558810.81,307783.467
+python_function,667,X,30,2151687,2151690,29,tornado/platform/asyncio.py(205): start,6783222558812.087,307782.19
+python_function,668,X,31,2151687,2151690,30,asyncio/base_events.py(603): run_forever,6783222558812.601,307781.676
+python_function,669,X,32,2151687,2151690,31,asyncio/base_events.py(1871): _run_once,6783222558812.973,99950.696
+python_function,670,X,33,2151687,2151690,32,selectors.py(469): select,6783222558813.336,99120.433
+python_function,671,X,34,2151687,2151687,,runpy.py(196): _run_module_as_main,6783222558824.899,307769.378
+python_function,672,X,35,2151687,2151687,34,runpy.py(86): _run_code,6783222558825.719,307768.558
+python_function,673,X,36,2151687,2151687,35,ipykernel_launcher.py(18): <module>,6783222558826.943,307767.334
+python_function,674,X,37,2151687,2151687,36,traitlets/config/application.py(1075): launch_instance,6783222558827.927,307766.35
+python_function,675,X,38,2151687,2151687,37,ipykernel/kernelapp.py(739): start,6783222558830.119,307764.158
+python_function,676,X,39,2151687,2151687,38,tornado/platform/asyncio.py(205): start,6783222558830.535,307763.742
+python_function,677,X,40,2151687,2151687,39,asyncio/base_events.py(603): run_forever,6783222558830.977,307763.3
+python_function,678,X,41,2151687,2151687,40,asyncio/base_events.py(1909): _run_once,6783222558831.649,307762.628
+python_function,679,X,42,2151687,2151687,41,asyncio/events.py(80): _run,6783222558835.002,307759.275
+python_function,680,X,43,2151687,2151687,42,ipykernel/kernelbase.py(545): dispatch_queue,6783222558835.992,307758.285
+python_function,681,X,44,2151687,2151687,43,ipykernel/kernelbase.py(534): process_one,6783222558836.468,307757.809
+python_function,682,X,45,2151687,2151687,44,ipykernel/kernelbase.py(437): dispatch_shell,6783222558837.6,307756.677
+python_function,683,X,46,2151687,2151687,45,ipykernel/ipkernel.py(362): execute_request,6783222558839.087,307755.19
+python_function,684,X,47,2151687,2151687,46,ipykernel/kernelbase.py(778): execute_request,6783222558839.988,307754.289
+python_function,685,X,48,2151687,2151687,47,ipykernel/ipkernel.py(449): do_execute,6783222558841.453,307752.824
+python_function,686,X,49,2151687,2151687,48,ipykernel/zmqshell.py(549): run_cell,6783222558842.861,307751.416
+python_function,687,X,50,2151687,2151687,49,IPython/core/interactiveshell.py(3075): run_cell,6783222558847.578,307746.699
+python_function,688,X,51,2151687,2151687,50,IPython/core/interactiveshell.py(3130): _run_cell,6783222558848.965,307745.312
+python_function,689,X,52,2151687,2151687,51,IPython/core/async_helpers.py(128): _pseudo_sync_runner,6783222558858.104,307736.173
+python_function,690,X,53,2151687,2151687,52,IPython/core/interactiveshell.py(3334): run_cell_async,6783222558859.569,307734.708
+python_function,691,X,54,2151687,2151687,53,IPython/core/interactiveshell.py(3517): run_ast_nodes,6783222558861.172,307733.105
+python_function,692,X,55,2151687,2151687,54,IPython/core/interactiveshell.py(3577): run_code,6783222558862.352,307731.925
+python_function,693,X,56,2151687,2151687,55,/tmp/ipykernel_2151687/1050435152.py(28): <module>,6783222558863.305,307730.972
+python_function,694,X,57,2151687,2151687,56,pytorch_tracing.py(49): py_tracing_backward,6783222558864.768,307729.509
+python_function,695,X,58,2151687,2151687,57,torch/profiler/profiler.py(744): __enter__,6783222558865.541,522.893
+python_function,696,X,59,2151687,2151687,58,torch/profiler/profiler.py(754): start,6783222558866.356,521.827
+python_function,697,X,60,2151687,2151687,59,torch/profiler/profiler.py(793): _transit_action,6783222558866.956,247.651
+python_function,698,X,61,2151687,2151687,60,torch/profiler/profiler.py(174): start_trace,6783222558868.069,245.763
+python_function,699,X,62,2151687,2151687,61,torch/autograd/profiler.py(339): _start_trace,6783222558868.538,44.737
+python_function,700,X,63,2151687,2151687,62,<built-in function perf_counter_ns>,6783222558900.054,3.684
+python_function,701,X,64,2151687,2151687,61,torch/profiler/profiler.py(304): add_metadata_json,6783222558941.16,54.434
+python_function,702,X,65,2151687,2151687,64,<built-in method _add_metadata_json of PyCapsule object at 0x7f5759575e60>,6783222558991.029,4.318
+python_function,703,X,66,2151687,2151687,61,torch/profiler/profiler.py(304): add_metadata_json,6783222558996.471,1.422
+python_function,704,X,67,2151687,2151687,66,<built-in method _add_metadata_json of PyCapsule object at 0x7f5759575e60>,6783222558997.025,0.793
+python_function,705,X,68,2151687,2151687,61,<built-in method kineto_available of PyCapsule object at 0x7f5759575ec0>,6783222559002.416,0.768
+python_function,706,X,69,2151687,2151687,61,torch/profiler/profiler.py(319): _get_distributed_info,6783222559004.707,25.355
+python_function,707,X,70,2151687,2151687,69,torch/distributed/__init__.py(14): is_available,6783222559015.999,3.194
+python_function,708,X,71,2151687,2151687,70,<built-in function hasattr>,6783222559018.342,0.699
+python_function,709,X,72,2151687,2151687,69,torch/distributed/distributed_c10d.py(1121): is_initialized,6783222559021.636,8.206
+python_function,710,X,73,2151687,2151687,72,torch/distributed/distributed_c10d.py(705): WORLD,6783222559024.796,4.89
+python_function,711,X,74,2151687,2151687,73,torch/distributed/distributed_c10d.py(576): default_pg,6783222559029.019,0.532
+python_function,712,X,75,2151687,2151687,61,<built-in function hasattr>,6783222559037.882,0.892
+python_function,713,X,76,2151687,2151687,61,torch/utils/_config_module.py(379): __getattr__,6783222559059.58,6.395
+python_function,714,X,77,2151687,2151687,76,torch/utils/_config_module.py(148): __getattr__,6783222559063.155,2.656
+python_function,715,X,78,2151687,2151687,61,<built-in method items of dict object at 0x7f57488cb340>,6783222559112.364,0.308
+python_function,716,X,79,2151687,2151687,59,torch/autograd/profiler.py(721): __init__,6783222559125.678,39.052
+python_function,717,X,80,2151687,2151687,79,typing.py(306): inner,6783222559138.99,10.126
+python_function,718,X,81,2151687,2151687,79,torch/jit/__init__.py(128): annotate,6783222559154.483,0.353
+python_function,719,X,82,2151687,2151687,59,torch/autograd/profiler.py(732): __enter__,6783222559169.249,218.597
+python_function,720,X,83,2151687,2151687,82,torch/_ops.py(1105): __call__,6783222559177.979,209.107
+python_function,721,X,84,2151687,2151687,83,<built-in method _record_function_enter_new of PyCapsule object at 0x7f5758ea3a20>,6783222559185.364,201.523
+python_function,722,X,85,2151687,2151687,57,<built-in method sum of Tensor object at 0x7f5748535760>,6783222559407.345,12438.3
+python_function,723,X,86,2151687,2151687,57,torch/_tensor.py(525): backward,6783222571862.429,293302.117
+python_function,724,X,87,2151687,2151687,86,<built-in function _has_torch_function_unary>,6783222571875.542,2.758
+python_function,725,X,88,2151687,2151687,86,torch/autograd/__init__.py(242): backward,6783222571886.719,293248.359
+python_function,726,X,89,2151687,2151687,88,<built-in method _are_functorch_transforms_active of PyCapsule object at 0x7f58daf0d6b0>,6783222571900.402,7.889
+python_function,727,X,90,2151687,2151687,88,<built-in function isinstance>,6783222571911.589,0.365
+python_function,728,X,91,2151687,2151687,88,<built-in function isinstance>,6783222571914.423,2.832
+python_function,729,X,92,2151687,2151687,88,<built-in function len>,6783222571919.875,0.571
+python_function,730,X,93,2151687,2151687,88,torch/autograd/__init__.py(232): _tensor_or_tensors_to_tuple,6783222571921.74,1.527
+python_function,731,X,94,2151687,2151687,88,torch/autograd/__init__.py(88): _make_grads,6783222571925.567,6405.318
+python_function,732,X,95,2151687,2151687,94,typing.py(306): inner,6783222571933.069,262.519
+python_function,733,X,96,2151687,2151687,95,typing.py(401): __getitem__,6783222571938.191,252.996
+python_function,734,X,97,2151687,2151687,96,typing.py(483): Union,6783222571940.677,250.152
+python_function,735,X,98,2151687,2151687,97,<built-in function isinstance>,6783222571942.459,0.153
+python_function,736,X,99,2151687,2151687,97,typing.py(515): <genexpr>,6783222571948.296,19.236
+python_function,737,X,100,2151687,2151687,99,typing.py(146): _type_check,6783222571951.36,15.793
+python_function,738,X,101,2151687,2151687,100,typing.py(137): _type_convert,6783222571957.306,2.094
+python_function,739,X,102,2151687,2151687,101,<built-in function isinstance>,6783222571958.694,0.521
+python_function,740,X,103,2151687,2151687,100,<built-in function isinstance>,6783222571960.363,0.114
+python_function,741,X,104,2151687,2151687,100,<built-in function isinstance>,6783222571964.082,0.073
+python_function,742,X,105,2151687,2151687,100,<built-in function isinstance>,6783222571966.794,0.154
+python_function,743,X,106,2151687,2151687,97,typing.py(515): <genexpr>,6783222571967.879,4.06
+python_function,744,X,107,2151687,2151687,106,typing.py(146): _type_check,6783222571968.347,3.44
+python_function,745,X,108,2151687,2151687,107,typing.py(137): _type_convert,6783222571969.115,0.83
+python_function,746,X,109,2151687,2151687,108,<built-in function isinstance>,6783222571969.45,0.344
+python_function,747,X,110,2151687,2151687,107,<built-in function isinstance>,6783222571970.23,0.07
+python_function,748,X,111,2151687,2151687,107,<built-in function isinstance>,6783222571970.96,0.065
+python_function,749,X,112,2151687,2151687,107,<built-in function isinstance>,6783222571971.551,0.086
+python_function,750,X,113,2151687,2151687,97,typing.py(515): <genexpr>,6783222571972.11,0.331
+python_function,751,X,114,2151687,2151687,97,typing.py(267): _remove_dups_flatten,6783222571975.41,16.056
+python_function,752,X,115,2151687,2151687,114,<built-in function isinstance>,6783222571977.341,0.154
+python_function,753,X,116,2151687,2151687,114,<built-in function isinstance>,6783222571977.982,0.085
+python_function,754,X,117,2151687,2151687,114,<built-in method append of list object at 0x7f57486b9a00>,6783222571982.49,0.531
+python_function,755,X,118,2151687,2151687,114,<built-in function isinstance>,6783222571983.768,0.628
+python_function,756,X,119,2151687,2151687,114,<built-in function isinstance>,6783222571984.615,0.102
+python_function,757,X,120,2151687,2151687,114,<built-in method append of list object at 0x7f57486b9a00>,6783222571984.936,0.081
+python_function,758,X,121,2151687,2151687,114,typing.py(253): _deduplicate,6783222571986.549,3.982
+python_function,759,X,122,2151687,2151687,121,<built-in function len>,6783222571989.455,0.155
+python_function,760,X,123,2151687,2151687,121,<built-in function len>,6783222571989.895,0.25
+python_function,761,X,124,2151687,2151687,97,<built-in function len>,6783222571992.164,0.071
+python_function,762,X,125,2151687,2151687,97,<built-in function len>,6783222571992.924,0.052
+python_function,763,X,126,2151687,2151687,97,typing.py(1016): __init__,6783222571997.31,192.736
+python_function,764,X,127,2151687,2151687,126,typing.py(947): __init__,6783222572002.864,29.647
+python_function,765,X,128,2151687,2151687,127,typing.py(986): __setattr__,6783222572005.002,15.294
+python_function,766,X,129,2151687,2151687,128,typing.py(935): _is_dunder,6783222572007.051,8.148
+python_function,767,X,130,2151687,2151687,129,<built-in method startswith of str object at 0x7f58dc8476f0>,6783222572010.863,4.081
+python_function,768,X,131,2151687,2151687,127,typing.py(986): __setattr__,6783222572021.443,2.105
+python_function,769,X,132,2151687,2151687,131,typing.py(935): _is_dunder,6783222572021.772,0.851
+python_function,770,X,133,2151687,2151687,132,<built-in method startswith of str object at 0x7f58dc8476f0>,6783222572022.325,0.209
+python_function,771,X,134,2151687,2151687,127,typing.py(986): __setattr__,6783222572024.365,4.68
+python_function,772,X,135,2151687,2151687,134,typing.py(935): _is_dunder,6783222572024.723,2.641
+python_function,773,X,136,2151687,2151687,135,<built-in method startswith of str object at 0x7f58dc8476f0>,6783222572024.935,0.217
+python_function,774,X,137,2151687,2151687,135,<built-in method endswith of str object at 0x7f58dca26130>,6783222572026.664,0.564
+python_function,775,X,138,2151687,2151687,127,typing.py(986): __setattr__,6783222572030.107,2.192
+python_function,776,X,139,2151687,2151687,138,typing.py(935): _is_dunder,6783222572030.506,0.876
+python_function,777,X,140,2151687,2151687,139,<built-in method startswith of str object at 0x7f58dc8476f0>,6783222572030.721,0.155
+python_function,778,X,141,2151687,2151687,139,<built-in method endswith of str object at 0x7f58dca26130>,6783222572031.072,0.175
+python_function,779,X,142,2151687,2151687,126,<built-in function isinstance>,6783222572033.963,0.141
+python_function,780,X,143,2151687,2151687,126,typing.py(1022): <genexpr>,6783222572127.951,1.346
+python_function,781,X,144,2151687,2151687,126,typing.py(1022): <genexpr>,6783222572129.723,0.232
+python_function,782,X,145,2151687,2151687,126,typing.py(1022): <genexpr>,6783222572130.217,0.128
+python_function,783,X,146,2151687,2151687,126,typing.py(986): __setattr__,6783222572131.285,2.643
+python_function,784,X,147,2151687,2151687,146,typing.py(935): _is_dunder,6783222572131.552,0.943
+python_function,785,X,148,2151687,2151687,147,<built-in method startswith of str object at 0x7f58dc8476f0>,6783222572131.755,0.265
+python_function,786,X,149,2151687,2151687,147,<built-in method endswith of str object at 0x7f58dca26130>,6783222572132.184,0.192
+python_function,787,X,150,2151687,2151687,126,typing_extensions.py(2989): _collect_type_vars,6783222572140.816,38.659
+python_function,788,X,151,2151687,2151687,150,typing_extensions.py(2954): _has_generic_or_protocol_as_origin,6783222572143.044,16.243
+python_function,789,X,152,2151687,2151687,151,<built-in function _getframe>,6783222572146.608,1.741
+python_function,790,X,153,2151687,2151687,151,<built-in method get of dict object at 0x7f58dc844500>,6783222572152.087,0.526
+python_function,791,X,154,2151687,2151687,151,<built-in method get of dict object at 0x7f58dc844500>,6783222572157.265,0.141
+python_function,792,X,155,2151687,2151687,150,typing_extensions.py(2976): _is_unpacked_typevartuple,6783222572161.345,7.471
+python_function,793,X,156,2151687,2151687,155,typing.py(1902): get_origin,6783222572162.649,5.79
+python_function,794,X,157,2151687,2151687,156,<built-in function isinstance>,6783222572164.499,0.183
+python_function,795,X,158,2151687,2151687,156,<built-in function isinstance>,6783222572165.48,0.376
+python_function,796,X,159,2151687,2151687,156,<built-in function isinstance>,6783222572168.181,0.072
+python_function,797,X,160,2151687,2151687,150,<built-in function isinstance>,6783222572169.54,0.072
+python_function,798,X,161,2151687,2151687,150,typing_extensions.py(154): _should_collect_from_parameters,6783222572170.991,3.716
+python_function,799,X,162,2151687,2151687,161,<built-in function isinstance>,6783222572174.185,0.418
+python_function,800,X,163,2151687,2151687,150,typing_extensions.py(2976): _is_unpacked_typevartuple,6783222572175.202,2.148
+python_function,801,X,164,2151687,2151687,163,typing.py(1902): get_origin,6783222572175.467,1.552
+python_function,802,X,165,2151687,2151687,164,<built-in function isinstance>,6783222572175.696,0.126
+python_function,803,X,166,2151687,2151687,164,<built-in function isinstance>,6783222572176.175,0.346
+python_function,804,X,167,2151687,2151687,164,<built-in function isinstance>,6783222572176.854,0.087
+python_function,805,X,168,2151687,2151687,150,<built-in function isinstance>,6783222572177.629,0.089
+python_function,806,X,169,2151687,2151687,150,typing_extensions.py(154): _should_collect_from_parameters,6783222572178.061,0.968
+python_function,807,X,170,2151687,2151687,169,<built-in function isinstance>,6783222572178.498,0.458
+python_function,808,X,171,2151687,2151687,126,typing.py(986): __setattr__,6783222572180.533,2.396
+python_function,809,X,172,2151687,2151687,171,typing.py(935): _is_dunder,6783222572180.83,1.294
+python_function,810,X,173,2151687,2151687,172,<built-in method startswith of str object at 0x7f58dc8476f0>,6783222572181.106,0.172
+python_function,811,X,174,2151687,2151687,172,<built-in method endswith of str object at 0x7f58dca26130>,6783222572181.462,0.383
+python_function,812,X,175,2151687,2151687,126,typing.py(986): __setattr__,6783222572183.564,1.399
+python_function,813,X,176,2151687,2151687,175,typing.py(935): _is_dunder,6783222572183.775,0.474
+python_function,814,X,177,2151687,2151687,176,<built-in method startswith of str object at 0x7f58dc8476f0>,6783222572183.957,0.162
+python_function,815,X,178,2151687,2151687,126,typing.py(986): __setattr__,6783222572185.554,1.29
+python_function,816,X,179,2151687,2151687,178,typing.py(935): _is_dunder,6783222572185.802,0.389
+python_function,817,X,180,2151687,2151687,179,<built-in method startswith of str object at 0x7f58dc8476f0>,6783222572185.967,0.163
+python_function,818,X,181,2151687,2151687,126,typing.py(986): __setattr__,6783222572188.177,1.661
+python_function,819,X,182,2151687,2151687,181,typing.py(935): _is_dunder,6783222572188.373,0.744
+python_function,820,X,183,2151687,2151687,182,<built-in method startswith of str object at 0x7f58dc8476f0>,6783222572188.581,0.168
+python_function,821,X,184,2151687,2151687,182,<built-in method endswith of str object at 0x7f58dca26130>,6783222572188.893,0.165
+python_function,822,X,185,2151687,2151687,94,typing.py(1737): cast,6783222572199.368,0.291
+python_function,823,X,186,2151687,2151687,94,<built-in function isinstance>,6783222572201.132,1.543
+python_function,824,X,187,2151687,2151687,94,<built-in function isinstance>,6783222572219.492,0.069
+python_function,825,X,188,2151687,2151687,94,<built-in function isinstance>,6783222572225.681,0.485
+python_function,826,X,189,2151687,2151687,94,<built-in function isinstance>,6783222572227.245,0.315
+python_function,827,X,190,2151687,2151687,94,<built-in function isinstance>,6783222572230.953,0.137
+python_function,828,X,191,2151687,2151687,94,<built-in function isinstance>,6783222572231.56,0.063
+python_function,829,X,192,2151687,2151687,94,<built-in method numel of Tensor object at 0x7f57485358a0>,6783222572236.208,3.361
+python_function,830,X,193,2151687,2151687,94,<built-in function isinstance>,6783222572241.804,0.071
+python_function,831,X,194,2151687,2151687,94,<built-in function isinstance>,6783222572242.241,0.061
+python_function,832,X,195,2151687,2151687,94,<built-in method ones_like of type object at 0x7f58b3e5f1c0>,6783222572252.152,6069.489
+python_function,833,X,196,2151687,2151687,94,<built-in method append of list object at 0x7f57486b9a00>,6783222578326.19,0.45
+python_function,834,X,197,2151687,2151687,88,torch/autograd/graph.py(816): _engine_run_backward,6783222578336.65,286794.493
+python_function,835,X,198,2151687,2151687,197,logging/__init__.py(1710): getEffectiveLevel,6783222578339.836,4.975
+python_function,836,X,199,2151687,2151687,197,<built-in method run_backward of torch._C._EngineBase object at 0x7f58c8116620>,6783222578360.012,286765.448
+python_function,837,X,200,2151687,2151690,32,asyncio/selector_events.py(600): _process_events,6783222657965.492,39.324
+python_function,838,X,201,2151687,2151690,32,asyncio/base_events.py(696): time,6783222658007.651,21.744
+python_function,839,X,202,2151687,2151690,201,<built-in function monotonic>,6783222658022.245,1.791
+python_function,840,X,203,2151687,2151690,32,<built-in function heappop>,6783222658038.273,1.683
+python_function,841,X,204,2151687,2151690,32,<built-in method append of collections.deque object at 0x7f58da0301c0>,6783222658051.142,0.295
+python_function,842,X,205,2151687,2151690,32,<built-in function len>,6783222658054.284,0.749
+python_function,843,X,206,2151687,2151690,32,<built-in method popleft of collections.deque object at 0x7f58da0301c0>,6783222658061.963,0.264
+python_function,844,X,207,2151687,2151690,32,asyncio/events.py(78): _run,6783222658065.593,694.683
+python_function,845,X,208,2151687,2151690,207,<built-in method run of _contextvars.Context object at 0x7f574a5823c0>,6783222658073.4,686.095
+python_function,846,X,209,2151687,2151690,208,tornado/ioloop.py(742): _run_callback,6783222658076.019,682.506
+python_function,847,X,210,2151687,2151690,209,ipykernel/iostream.py(616): _flush,6783222658079.277,677.12
+python_function,848,X,211,2151687,2151690,210,ipykernel/iostream.py(710): _flush_buffers,6783222658086.343,41.467
+python_function,849,X,212,2151687,2151690,211,ipykernel/iostream.py(718): _rotate_buffers,6783222658088.526,12.776
+python_function,850,X,213,2151687,2151690,212,<built-in method __exit__ of _thread.RLock object at 0x7f58da022340>,6783222658100.334,0.653
+python_function,851,X,214,2151687,2151690,211,<built-in method items of dict object at 0x7f57488cb340>,6783222658103.659,0.499
+python_function,852,X,215,2151687,2151690,211,<built-in method getvalue of _io.StringIO object at 0x7f574a31bbe0>,6783222658109.054,8.131
+python_function,853,X,216,2151687,2151690,211,<built-in method close of _io.StringIO object at 0x7f574a31bbe0>,6783222658120.637,0.336
+python_function,854,X,217,2151687,2151690,210,<built-in function getpid>,6783222658132.215,0.885
+python_function,855,X,218,2151687,2151690,210,traitlets/traitlets.py(708): __set__,6783222658136.051,38.26
+python_function,856,X,219,2151687,2151690,218,traitlets/traitlets.py(689): set,6783222658143.121,30.629
+python_function,857,X,220,2151687,2151690,219,traitlets/traitlets.py(718): _validate,6783222658145.552,23.606
+python_function,858,X,221,2151687,2151690,220,<built-in function hasattr>,6783222658147.073,0.975
+python_function,859,X,222,2151687,2151690,220,traitlets/traitlets.py(2635): validate,6783222658149.426,7.763
+python_function,860,X,223,2151687,2151690,222,<built-in function isinstance>,6783222658150.976,0.414
+python_function,861,X,224,2151687,2151690,222,traitlets/traitlets.py(2558): _validate_bounds,6783222658154.394,1.177
+python_function,862,X,225,2151687,2151690,222,typing.py(1737): cast,6783222658156.597,0.425
+python_function,863,X,226,2151687,2151690,220,traitlets/traitlets.py(727): _cross_validate,6783222658160.503,7.562
+python_function,864,X,227,2151687,2151690,226,<built-in function hasattr>,6783222658164.874,1.848
+python_function,865,X,228,2151687,2151690,226,typing.py(1737): cast,6783222658167.704,0.128
+python_function,866,X,229,2151687,2151690,220,typing.py(1737): cast,6783222658168.903,0.108
+python_function,867,X,230,2151687,2151690,210,jupyter_client/session.py(649): msg,6783222658179.294,110.622
+python_function,868,X,231,2151687,2151690,230,jupyter_client/session.py(645): msg_header,6783222658181.958,88.688
+python_function,869,X,232,2151687,2151690,231,jupyter_client/session.py(600): msg_id,6783222658184.092,17.991
+python_function,870,X,233,2151687,2151690,232,traitlets/traitlets.py(676): __get__,6783222658187.471,6.623
+python_function,871,X,234,2151687,2151690,233,traitlets/traitlets.py(629): get,6783222658189.87,3.411
+python_function,872,X,235,2151687,2151690,234,typing.py(1737): cast,6783222658192.751,0.156
+python_function,873,X,236,2151687,2151690,233,typing.py(1737): cast,6783222658193.865,0.098
+python_function,874,X,237,2151687,2151690,232,<built-in function getpid>,6783222658195.83,0.462
+python_function,875,X,238,2151687,2151690,231,traitlets/traitlets.py(676): __get__,6783222658203.617,3.264
+python_function,876,X,239,2151687,2151690,238,traitlets/traitlets.py(629): get,6783222658204.567,1.688
+python_function,877,X,240,2151687,2151690,239,typing.py(1737): cast,6783222658205.861,0.121
+python_function,878,X,241,2151687,2151690,238,typing.py(1737): cast,6783222658206.616,0.108
+python_function,879,X,242,2151687,2151690,231,traitlets/traitlets.py(676): __get__,6783222658207.466,2.302
+python_function,880,X,243,2151687,2151690,242,traitlets/traitlets.py(629): get,6783222658207.987,1.21
+python_function,881,X,244,2151687,2151690,243,typing.py(1737): cast,6783222658208.842,0.096
+python_function,882,X,245,2151687,2151690,242,typing.py(1737): cast,6783222658209.548,0.092
+python_function,883,X,246,2151687,2151690,231,jupyter_client/session.py(272): msg_header,6783222658217.697,52.402
+python_function,884,X,247,2151687,2151690,246,jupyter_client/session.py(198): utcnow,6783222658220.17,43.944
+python_function,885,X,248,2151687,2151690,247,<built-in method now of type object at 0x7f58db7b5a60>,6783222658228.629,35.228
+python_function,886,X,249,2151687,2151690,246,<built-in function locals>,6783222658268.193,1.777
+python_function,887,X,250,2151687,2151690,230,jupyter_client/session.py(281): extract_header,6783222658273.462,6.117
+python_function,888,X,251,2151687,2151690,250,<built-in function isinstance>,6783222658279.225,0.144
+python_function,889,X,252,2151687,2151690,230,traitlets/traitlets.py(676): __get__,6783222658281.71,3.891
+python_function,890,X,253,2151687,2151690,252,traitlets/traitlets.py(629): get,6783222658283.296,1.726
+python_function,891,X,254,2151687,2151690,253,typing.py(1737): cast,6783222658284.6,0.126
+python_function,892,X,255,2151687,2151690,252,typing.py(1737): cast,6783222658285.344,0.126
+python_function,893,X,256,2151687,2151690,230,<built-in method copy of dict object at 0x7f58c94071c0>,6783222658288.621,0.42
+python_function,894,X,257,2151687,2151690,210,ipykernel/iostream.py(725): _hooks,6783222658292.517,4.366
+python_function,895,X,258,2151687,2151690,257,<built-in function hasattr>,6783222658294.091,2.473
+python_function,896,X,259,2151687,2151690,210,jupyter_client/session.py(754): send,6783222658299.772,451.067
+python_function,897,X,260,2151687,2151690,259,<built-in function isinstance>,6783222658302.2,1.626
+python_function,898,X,261,2151687,2151690,259,<built-in function isinstance>,6783222658306.212,0.163
+python_function,899,X,262,2151687,2151690,259,<built-in function isinstance>,6783222658307.874,0.41
+python_function,900,X,263,2151687,2151690,259,<built-in method get of dict object at 0x7f58dc844500>,6783222658309.817,0.416
+python_function,901,X,264,2151687,2151690,259,traitlets/traitlets.py(676): __get__,6783222658311.704,2.977
+python_function,902,X,265,2151687,2151690,264,traitlets/traitlets.py(629): get,6783222658312.429,1.665
+python_function,903,X,266,2151687,2151690,265,typing.py(1737): cast,6783222658313.699,0.149
+python_function,904,X,267,2151687,2151690,264,typing.py(1737): cast,6783222658314.474,0.102
+python_function,905,X,268,2151687,2151690,259,<built-in function getpid>,6783222658315.456,0.398
+python_function,906,X,269,2151687,2151690,259,traitlets/traitlets.py(676): __get__,6783222658316.516,2.23
+python_function,907,X,270,2151687,2151690,269,traitlets/traitlets.py(629): get,6783222658317.07,1.131
+python_function,908,X,271,2151687,2151690,270,typing.py(1737): cast,6783222658317.854,0.102
+python_function,909,X,272,2151687,2151690,269,typing.py(1737): cast,6783222658318.512,0.115
+python_function,910,X,273,2151687,2151690,259,traitlets/traitlets.py(676): __get__,6783222658323.392,2.468
+python_function,911,X,274,2151687,2151690,273,traitlets/traitlets.py(629): get,6783222658324.074,1.261
+python_function,912,X,275,2151687,2151690,274,typing.py(1737): cast,6783222658324.986,0.107
+python_function,913,X,276,2151687,2151690,273,typing.py(1737): cast,6783222658325.633,0.124
+python_function,914,X,277,2151687,2151690,259,jupyter_client/session.py(690): serialize,6783222658328.58,328.339
+python_function,915,X,278,2151687,2151690,277,<built-in method get of dict object at 0x7f58dc844500>,6783222658330.036,0.117
+python_function,916,X,279,2151687,2151690,277,<built-in function isinstance>,6783222658331.711,0.072
+python_function,917,X,280,2151687,2151690,277,traitlets/traitlets.py(676): __get__,6783222658333.235,4.061
+python_function,918,X,281,2151687,2151690,280,traitlets/traitlets.py(629): get,6783222658334.819,1.926
+python_function,919,X,282,2151687,2151690,281,typing.py(1737): cast,6783222658336.415,0.104
+python_function,920,X,283,2151687,2151690,280,typing.py(1737): cast,6783222658337.071,0.103
+python_function,921,X,284,2151687,2151690,277,jupyter_client/session.py(92): json_packer,6783222658338.936,75.563
+python_function,922,X,285,2151687,2151690,284,json/__init__.py(183): dumps,6783222658343.32,53.788
+python_function,923,X,286,2151687,2151690,285,json/encoder.py(104): __init__,6783222658350.211,3.352
+python_function,924,X,287,2151687,2151690,285,json/encoder.py(182): encode,6783222658357.412,38.386
+python_function,925,X,288,2151687,2151690,287,<built-in function isinstance>,6783222658359.014,0.227
+python_function,926,X,289,2151687,2151690,287,json/encoder.py(204): iterencode,6783222658361.794,27.27
+python_function,927,X,290,2151687,2151690,287,<built-in function isinstance>,6783222658391.216,0.141
+python_function,928,X,291,2151687,2151690,287,<built-in method join of str object at 0x7f58dc9d8030>,6783222658395.154,0.435
+python_function,929,X,292,2151687,2151690,284,<built-in method encode of str object at 0x7f58cc018810>,6783222658409.554,4.38
+python_function,930,X,293,2151687,2151690,277,traitlets/traitlets.py(676): __get__,6783222658415.536,2.548
+python_function,931,X,294,2151687,2151690,293,traitlets/traitlets.py(629): get,6783222658416.201,1.322
+python_function,932,X,295,2151687,2151690,294,typing.py(1737): cast,6783222658417.097,0.14
+python_function,933,X,296,2151687,2151690,293,typing.py(1737): cast,6783222658417.835,0.115
+python_function,934,X,297,2151687,2151690,277,jupyter_client/session.py(92): json_packer,6783222658418.938,132.388
+python_function,935,X,298,2151687,2151690,297,json/__init__.py(183): dumps,6783222658420.057,129.817
+python_function,936,X,299,2151687,2151690,298,json/encoder.py(104): __init__,6783222658422.281,1.225
+python_function,937,X,300,2151687,2151690,298,json/encoder.py(182): encode,6783222658424.48,124.919
+python_function,938,X,301,2151687,2151690,300,<built-in function isinstance>,6783222658424.833,0.22
+python_function,939,X,302,2151687,2151690,300,json/encoder.py(204): iterencode,6783222658425.835,121.519
+python_function,940,X,303,2151687,2151690,302,jupyter_client/jsonutil.py(107): json_default,6783222658435.604,106.254
+python_function,941,X,304,2151687,2151690,303,<built-in function isinstance>,6783222658509.344,0.178
+python_function,942,X,305,2151687,2151690,303,jupyter_client/jsonutil.py(38): _ensure_tzinfo,6783222658511.022,1.481
+python_function,943,X,306,2151687,2151690,303,<built-in method isoformat of datetime.datetime object at 0x7f574a556fa0>,6783222658525.1,10.38
+python_function,944,X,307,2151687,2151690,303,<built-in method replace of str object at 0x7f574a1b77b0>,6783222658538.888,2.698
+python_function,945,X,308,2151687,2151690,300,<built-in function isinstance>,6783222658548.526,0.154
+python_function,946,X,309,2151687,2151690,300,<built-in method join of str object at 0x7f58dc9d8030>,6783222658549.148,0.093
+python_function,947,X,310,2151687,2151690,297,<built-in method encode of str object at 0x7f58cc018810>,6783222658550.664,0.382
+python_function,948,X,311,2151687,2151690,277,traitlets/traitlets.py(676): __get__,6783222658552.329,2.606
+python_function,949,X,312,2151687,2151690,311,traitlets/traitlets.py(629): get,6783222658553.092,1.304
+python_function,950,X,313,2151687,2151690,312,typing.py(1737): cast,6783222658553.999,0.103
+python_function,951,X,314,2151687,2151690,311,typing.py(1737): cast,6783222658554.719,0.116
+python_function,952,X,315,2151687,2151690,277,jupyter_client/session.py(92): json_packer,6783222658555.773,29.554
+python_function,953,X,316,2151687,2151690,315,json/__init__.py(183): dumps,6783222658556.717,27.261
+python_function,954,X,317,2151687,2151690,316,json/encoder.py(104): __init__,6783222658558.399,1.06
+python_function,955,X,318,2151687,2151690,316,json/encoder.py(182): encode,6783222658560.168,23.428
+python_function,956,X,319,2151687,2151690,318,<built-in function isinstance>,6783222658560.442,0.188
+python_function,957,X,320,2151687,2151690,318,json/encoder.py(204): iterencode,6783222658561.154,20.86
+python_function,958,X,321,2151687,2151690,320,jupyter_client/jsonutil.py(107): json_default,6783222658567.043,10.791
+python_function,959,X,322,2151687,2151690,321,<built-in function isinstance>,6783222658567.386,0.096
+python_function,960,X,323,2151687,2151690,321,jupyter_client/jsonutil.py(38): _ensure_tzinfo,6783222658567.899,0.896
+python_function,961,X,324,2151687,2151690,321,<built-in method isoformat of datetime.datetime object at 0x7f574a556fa0>,6783222658569.187,7.549
+python_function,962,X,325,2151687,2151690,324,dateutil/tz/tz.py(74): utcoffset,6783222658574.81,0.571
+python_function,963,X,326,2151687,2151690,321,<built-in method replace of str object at 0x7f574a1b77b0>,6783222658577.134,0.584
+python_function,964,X,327,2151687,2151690,318,<built-in function isinstance>,6783222658582.933,0.081
+python_function,965,X,328,2151687,2151690,318,<built-in method join of str object at 0x7f58dc9d8030>,6783222658583.34,0.141
+python_function,966,X,329,2151687,2151690,315,<built-in method encode of str object at 0x7f58cc018810>,6783222658584.456,0.606
+python_function,967,X,330,2151687,2151690,277,traitlets/traitlets.py(676): __get__,6783222658586.172,2.735
+python_function,968,X,331,2151687,2151690,330,traitlets/traitlets.py(629): get,6783222658586.813,1.549
+python_function,969,X,332,2151687,2151690,331,typing.py(1737): cast,6783222658587.985,0.117
+python_function,970,X,333,2151687,2151690,330,typing.py(1737): cast,6783222658588.684,0.115
+python_function,971,X,334,2151687,2151690,277,jupyter_client/session.py(92): json_packer,6783222658589.629,9.417
+python_function,972,X,335,2151687,2151690,334,json/__init__.py(183): dumps,6783222658590.418,7.788
+python_function,973,X,336,2151687,2151690,335,json/encoder.py(104): __init__,6783222658591.802,0.964
+python_function,974,X,337,2151687,2151690,335,json/encoder.py(182): encode,6783222658593.378,4.535
+python_function,975,X,338,2151687,2151690,337,<built-in function isinstance>,6783222658593.621,0.146
+python_function,976,X,339,2151687,2151690,337,json/encoder.py(204): iterencode,6783222658594.198,2.582
+python_function,977,X,340,2151687,2151690,337,<built-in function isinstance>,6783222658597.401,0.063
+python_function,978,X,341,2151687,2151690,337,<built-in method join of str object at 0x7f58dc9d8030>,6783222658597.728,0.063
+python_function,979,X,342,2151687,2151690,334,<built-in method encode of str object at 0x7f58cc018810>,6783222658598.511,0.394
+python_function,980,X,343,2151687,2151690,277,<built-in function isinstance>,6783222658600.218,0.362
+python_function,981,X,344,2151687,2151690,277,<built-in method append of list object at 0x7f57486b9a00>,6783222658601.494,0.523
+python_function,982,X,345,2151687,2151690,277,<built-in method append of list object at 0x7f57486b9a00>,6783222658602.982,0.073
+python_function,983,X,346,2151687,2151690,277,jupyter_client/session.py(675): sign,6783222658604.105,47.236
+python_function,984,X,347,2151687,2151690,346,traitlets/traitlets.py(676): __get__,6783222658606.425,2.847
+python_function,985,X,348,2151687,2151690,347,traitlets/traitlets.py(629): get,6783222658607.217,1.507
+python_function,986,X,349,2151687,2151690,348,typing.py(1737): cast,6783222658608.328,0.142
+python_function,987,X,350,2151687,2151690,347,typing.py(1737): cast,6783222658609.045,0.13
+python_function,988,X,351,2151687,2151690,346,traitlets/traitlets.py(676): __get__,6783222658610.066,2.079
+python_function,989,X,352,2151687,2151690,351,traitlets/traitlets.py(629): get,6783222658610.524,1.096
+python_function,990,X,353,2151687,2151690,352,typing.py(1737): cast,6783222658611.272,0.126
+python_function,991,X,354,2151687,2151690,351,typing.py(1737): cast,6783222658611.921,0.126
+python_function,992,X,355,2151687,2151690,346,hmac.py(122): copy,6783222658613.556,14.877
+python_function,993,X,356,2151687,2151690,355,<built-in method __new__ of type object at 0x7437e0>,6783222658617.477,0.613
+python_function,994,X,357,2151687,2151690,355,<built-in method copy of _hashlib.HMAC object at 0x7f58da18d6b0>,6783222658622.608,4.988
+python_function,995,X,358,2151687,2151690,346,hmac.py(117): update,6783222658629.962,5.845
+python_function,996,X,359,2151687,2151690,358,<built-in method update of _hashlib.HMAC object at 0x7f5748650550>,6783222658632.818,2.767
+python_function,997,X,360,2151687,2151690,346,hmac.py(117): update,6783222658636.519,1.259
+python_function,998,X,361,2151687,2151690,360,<built-in method update of _hashlib.HMAC object at 0x7f5748650550>,6783222658636.942,0.713
+python_function,999,X,362,2151687,2151690,346,hmac.py(117): update,6783222658638.175,0.596
+python_function,1000,X,363,2151687,2151690,362,<built-in method update of _hashlib.HMAC object at 0x7f5748650550>,6783222658638.49,0.166
+python_function,1001,X,364,2151687,2151690,346,hmac.py(117): update,6783222658639.175,1.33
+python_function,1002,X,365,2151687,2151690,364,<built-in method update of _hashlib.HMAC object at 0x7f5748650550>,6783222658639.469,0.951
+python_function,1003,X,366,2151687,2151690,346,hmac.py(161): hexdigest,6783222658641.627,8.517
+python_function,1004,X,367,2151687,2151690,366,hmac.py(139): _current,6783222658642.927,0.532
+python_function,1005,X,368,2151687,2151690,366,<built-in method hexdigest of _hashlib.HMAC object at 0x7f5748650550>,6783222658645.579,4.421
+python_function,1006,X,369,2151687,2151690,346,<built-in method encode of str object at 0x7f58cc018810>,6783222658650.875,0.268
+python_function,1007,X,370,2151687,2151690,277,<built-in method append of list object at 0x7f57486b9a00>,6783222658653.219,0.114
+python_function,1008,X,371,2151687,2151690,277,<built-in method extend of list object at 0x7f574b2bb900>,6783222658656.275,0.403
+python_function,1009,X,372,2151687,2151690,259,<built-in method extend of list object at 0x7f574b2bb900>,6783222658657.891,0.142
+python_function,1010,X,373,2151687,2151690,259,jupyter_client/session.py(854): <listcomp>,6783222658659.817,5.149
+python_function,1011,X,374,2151687,2151690,373,<built-in function len>,6783222658660.577,0.802
+python_function,1012,X,375,2151687,2151690,373,<built-in function len>,6783222658662.09,0.077
+python_function,1013,X,376,2151687,2151690,373,<built-in function len>,6783222658662.688,0.056
+python_function,1014,X,377,2151687,2151690,373,<built-in function len>,6783222658663.39,0.046
+python_function,1015,X,378,2151687,2151690,373,<built-in function len>,6783222658663.861,0.051
+python_function,1016,X,379,2151687,2151690,373,<built-in function len>,6783222658664.367,0.06
+python_function,1017,X,380,2151687,2151690,373,<built-in function len>,6783222658664.645,0.151
+python_function,1018,X,381,2151687,2151690,259,<built-in function max>,6783222658666.816,1.806
+python_function,1019,X,382,2151687,2151690,259,traitlets/traitlets.py(676): __get__,6783222658682.802,3.298
+python_function,1020,X,383,2151687,2151690,382,traitlets/traitlets.py(629): get,6783222658683.697,1.777
+python_function,1021,X,384,2151687,2151690,383,typing.py(1737): cast,6783222658685.095,0.121
+python_function,1022,X,385,2151687,2151690,382,typing.py(1737): cast,6783222658685.848,0.097
+python_function,1023,X,386,2151687,2151690,259,ipykernel/iostream.py(271): send_multipart,6783222658690.772,54.543
+python_function,1024,X,387,2151687,2151690,386,ipykernel/iostream.py(259): schedule,6783222658693.387,51.669
+python_function,1025,X,388,2151687,2151690,387,threading.py(1169): is_alive,6783222658695.505,11.604
+python_function,1026,X,389,2151687,2151690,388,threading.py(553): is_set,6783222658699.395,0.538
+python_function,1027,X,390,2151687,2151690,388,threading.py(1102): _wait_for_tstate_lock,6783222658701.154,5.419
+python_function,1028,X,391,2151687,2151690,390,<built-in method acquire of _thread.lock object at 0x7f58da0211c0>,6783222658704.794,1.472
+python_function,1029,X,392,2151687,2151690,387,<built-in method append of collections.deque object at 0x7f58da0301c0>,6783222658708.27,0.162
+python_function,1030,X,393,2151687,2151690,387,ipykernel/iostream.py(138): _event_pipe,6783222658709.856,1.858
+python_function,1031,X,394,2151687,2151690,387,zmq/sugar/socket.py(626): send,6783222658716.087,28.537
+python_function,1032,X,395,2151687,2151690,259,traitlets/traitlets.py(676): __get__,6783222658746.761,3.347
+python_function,1033,X,396,2151687,2151690,395,traitlets/traitlets.py(629): get,6783222658747.9,1.589
+python_function,1034,X,397,2151687,2151690,396,typing.py(1737): cast,6783222658749.124,0.103
+python_function,1035,X,398,2151687,2151690,395,typing.py(1737): cast,6783222658749.876,0.105
+python_function,1036,X,399,2151687,2151690,210,ipykernel/iostream.py(716): _flush_buffers,6783222658752.49,0.704
+python_function,1037,X,400,2151687,2151690,31,asyncio/base_events.py(1832): _run_once,6783222658767.462,480.978
+python_function,1038,X,401,2151687,2151690,400,<built-in function len>,6783222658768.439,0.176
+python_function,1039,X,402,2151687,2151690,400,asyncio/base_events.py(696): time,6783222658773.665,1.235
+python_function,1040,X,403,2151687,2151690,402,<built-in function monotonic>,6783222658774.159,0.433
+python_function,1041,X,404,2151687,2151690,400,<built-in function max>,6783222658776.032,3.998
+python_function,1042,X,405,2151687,2151690,400,<built-in function min>,6783222658783.376,4.147
+python_function,1043,X,406,2151687,2151690,400,selectors.py(452): select,6783222658791.181,38.32
+python_function,1044,X,407,2151687,2151690,406,<built-in function ceil>,6783222658797.698,4.296
+python_function,1045,X,408,2151687,2151690,406,<built-in function len>,6783222658803.959,0.188
+python_function,1046,X,409,2151687,2151690,406,<built-in function max>,6783222658804.494,0.397
+python_function,1047,X,410,2151687,2151690,406,<built-in method poll of select.epoll object at 0x7f58da18ec90>,6783222658808.338,8.92
+python_function,1048,X,411,2151687,2151690,406,selectors.py(276): _key_from_fd,6783222658824.952,1.054
+python_function,1049,X,412,2151687,2151690,406,<built-in method append of list object at 0x7f57486b9a00>,6783222658828.979,0.111
+python_function,1050,X,413,2151687,2151690,400,asyncio/selector_events.py(600): _process_events,6783222658831.058,7.011
+python_function,1051,X,414,2151687,2151690,413,asyncio/base_events.py(1817): _add_callback,6783222658835.772,1.475
+python_function,1052,X,415,2151687,2151690,414,<built-in method append of collections.deque object at 0x7f58da0301c0>,6783222658836.852,0.127
+python_function,1053,X,416,2151687,2151690,400,asyncio/base_events.py(696): time,6783222658839.077,0.648
+python_function,1054,X,417,2151687,2151690,416,<built-in function monotonic>,6783222658839.478,0.158
+python_function,1055,X,418,2151687,2151690,400,<built-in function len>,6783222658842.01,0.144
+python_function,1056,X,419,2151687,2151690,400,<built-in method popleft of collections.deque object at 0x7f58da0301c0>,6783222658843.847,0.095
+python_function,1057,X,420,2151687,2151690,400,asyncio/events.py(78): _run,6783222658845.161,402.674
+python_function,1058,X,421,2151687,2151690,420,<built-in method run of _contextvars.Context object at 0x7f574a5823c0>,6783222658848.434,398.974
+python_function,1059,X,422,2151687,2151690,421,tornado/platform/asyncio.py(200): _handle_events,6783222658850.637,396.307
+python_function,1060,X,423,2151687,2151690,422,zmq/eventloop/zmqstream.py(583): _handle_events,6783222658854.847,391.755
+python_function,1061,X,424,2151687,2151690,423,zmq/sugar/attrsettr.py(43): __getattr__,6783222658865.275,62.643
+python_function,1062,X,425,2151687,2151690,424,<built-in method upper of str object at 0x7f58dc7267f0>,6783222658867.884,0.924
+python_function,1063,X,426,2151687,2151690,424,<built-in function getattr>,6783222658872.323,1.652
+python_function,1064,X,427,2151687,2151690,424,<frozen importlib._bootstrap>(1053): _handle_fromlist,6783222658883.253,3.809
+python_function,1065,X,428,2151687,2151690,427,<built-in function isinstance>,6783222658884.606,0.175
+python_function,1066,X,429,2151687,2151690,427,<built-in function hasattr>,6783222658885.789,0.913
+python_function,1067,X,430,2151687,2151690,424,zmq/sugar/attrsettr.py(66): _get_attr_opt,6783222658890.4,37.051
+python_function,1068,X,431,2151687,2151690,430,enum.py(359): __call__,6783222658896.788,7.578
+python_function,1069,X,432,2151687,2151690,431,enum.py(678): __new__,6783222658902.174,1.982
+python_function,1070,X,433,2151687,2151690,423,enum.py(986): __and__,6783222658932.579,11.024
+python_function,1071,X,434,2151687,2151690,433,<built-in function isinstance>,6783222658936.065,0.927
+python_function,1072,X,435,2151687,2151690,433,enum.py(359): __call__,6783222658938.698,2.313
+python_function,1073,X,436,2151687,2151690,435,enum.py(678): __new__,6783222658939.622,1.27
+python_function,1074,X,437,2151687,2151690,433,enum.py(359): __call__,6783222658942.093,1.331
+python_function,1075,X,438,2151687,2151690,437,enum.py(678): __new__,6783222658942.791,0.53
+python_function,1076,X,439,2151687,2151690,423,zmq/eventloop/zmqstream.py(538): receiving,6783222658946.747,1.146
+python_function,1077,X,440,2151687,2151690,423,zmq/eventloop/zmqstream.py(624): _handle_recv,6783222658950.638,231.203
+python_function,1078,X,441,2151687,2151690,440,zmq/sugar/socket.py(774): recv_multipart,6783222658954.516,43.849
+python_function,1079,X,442,2151687,2151690,441,enum.py(359): __call__,6783222658963.157,1.621
+python_function,1080,X,443,2151687,2151690,442,enum.py(678): __new__,6783222658963.943,0.723
+python_function,1081,X,444,2151687,2151690,441,typing.py(306): inner,6783222658971.943,4.28
+python_function,1082,X,445,2151687,2151690,441,typing.py(306): inner,6783222658977.129,1.07
+python_function,1083,X,446,2151687,2151690,441,typing.py(306): inner,6783222658980.709,16.393
+python_function,1084,X,447,2151687,2151690,446,typing.py(1037): __hash__,6783222658987.622,5.23
+python_function,1085,X,448,2151687,2151690,447,<built-in function hash>,6783222658992.013,0.687
+python_function,1086,X,449,2151687,2151690,446,typing.py(1037): __hash__,6783222658993.484,1.321
+python_function,1087,X,450,2151687,2151690,449,<built-in function hash>,6783222658994.436,0.281
+python_function,1088,X,451,2151687,2151690,441,typing.py(1737): cast,6783222658998.009,0.147
+python_function,1089,X,452,2151687,2151690,440,zmq/eventloop/zmqstream.py(556): _run_callback,6783222659003.502,177.813
+python_function,1090,X,453,2151687,2151690,452,ipykernel/iostream.py(157): _handle_event,6783222659008.808,152.077
+python_function,1091,X,454,2151687,2151690,453,<built-in function len>,6783222659039.129,0.25
+python_function,1092,X,455,2151687,2151690,453,<built-in method popleft of collections.deque object at 0x7f58da0301c0>,6783222659041.063,0.371
+python_function,1093,X,456,2151687,2151690,453,ipykernel/iostream.py(276): <lambda>,6783222659042.824,117.539
+python_function,1094,X,457,2151687,2151690,456,ipykernel/iostream.py(278): _really_send,6783222659047.064,112.787
+python_function,1095,X,458,2151687,2151690,457,ipykernel/iostream.py(255): closed,6783222659049.858,0.894
+python_function,1096,X,459,2151687,2151690,457,ipykernel/iostream.py(216): _check_mp_mode,6783222659052.519,7.319
+python_function,1097,X,460,2151687,2151690,459,ipykernel/iostream.py(213): _is_master_process,6783222659056.339,3.228
+python_function,1098,X,461,2151687,2151690,460,<built-in function getpid>,6783222659057.368,0.538
+python_function,1099,X,462,2151687,2151690,457,zmq/sugar/socket.py(703): send_multipart,6783222659063.738,95.318
+python_function,1100,X,463,2151687,2151690,462,<built-in function isinstance>,6783222659068.303,0.343
+python_function,1101,X,464,2151687,2151690,462,<built-in function isinstance>,6783222659069.431,0.119
+python_function,1102,X,465,2151687,2151690,462,<built-in function isinstance>,6783222659069.989,0.104
+python_function,1103,X,466,2151687,2151690,462,<built-in function isinstance>,6783222659070.539,0.096
+python_function,1104,X,467,2151687,2151690,462,<built-in function isinstance>,6783222659071.683,0.099
+python_function,1105,X,468,2151687,2151690,462,<built-in function isinstance>,6783222659072.23,0.108
+python_function,1106,X,469,2151687,2151690,462,<built-in function isinstance>,6783222659072.766,0.106
+python_function,1107,X,470,2151687,2151690,462,enum.py(980): __or__,6783222659079.354,9.111
+python_function,1108,X,471,2151687,2151690,470,<built-in function isinstance>,6783222659080.944,0.275
+python_function,1109,X,472,2151687,2151690,470,enum.py(359): __call__,6783222659082.675,2.844
+python_function,1110,X,473,2151687,2151690,472,enum.py(678): __new__,6783222659083.812,1.588
+python_function,1111,X,474,2151687,2151690,470,enum.py(359): __call__,6783222659086.801,1.295
+python_function,1112,X,475,2151687,2151690,474,enum.py(678): __new__,6783222659087.437,0.552
+python_function,1113,X,476,2151687,2151690,462,zmq/sugar/socket.py(626): send,6783222659089.708,16.021
+python_function,1114,X,477,2151687,2151690,462,enum.py(980): __or__,6783222659106.978,6.031
+python_function,1115,X,478,2151687,2151690,477,<built-in function isinstance>,6783222659107.465,0.274
+python_function,1116,X,479,2151687,2151690,477,enum.py(359): __call__,6783222659108.577,2.29
+python_function,1117,X,480,2151687,2151690,479,enum.py(678): __new__,6783222659110.187,0.562
+python_function,1118,X,481,2151687,2151690,477,enum.py(359): __call__,6783222659111.579,1.261
+python_function,1119,X,482,2151687,2151690,481,enum.py(678): __new__,6783222659112.215,0.52
+python_function,1120,X,483,2151687,2151690,462,zmq/sugar/socket.py(626): send,6783222659113.68,2.091
+python_function,1121,X,484,2151687,2151690,462,enum.py(980): __or__,6783222659116.607,4.753
+python_function,1122,X,485,2151687,2151690,484,<built-in function isinstance>,6783222659116.992,0.239
+python_function,1123,X,486,2151687,2151690,484,enum.py(359): __call__,6783222659117.906,1.352
+python_function,1124,X,487,2151687,2151690,486,enum.py(678): __new__,6783222659118.608,0.546
+python_function,1125,X,488,2151687,2151690,484,enum.py(359): __call__,6783222659119.961,1.232
+python_function,1126,X,489,2151687,2151690,488,enum.py(678): __new__,6783222659120.591,0.501
+python_function,1127,X,490,2151687,2151690,462,zmq/sugar/socket.py(626): send,6783222659121.946,2.963
+python_function,1128,X,491,2151687,2151690,462,enum.py(980): __or__,6783222659125.722,4.787
+python_function,1129,X,492,2151687,2151690,491,<built-in function isinstance>,6783222659126.129,0.234
+python_function,1130,X,493,2151687,2151690,491,enum.py(359): __call__,6783222659127.051,1.309
+python_function,1131,X,494,2151687,2151690,493,enum.py(678): __new__,6783222659127.745,0.514
+python_function,1132,X,495,2151687,2151690,491,enum.py(359): __call__,6783222659129.071,1.274
+python_function,1133,X,496,2151687,2151690,495,enum.py(678): __new__,6783222659129.702,0.539
+python_function,1134,X,497,2151687,2151690,462,zmq/sugar/socket.py(626): send,6783222659131.102,1.984
+python_function,1135,X,498,2151687,2151690,462,enum.py(980): __or__,6783222659133.834,4.642
+python_function,1136,X,499,2151687,2151690,498,<built-in function isinstance>,6783222659134.201,0.282
+python_function,1137,X,500,2151687,2151690,498,enum.py(359): __call__,6783222659135.13,1.271
+python_function,1138,X,501,2151687,2151690,500,enum.py(678): __new__,6783222659135.783,0.524
+python_function,1139,X,502,2151687,2151690,498,enum.py(359): __call__,6783222659137.092,1.216
+python_function,1140,X,503,2151687,2151690,502,enum.py(678): __new__,6783222659137.709,0.498
+python_function,1141,X,504,2151687,2151690,462,zmq/sugar/socket.py(626): send,6783222659139.058,1.862
+python_function,1142,X,505,2151687,2151690,462,enum.py(980): __or__,6783222659141.656,4.772
+python_function,1143,X,506,2151687,2151690,505,<built-in function isinstance>,6783222659142.021,0.287
+python_function,1144,X,507,2151687,2151690,505,enum.py(359): __call__,6783222659142.944,1.326
+python_function,1145,X,508,2151687,2151690,507,enum.py(678): __new__,6783222659143.616,0.549
+python_function,1146,X,509,2151687,2151690,505,enum.py(359): __call__,6783222659145.056,1.213
+python_function,1147,X,510,2151687,2151690,509,enum.py(678): __new__,6783222659145.679,0.487
+python_function,1148,X,511,2151687,2151690,462,zmq/sugar/socket.py(626): send,6783222659147.013,1.929
+python_function,1149,X,512,2151687,2151690,462,zmq/sugar/socket.py(626): send,6783222659150.451,8.275
+python_function,1150,X,513,2151687,2151690,452,<built-in function isinstance>,6783222659164.053,16.673
+python_function,1151,X,514,2151687,2151690,513,typing.py(993): __instancecheck__,6783222659165.254,14.893
+python_function,1152,X,515,2151687,2151690,514,typing.py(1154): __subclasscheck__,6783222659167.988,11.917
+python_function,1153,X,516,2151687,2151690,515,<built-in function isinstance>,6783222659168.893,0.354
+python_function,1154,X,517,2151687,2151690,515,<built-in function isinstance>,6783222659169.926,0.11
+python_function,1155,X,518,2151687,2151690,515,<built-in function issubclass>,6783222659172.854,6.962
+python_function,1156,X,519,2151687,2151690,518,abc.py(121): __subclasscheck__,6783222659174.91,4.683
+python_function,1157,X,520,2151687,2151690,519,<built-in function _abc_subclasscheck>,6783222659177.117,2.305
+python_function,1158,X,521,2151687,2151690,423,enum.py(986): __and__,6783222659183.584,6.436
+python_function,1159,X,522,2151687,2151690,521,<built-in function isinstance>,6783222659184.132,0.362
+python_function,1160,X,523,2151687,2151690,521,enum.py(359): __call__,6783222659185.433,1.935
+python_function,1161,X,524,2151687,2151690,523,enum.py(678): __new__,6783222659186.584,0.635
+python_function,1162,X,525,2151687,2151690,521,enum.py(359): __call__,6783222659188.493,1.365
+python_function,1163,X,526,2151687,2151690,525,enum.py(678): __new__,6783222659189.088,0.668
+python_function,1164,X,527,2151687,2151690,423,zmq/eventloop/zmqstream.py(663): _rebuild_io_state,6783222659191.853,54.186
+python_function,1165,X,528,2151687,2151690,527,zmq/eventloop/zmqstream.py(538): receiving,6783222659193.085,0.21
+python_function,1166,X,529,2151687,2151690,527,enum.py(980): __or__,6783222659194.385,5.608
+python_function,1167,X,530,2151687,2151690,529,<built-in function isinstance>,6783222659194.861,0.238
+python_function,1168,X,531,2151687,2151690,529,enum.py(359): __call__,6783222659195.952,1.238
+python_function,1169,X,532,2151687,2151690,531,enum.py(678): __new__,6783222659196.607,0.478
+python_function,1170,X,533,2151687,2151690,529,enum.py(359): __call__,6783222659198.452,1.218
+python_function,1171,X,534,2151687,2151690,533,enum.py(678): __new__,6783222659199.071,0.5
+python_function,1172,X,535,2151687,2151690,527,zmq/eventloop/zmqstream.py(542): sending,6783222659201.757,17.164
+python_function,1173,X,536,2151687,2151690,535,queue.py(97): empty,6783222659205.839,12.894
+python_function,1174,X,537,2151687,2151690,536,queue.py(209): _qsize,6783222659209.991,1.922
+python_function,1175,X,538,2151687,2151690,537,<built-in function len>,6783222659211.664,0.124
+python_function,1176,X,539,2151687,2151690,536,<built-in method __exit__ of _thread.lock object at 0x7f58da0209c0>,6783222659218.079,0.403
+python_function,1177,X,540,2151687,2151690,527,zmq/eventloop/zmqstream.py(686): _update_handler,6783222659221.973,23.222
+python_function,1178,X,541,2151687,2151690,540,zmq/sugar/attrsettr.py(43): __getattr__,6783222659225.169,12.443
+python_function,1179,X,542,2151687,2151690,541,<built-in method upper of str object at 0x7f58dc7267f0>,6783222659225.587,0.232
+python_function,1180,X,543,2151687,2151690,541,<built-in function getattr>,6783222659226.442,0.667
+python_function,1181,X,544,2151687,2151690,541,<frozen importlib._bootstrap>(1053): _handle_fromlist,6783222659228.497,1.941
+python_function,1182,X,545,2151687,2151690,544,<built-in function isinstance>,6783222659229.111,0.126
+python_function,1183,X,546,2151687,2151690,544,<built-in function hasattr>,6783222659229.827,0.284
+python_function,1184,X,547,2151687,2151690,541,zmq/sugar/attrsettr.py(66): _get_attr_opt,6783222659231.507,5.731
+python_function,1185,X,548,2151687,2151690,547,enum.py(359): __call__,6783222659232.809,1.433
+python_function,1186,X,549,2151687,2151690,548,enum.py(678): __new__,6783222659233.557,0.582
+python_function,1187,X,550,2151687,2151690,540,enum.py(986): __and__,6783222659239.14,5.672
+python_function,1188,X,551,2151687,2151690,550,<built-in function isinstance>,6783222659239.652,0.287
+python_function,1189,X,552,2151687,2151690,550,enum.py(359): __call__,6783222659240.688,1.301
+python_function,1190,X,553,2151687,2151690,552,enum.py(678): __new__,6783222659241.376,0.495
+python_function,1191,X,554,2151687,2151690,550,enum.py(359): __call__,6783222659242.848,1.821
+python_function,1192,X,555,2151687,2151690,554,enum.py(678): __new__,6783222659243.448,1.12
+python_function,1193,X,556,2151687,2151690,31,asyncio/base_events.py(1832): _run_once,6783222659249.581,188355.071
+python_function,1194,X,557,2151687,2151690,556,<built-in function len>,6783222659250.016,0.153
+python_function,1195,X,558,2151687,2151690,556,asyncio/base_events.py(696): time,6783222659252.344,0.782
+python_function,1196,X,559,2151687,2151690,558,<built-in function monotonic>,6783222659252.705,0.321
+python_function,1197,X,560,2151687,2151690,556,<built-in function max>,6783222659253.76,0.635
+python_function,1198,X,561,2151687,2151690,556,<built-in function min>,6783222659254.739,0.461
+python_function,1199,X,562,2151687,2151690,556,selectors.py(452): select,6783222659255.996,188242.096
+python_function,1200,X,563,2151687,2151690,562,<built-in function ceil>,6783222659256.974,0.381
+python_function,1201,X,564,2151687,2151690,562,<built-in function len>,6783222659258.105,0.161
+python_function,1202,X,565,2151687,2151690,562,<built-in function max>,6783222659258.461,0.35
+python_function,1203,X,566,2151687,2151690,562,<built-in method poll of select.epoll object at 0x7f58da18ec90>,6783222659259.43,188234.042
+python_function,1204,X,567,2151687,2151690,556,asyncio/selector_events.py(600): _process_events,6783222847509.159,2.91
+python_function,1205,X,568,2151687,2151690,556,asyncio/base_events.py(696): time,6783222847514.124,5.143
+python_function,1206,X,569,2151687,2151690,568,<built-in function monotonic>,6783222847516.548,2.534
+python_function,1207,X,570,2151687,2151690,556,<built-in function heappop>,6783222847526.293,2.148
+python_function,1208,X,571,2151687,2151690,556,<built-in method append of collections.deque object at 0x7f58da0301c0>,6783222847531.39,0.163
+python_function,1209,X,572,2151687,2151690,556,<built-in function len>,6783222847533.194,0.827
+python_function,1210,X,573,2151687,2151690,556,<built-in method popleft of collections.deque object at 0x7f58da0301c0>,6783222847537.571,0.26
+python_function,1211,X,574,2151687,2151690,556,asyncio/events.py(78): _run,6783222847540.637,63.259
+python_function,1212,X,575,2151687,2151690,574,<built-in method run of _contextvars.Context object at 0x7f574a5823c0>,6783222847546.668,56.725
+python_function,1213,X,576,2151687,2151690,575,asyncio/futures.py(309): _set_result_unless_cancelled,6783222847554.126,48.782
+python_function,1214,X,577,2151687,2151690,576,<built-in method cancelled of _asyncio.Future object at 0x7f58da216820>,6783222847568.645,0.363
+python_function,1215,X,578,2151687,2151690,576,<built-in method set_result of _asyncio.Future object at 0x7f58da216820>,6783222847576.99,25.705
+python_function,1216,X,579,2151687,2151690,578,asyncio/base_events.py(743): call_soon,6783222847582.5,19.48
+python_function,1217,X,580,2151687,2151690,579,asyncio/base_events.py(513): _check_closed,6783222847584.174,0.817
+python_function,1218,X,581,2151687,2151690,579,asyncio/base_events.py(772): _call_soon,6783222847586.978,14.517
+python_function,1219,X,582,2151687,2151690,581,asyncio/events.py(31): __init__,6783222847593.683,5.682
+python_function,1220,X,583,2151687,2151690,582,asyncio/base_events.py(1927): get_debug,6783222847597.817,0.529
+python_function,1221,X,584,2151687,2151690,581,<built-in method append of collections.deque object at 0x7f58da0301c0>,6783222847601.159,0.075
+python_function,1222,X,585,2151687,2151690,31,asyncio/base_events.py(1832): _run_once,6783222847606.973,215.25
+python_function,1223,X,586,2151687,2151690,585,<built-in function len>,6783222847607.594,0.205
+python_function,1224,X,587,2151687,2151690,585,selectors.py(452): select,6783222847610.622,14.326
+python_function,1225,X,588,2151687,2151690,587,<built-in function len>,6783222847612.786,0.412
+python_function,1226,X,589,2151687,2151690,587,<built-in function max>,6783222847613.447,2.353
+python_function,1227,X,590,2151687,2151690,587,<built-in method poll of select.epoll object at 0x7f58da18ec90>,6783222847618.005,4.894
+python_function,1228,X,591,2151687,2151690,585,asyncio/selector_events.py(600): _process_events,6783222847625.832,0.372
+python_function,1229,X,592,2151687,2151690,585,asyncio/base_events.py(696): time,6783222847626.956,2.121
+python_function,1230,X,593,2151687,2151690,592,<built-in function monotonic>,6783222847627.301,1.717
+python_function,1231,X,594,2151687,2151690,585,<built-in function len>,6783222847630.026,0.119
+python_function,1232,X,595,2151687,2151690,585,<built-in method popleft of collections.deque object at 0x7f58da0301c0>,6783222847630.843,0.154
+python_function,1233,X,596,2151687,2151690,585,asyncio/events.py(78): _run,6783222847633.134,186.717
+python_function,1234,X,597,2151687,2151690,596,<built-in method run of _contextvars.Context object at 0x7f574a5823c0>,6783222847634.475,185.02
+python_function,1235,X,598,2151687,2151690,597,ipykernel/iostream.py(121): _run_event_pipe_gc,6783222847640.091,177.276
+python_function,1236,X,599,2151687,2151690,598,asyncio/tasks.py(605): sleep,6783222847641.937,68.486
+python_function,1237,X,600,2151687,2151690,599,asyncio/events.py(148): cancel,6783222847699.012,11.16
+python_function,1238,X,601,2151687,2151690,600,asyncio/base_events.py(1827): _timer_handle_cancelled,6783222847702.417,0.587
+python_function,1239,X,602,2151687,2151690,600,asyncio/events.py(64): cancel,6783222847706.863,2.89
+python_function,1240,X,603,2151687,2151690,602,asyncio/base_events.py(1927): get_debug,6783222847708.692,0.291
+python_function,1241,X,604,2151687,2151690,598,ipykernel/iostream.py(127): _event_pipe_gc,6783222847717.999,39.703
+python_function,1242,X,605,2151687,2151690,604,<built-in method items of dict object at 0x7f57488cb340>,6783222847724.633,0.336
+python_function,1243,X,606,2151687,2151690,604,threading.py(1169): is_alive,6783222847731.318,11.21
+python_function,1244,X,607,2151687,2151690,606,threading.py(553): is_set,6783222847734.628,0.592
+python_function,1245,X,608,2151687,2151690,606,threading.py(1102): _wait_for_tstate_lock,6783222847736.797,5.181
+python_function,1246,X,609,2151687,2151690,608,<built-in method acquire of _thread.lock object at 0x7f58da0211c0>,6783222847738.991,2.729
+python_function,1247,X,610,2151687,2151690,604,threading.py(1169): is_alive,6783222847744.548,4.995
+python_function,1248,X,611,2151687,2151690,610,threading.py(553): is_set,6783222847746.244,0.427
+python_function,1249,X,612,2151687,2151690,610,threading.py(1102): _wait_for_tstate_lock,6783222847747.664,1.611
+python_function,1250,X,613,2151687,2151690,612,<built-in method acquire of _thread.lock object at 0x7f58da0211c0>,6783222847748.587,0.488
+python_function,1251,X,614,2151687,2151690,604,threading.py(1169): is_alive,6783222847750.814,3.201
+python_function,1252,X,615,2151687,2151690,614,threading.py(553): is_set,6783222847751.997,0.342
+python_function,1253,X,616,2151687,2151690,614,threading.py(1102): _wait_for_tstate_lock,6783222847752.809,0.946
+python_function,1254,X,617,2151687,2151690,616,<built-in method acquire of _thread.lock object at 0x7f58da0211c0>,6783222847753.293,0.357
+python_function,1255,X,618,2151687,2151690,604,<built-in method __exit__ of _thread.lock object at 0x7f58da0209c0>,6783222847756.91,0.541
+python_function,1256,X,619,2151687,2151690,598,asyncio/tasks.py(593): sleep,6783222847761.708,55.527
+python_function,1257,X,620,2151687,2151690,619,<built-in function get_running_loop>,6783222847766.569,2.372
+python_function,1258,X,621,2151687,2151690,619,asyncio/base_events.py(427): create_future,6783222847771.061,8.847
+python_function,1259,X,622,2151687,2151690,621,asyncio/base_events.py(1927): get_debug,6783222847778.964,0.245
+python_function,1260,X,623,2151687,2151690,619,asyncio/base_events.py(705): call_later,6783222847783.23,32.218
+python_function,1261,X,624,2151687,2151690,623,asyncio/base_events.py(696): time,6783222847784.485,2.223
+python_function,1262,X,625,2151687,2151690,624,<built-in function monotonic>,6783222847784.922,1.637
+python_function,1263,X,626,2151687,2151690,623,asyncio/base_events.py(727): call_at,6783222847790.064,24.286
+python_function,1264,X,627,2151687,2151690,626,asyncio/base_events.py(513): _check_closed,6783222847790.982,0.396
+python_function,1265,X,628,2151687,2151690,626,asyncio/events.py(103): __init__,6783222847794.08,12.66
+python_function,1266,X,629,2151687,2151690,628,asyncio/events.py(31): __init__,6783222847795.894,10.059
+python_function,1267,X,630,2151687,2151690,629,<built-in function copy_context>,6783222847802.538,0.979
+python_function,1268,X,631,2151687,2151690,629,asyncio/base_events.py(1927): get_debug,6783222847805.214,0.248
+python_function,1269,X,632,2151687,2151690,626,<built-in function heappush>,6783222847813.339,0.647
+python_function,1270,X,633,2151687,2151690,31,asyncio/base_events.py(1832): _run_once,6783222847823.263,18771.014
+python_function,1271,X,634,2151687,2151690,633,<built-in function len>,6783222847825.121,0.142
+python_function,1272,X,635,2151687,2151690,633,asyncio/base_events.py(696): time,6783222847827.251,0.617
+python_function,1273,X,636,2151687,2151690,635,<built-in function monotonic>,6783222847827.645,0.146
+python_function,1274,X,637,2151687,2151690,633,<built-in function max>,6783222847828.914,3.298
+python_function,1275,X,638,2151687,2151690,633,<built-in function min>,6783222847832.883,2.17
+python_function,1276,X,639,2151687,2151690,633,selectors.py(452): select,6783222847836.732,18757.545
+python_function,1277,X,640,2151687,2151690,639,<built-in function ceil>,6783222847838.464,2.086
+python_function,1278,X,641,2151687,2151690,639,<built-in function len>,6783222847841.802,0.14
+python_function,1279,X,642,2151687,2151690,639,<built-in function max>,6783222847842.174,0.33
+python_function,1280,X,643,2151687,2151690,639,<built-in method poll of select.epoll object at 0x7f58da18ec90>,6783222847843.101,18751.176
+python_function,1281,X,644,2151687,2151687,57,torch/profiler/profiler.py(766): step,6783222865174.58,1419.697
+python_function,1282,X,645,2151687,2151687,644,torch/autograd/profiler.py(738): __exit__,6783222865180.428,266.444
+python_function,1283,X,646,2151687,2151687,645,torch/_jit_internal.py(103): is_scripting,6783222865189.044,0.871
+python_function,1284,X,647,2151687,2151687,645,torch/_ops.py(939): __call__,6783222865211.863,216.727
+python_function,1285,X,648,2151687,2151687,647,torch/_ops.py(993): _must_dispatch_in_python,6783222865214.954,137.647
+python_function,1286,X,649,2151687,2151687,648,torch/utils/_pytree.py(1197): tree_any,6783222865221.004,129.994
+python_function,1287,X,650,2151687,2151687,649,<built-in function any>,6783222865236.616,113.826
+python_function,1288,X,651,2151687,2151687,650,torch/utils/_pytree.py(890): tree_iter,6783222865238.46,55.805
+python_function,1289,X,652,2151687,2151687,651,torch/utils/_pytree.py(672): _is_leaf,6783222865241.917,15.702
+python_function,1290,X,653,2151687,2151687,652,torch/utils/_pytree.py(665): _get_node_type,6783222865244.654,11.046
+python_function,1291,X,654,2151687,2151687,653,torch/utils/_pytree.py(654): _is_namedtuple_instance,6783222865247.486,7.287
+python_function,1292,X,655,2151687,2151687,654,<built-in function len>,6783222865251.17,0.942
+python_function,1293,X,656,2151687,2151687,651,torch/utils/_pytree.py(665): _get_node_type,6783222865259.217,2.938
+python_function,1294,X,657,2151687,2151687,656,torch/utils/_pytree.py(654): _is_namedtuple_instance,6783222865260.049,1.74
+python_function,1295,X,658,2151687,2151687,657,<built-in function len>,6783222865260.921,0.186
+python_function,1296,X,659,2151687,2151687,651,torch/utils/_pytree.py(411): _tuple_flatten,6783222865266.56,2.521
+python_function,1297,X,660,2151687,2151687,651,torch/utils/_pytree.py(890): tree_iter,6783222865274.093,19.926
+python_function,1298,X,661,2151687,2151687,660,torch/utils/_pytree.py(672): _is_leaf,6783222865275.166,3.714
+python_function,1299,X,662,2151687,2151687,661,torch/utils/_pytree.py(665): _get_node_type,6783222865275.988,2.486
+python_function,1300,X,663,2151687,2151687,662,torch/utils/_pytree.py(654): _is_namedtuple_instance,6783222865276.769,1.373
+python_function,1301,X,664,2151687,2151687,663,<built-in function len>,6783222865277.401,0.114
+python_function,1302,X,665,2151687,2151687,660,torch/utils/_pytree.py(665): _get_node_type,6783222865279.721,1.899
+python_function,1303,X,666,2151687,2151687,665,torch/utils/_pytree.py(654): _is_namedtuple_instance,6783222865280.322,1.018
+python_function,1304,X,667,2151687,2151687,666,<built-in function len>,6783222865280.873,0.115
+python_function,1305,X,668,2151687,2151687,660,torch/utils/_pytree.py(411): _tuple_flatten,6783222865282.778,0.711
+python_function,1306,X,669,2151687,2151687,660,torch/utils/_pytree.py(890): tree_iter,6783222865285.028,8.601
+python_function,1307,X,670,2151687,2151687,669,torch/utils/_pytree.py(672): _is_leaf,6783222865285.731,7.332
+python_function,1308,X,671,2151687,2151687,670,torch/utils/_pytree.py(665): _get_node_type,6783222865286.557,5.963
+python_function,1309,X,672,2151687,2151687,671,torch/utils/_pytree.py(654): _is_namedtuple_instance,6783222865287.154,5.057
+python_function,1310,X,673,2151687,2151687,672,<built-in function len>,6783222865291.324,0.124
+python_function,1311,X,674,2151687,2151687,650,torch/_ops.py(995): <lambda>,6783222865295.949,8.37
+python_function,1312,X,675,2151687,2151687,674,<built-in function isinstance>,6783222865301.923,2.054
+python_function,1313,X,676,2151687,2151687,650,torch/utils/_pytree.py(904): tree_iter,6783222865305.957,42.706
+python_function,1314,X,677,2151687,2151687,676,torch/utils/_pytree.py(904): tree_iter,6783222865307.261,3.288
+python_function,1315,X,678,2151687,2151687,677,torch/utils/_pytree.py(896): tree_iter,6783222865308.267,0.357
+python_function,1316,X,679,2151687,2151687,676,torch/utils/_pytree.py(890): tree_iter,6783222865312.919,34.621
+python_function,1317,X,680,2151687,2151687,679,torch/utils/_pytree.py(672): _is_leaf,6783222865313.56,3.73
+python_function,1318,X,681,2151687,2151687,680,torch/utils/_pytree.py(665): _get_node_type,6783222865314.171,2.733
+python_function,1319,X,682,2151687,2151687,681,torch/utils/_pytree.py(654): _is_namedtuple_instance,6783222865314.598,1.845
+python_function,1320,X,683,2151687,2151687,682,<built-in function len>,6783222865315.596,0.205
+python_function,1321,X,684,2151687,2151687,679,torch/utils/_pytree.py(665): _get_node_type,6783222865317.901,1.853
+python_function,1322,X,685,2151687,2151687,684,torch/utils/_pytree.py(654): _is_namedtuple_instance,6783222865318.472,1.007
+python_function,1323,X,686,2151687,2151687,685,<built-in function len>,6783222865318.973,0.116
+python_function,1324,X,687,2151687,2151687,679,torch/utils/_pytree.py(439): _dict_flatten,6783222865322.071,24.611
+python_function,1325,X,688,2151687,2151687,687,<built-in method values of dict object at 0x7f57488cbb40>,6783222865334.143,0.948
+python_function,1326,X,689,2151687,2151687,687,<built-in method keys of dict object at 0x7f57488cbb40>,6783222865344.447,0.322
+python_function,1327,X,690,2151687,2151687,647,<built-in method  of PyCapsule object at 0x7f574a317c30>,6783222865360.255,67.764
+python_function,1328,X,691,2151687,2151687,645,<built-in method __exit__ of torch._C.DisableTorchFunctionSubclass object at 0x7f57486508f0>,6783222865445.069,0.987
+python_function,1329,X,692,2151687,2151687,644,torch/profiler/profiler.py(420): schedule_fn,6783222865454.816,10.821
+python_function,1330,X,693,2151687,2151687,644,torch/profiler/profiler.py(789): _transit_action,6783222865469.346,1124.931
+python_function,1331,X,694,2151687,2151687,693,<built-in method get of dict object at 0x7f58dc844500>,6783222865472.057,12.665
+python_function,1332,X,695,2151687,2151687,694,enum.py(783): __hash__,6783222865474.943,5.353
+python_function,1333,X,696,2151687,2151687,695,<built-in function hash>,6783222865479.003,1.012
+python_function,1334,X,697,2151687,2151687,694,enum.py(783): __hash__,6783222865481.533,1.759
+python_function,1335,X,698,2151687,2151687,697,<built-in function hash>,6783222865482.757,0.341
+python_function,1336,X,699,2151687,2151687,693,torch/profiler/profiler.py(208): stop_trace,6783222865488.048,1106.229
+python_function,1337,X,700,2151687,2151687,699,torch/autograd/profiler.py(344): __exit__,6783222865491.954,1102.323
+python_function,1338,X,701,2151687,2151687,700,<built-in function hasattr>,6783222865495.947,1.344
+python_function,1339,X,702,2151687,2151687,700,<built-in function getattr>,6783222865498.699,0.697
+python_function,1340,X,703,2151687,2151687,700,<built-in function hasattr>,6783222865500.489,1.011
+python_function,1341,X,704,2151687,2151687,700,torch/cuda/__init__.py(944): synchronize,6783222865503.992,1090.285
+python_function,1342,X,705,2151687,2151687,704,torch/cuda/__init__.py(289): _lazy_init,6783222865507.108,10.68
+python_function,1343,X,706,2151687,2151687,705,torch/cuda/__init__.py(242): is_initialized,6783222865509.714,7.428
+python_function,1344,X,707,2151687,2151687,706,<built-in function _cuda_isInBadFork>,6783222865514.747,1.818
+python_function,1345,X,708,2151687,2151687,704,torch/cuda/__init__.py(439): __init__,6783222865522.806,447.974
+python_function,1346,X,709,2151687,2151687,708,torch/cuda/_utils.py(9): _get_device_index,6783222865525.556,442.707
+python_function,1347,X,710,2151687,2151687,709,<built-in function isinstance>,6783222865527.526,0.973
+python_function,1348,X,711,2151687,2151687,709,<built-in function isinstance>,6783222865530.479,0.179
+python_function,1349,X,712,2151687,2151687,709,<built-in function isinstance>,6783222865533.25,0.181
+python_function,1350,X,713,2151687,2151687,709,torch/_jit_internal.py(103): is_scripting,6783222865536.181,0.342
+python_function,1351,X,714,2151687,2151687,709,<built-in function isinstance>,6783222865538.507,0.15
+python_function,1352,X,715,2151687,2151687,709,torch/_utils.py(773): _get_device_index,6783222865540.848,426.549
+python_function,1353,X,716,2151687,2151687,715,<built-in function isinstance>,6783222865585.508,0.366
+python_function,1354,X,717,2151687,2151687,715,<built-in function isinstance>,6783222865587.733,0.155
+python_function,1355,X,718,2151687,2151687,715,<built-in function isinstance>,6783222865589.055,0.151
+python_function,1356,X,719,2151687,2151687,715,torch/_jit_internal.py(103): is_scripting,6783222865591.502,0.249
+python_function,1357,X,720,2151687,2151687,715,torch/_utils.py(747): _get_current_device_index,6783222865594.192,372.523
+python_function,1358,X,721,2151687,2151687,720,torch/_utils.py(733): _get_device_attr,6783222865597.685,368.344
+python_function,1359,X,722,2151687,2151687,721,torch/_utils.py(718): _get_available_device_type,6783222865600.407,308.197
+python_function,1360,X,723,2151687,2151687,722,torch/cuda/__init__.py(116): is_available,6783222865603.44,304.393
+python_function,1361,X,724,2151687,2151687,723,torch/cuda/__init__.py(107): _is_compiled,6783222865861.503,3.639
+python_function,1362,X,725,2151687,2151687,724,<built-in function hasattr>,6783222865863.739,1.162
+python_function,1363,X,726,2151687,2151687,723,torch/cuda/__init__.py(112): _nvml_based_avail,6783222865867.031,32.793
+python_function,1364,X,727,2151687,2151687,726,os.py(772): getenv,6783222865870.665,28.091
+python_function,1365,X,728,2151687,2151687,727,_collections_abc.py(821): get,6783222865875.286,23.129
+python_function,1366,X,729,2151687,2151687,728,os.py(675): __getitem__,6783222865877.922,16.148
+python_function,1367,X,730,2151687,2151687,729,os.py(755): encode,6783222865881.366,4.274
+python_function,1368,X,731,2151687,2151687,730,<built-in function isinstance>,6783222865882.182,0.226
+python_function,1369,X,732,2151687,2151687,730,<built-in method encode of str object at 0x7f58cc018810>,6783222865884.207,1.152
+python_function,1370,X,733,2151687,2151687,723,<built-in function _cuda_getDeviceCount>,6783222865905.521,1.925
+python_function,1371,X,734,2151687,2151687,721,<built-in method lower of str object at 0x7f58db081770>,6783222865915.1,0.951
+python_function,1372,X,735,2151687,2151687,721,torch/_utils.py(749): <lambda>,6783222865918.909,46.539
+python_function,1373,X,736,2151687,2151687,735,torch/cuda/__init__.py(938): current_device,6783222865921.064,44.008
+python_function,1374,X,737,2151687,2151687,736,torch/cuda/__init__.py(289): _lazy_init,6783222865923.113,3.508
+python_function,1375,X,738,2151687,2151687,737,torch/cuda/__init__.py(242): is_initialized,6783222865924.21,1.911
+python_function,1376,X,739,2151687,2151687,738,<built-in function _cuda_isInBadFork>,6783222865925.172,0.648
+python_function,1377,X,740,2151687,2151687,736,<built-in function _cuda_getDevice>,6783222865941.101,23.69
+python_function,1378,X,741,2151687,2151687,704,torch/cuda/__init__.py(443): __enter__,6783222865974.157,11.217
+python_function,1379,X,742,2151687,2151687,741,<built-in function _cuda_exchangeDevice>,6783222865978.723,5.979
+python_function,1380,X,743,2151687,2151687,704,<built-in function _cuda_synchronize>,6783222865989.775,566.566
+python_function,1381,X,744,2151687,2151687,704,torch/cuda/__init__.py(446): __exit__,6783222866558.586,35.691
+python_function,1382,X,745,2151687,2151687,744,<built-in function _cuda_maybeExchangeDevice>,6783222866563.068,3.988
+python_function,1383,X,746,2151687,2151687,744,<built-in function perf_counter_ns>,6783222866574.023,1.549
+python_function,1384,X,747,2151687,2151687,744,<built-in method _disable_profiler of PyCapsule object at 0x7f5759575dd0>,6783222866580.553,13.724
