@@ -1,0 +1,3 @@
+ts,memory bandwidth (GB/s),tid,pid,dur,context,stream,cat,ph,name,device,bytes,correlation,External id
+6935384533794.916,19.175455417066157,7,0,1.568,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,60000,762,1074
+6935384534012.868,138.9467833819647,7,0,216.416,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,60000000,814,1094

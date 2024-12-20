@@ -1,2 +1,2 @@
-External id,cat,Ev Idx,ph,pid,tid,Record function id,name,ts,dur
-513,user_annotation,630,X,2151687,2151687,0,ProfilerStep#0,6783222847823.264,17589.073
+ts,tid,pid,Ev Idx,dur,cat,ph,name,Record function id,External id
+6928969471087.591,4097061,4097061,630,281.387,user_annotation,X,ProfilerStep#0,0,513

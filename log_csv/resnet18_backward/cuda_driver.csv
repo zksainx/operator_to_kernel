@@ -1,2 +1,2 @@
-External id,cat,ph,pid,correlation,tid,cbid,name,ts,dur
-1034,cuda_driver,X,2151687,4155,2151894,307,cuLaunchKernel,6783222604819.612,19.094
+ts,tid,pid,cbid,dur,cat,ph,name,correlation,External id
+6928969328818.988,4097251,4097061,307,19.529,cuda_driver,X,cuLaunchKernel,4155,1034

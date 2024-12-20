@@ -1,0 +1,2 @@
+ts,memory bandwidth (GB/s),tid,pid,dur,context,stream,cat,ph,name,device,bytes,correlation,External id
+6935384540567.33,2.053475935828877,30,0,3.937,1,30,gpu_memset,X,Memset (Device),0,16128,900,1097

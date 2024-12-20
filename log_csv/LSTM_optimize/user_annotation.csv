@@ -1,0 +1,4 @@
+ts,tid,pid,Ev Idx,dur,cat,ph,name,Record function id,External id
+6935384879716.995,30902,30902,441,29.346,user_annotation,X,ProfilerStep#0,0,1537
+6935384736105.328,30902,30902,442,187.506,user_annotation,X,Optimizer.zero_grad#SGD.zero_grad,0,1538
+6935384745549.298,30902,30902,447,134154.95,user_annotation,X,Optimizer.step#SGD.step,0,1543

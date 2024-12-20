@@ -1,2 +1,2 @@
-External id,cat,ph,pid,tid,name,ts,dur
-1,gpu_user_annotation,X,0,7,ProfilerStep#2,6083647120702.856,7682.356
+ts,tid,pid,dur,cat,ph,name,External id
+6083647120702.856,7,0,7682.356,gpu_user_annotation,X,ProfilerStep#2,1

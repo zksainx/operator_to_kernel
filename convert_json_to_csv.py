@@ -13,7 +13,7 @@ def convert_json_to_csv(output_directory, log_directory):
 
     # 遍历每个 JSON 文件
     for json_file_name in json_files:
-        print(f"正在处理文件 {json_file_name}...")
+        #print(f"正在处理文件 {json_file_name}...")
         # 读取 JSON 文件
         json_file_path = os.path.join(log_directory, json_file_name)
         with open(json_file_path, 'r') as json_file:
@@ -65,6 +65,6 @@ def convert_json_to_csv(output_directory, log_directory):
                     row = [json.dumps(event.get(h, '')) if isinstance(event.get(h, ''), (dict, list)) else event.get(h, '') for h in header]
                     csv_writer.writerow(row)
         
-        print(f"文件 {json_file_name} 已成功转化为 {output_sub_dir} 目录下的csv")
+        #print(f"文件 {json_file_name} 已成功转化为 {output_sub_dir} 目录下的csv")
 
     print("所有文件转换完成。")

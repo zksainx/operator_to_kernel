@@ -1,14 +1,14 @@
-External id,cat,memory bandwidth (GB/s),ph,pid,correlation,device,bytes,tid,context,stream,name,ts,dur
-23,gpu_memcpy,138.83695240977528,X,0,96,0,12845056,7,1,7,Memcpy DtoD (Device -> Device),6083647120860.841,46.368
-48,gpu_memcpy,140.4844587352626,X,0,207,0,12845056,7,1,7,Memcpy DtoD (Device -> Device),6083647121219.241,45.824
-75,gpu_memcpy,138.16939526278424,X,0,338,0,6422528,7,1,7,Memcpy DtoD (Device -> Device),6083647121481.768,23.296
-100,gpu_memcpy,137.982383018949,X,0,453,0,6422528,7,1,7,Memcpy DtoD (Device -> Device),6083647121711.144,23.327
-127,gpu_memcpy,183.55324378393826,X,0,584,0,3211264,7,1,7,Memcpy DtoD (Device -> Device),6083647121871.176,8.768
-152,gpu_memcpy,190.51162790697674,X,0,701,0,3211264,7,1,7,Memcpy DtoD (Device -> Device),6083647122017.383,8.448
-177,gpu_memcpy,191.2263443101292,X,0,818,0,3211264,7,1,7,Memcpy DtoD (Device -> Device),6083647122167.367,8.416
-204,gpu_memcpy,326.54708155379296,X,0,953,0,1605632,7,1,7,Memcpy DtoD (Device -> Device),6083647122289.159,2.464
-229,gpu_memcpy,322.35133507327845,X,0,1073,0,1605632,7,1,7,Memcpy DtoD (Device -> Device),6083647122453.062,2.497
-254,gpu_memcpy,314.3367267032107,X,0,1193,0,1605632,7,1,7,Memcpy DtoD (Device -> Device),6083647122616.646,2.56
-281,gpu_memcpy,98.23984336759668,X,0,1329,0,401408,7,1,7,Memcpy DtoD (Device -> Device),6083647127320.958,2.047
-306,gpu_memcpy,118.6193853427896,X,0,1450,0,401408,7,1,7,Memcpy DtoD (Device -> Device),6083647127425.117,1.696
-331,gpu_memcpy,120.90602409638554,X,0,1571,0,401408,7,1,7,Memcpy DtoD (Device -> Device),6083647127528.477,1.664
+ts,memory bandwidth (GB/s),tid,pid,dur,context,stream,cat,ph,name,device,bytes,correlation,External id
+6083647120860.841,138.83695240977528,7,0,46.368,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,12845056,96,23
+6083647121219.241,140.4844587352626,7,0,45.824,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,12845056,207,48
+6083647121481.768,138.16939526278424,7,0,23.296,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,6422528,338,75
+6083647121711.144,137.982383018949,7,0,23.327,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,6422528,453,100
+6083647121871.176,183.55324378393826,7,0,8.768,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,3211264,584,127
+6083647122017.383,190.51162790697674,7,0,8.448,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,3211264,701,152
+6083647122167.367,191.2263443101292,7,0,8.416,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,3211264,818,177
+6083647122289.159,326.54708155379296,7,0,2.464,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,1605632,953,204
+6083647122453.062,322.35133507327845,7,0,2.497,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,1605632,1073,229
+6083647122616.646,314.3367267032107,7,0,2.56,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,1605632,1193,254
+6083647127320.958,98.23984336759668,7,0,2.047,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,401408,1329,281
+6083647127425.117,118.6193853427896,7,0,1.696,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,401408,1450,306
+6083647127528.477,120.90602409638554,7,0,1.664,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,401408,1571,331

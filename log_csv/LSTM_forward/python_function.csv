@@ -1,0 +1,403 @@
+ts,tid,pid,Python id,dur,Ev Idx,cat,ph,name,Python module id,Python parent id
+6935384392377.635,0,0,1,58810.025,48,python_function,X,threading.py(973): _bootstrap,,
+6935384392378.814,0,0,2,58808.846,49,python_function,X,threading.py(1016): _bootstrap_inner,,1
+6935384392385.984,0,0,3,58801.676,50,python_function,X,decorator.py(232): fun,,2
+6935384392388.344,0,0,4,58799.316,51,python_function,X,IPython/core/history.py(61): only_when_enabled,,3
+6935384392392.429,0,0,5,58795.231,52,python_function,X,IPython/core/history.py(903): run,,4
+6935384392393.776,0,0,6,58793.884,53,python_function,X,threading.py(607): wait,,5
+6935384392394.986,0,0,7,58792.674,54,python_function,X,threading.py(320): wait,,6
+6935384392400.235,0,0,8,58787.425,55,python_function,X,threading.py(973): _bootstrap,,7
+6935384392400.76,0,0,9,58786.9,56,python_function,X,threading.py(1016): _bootstrap_inner,,8
+6935384392407.39,0,0,10,58780.27,57,python_function,X,ipykernel/control.py(23): run,,9
+6935384392413.977,0,0,11,58773.683,58,python_function,X,tornado/platform/asyncio.py(205): start,,10
+6935384392422.581,0,0,12,58765.079,59,python_function,X,asyncio/base_events.py(603): run_forever,,11
+6935384392423.553,0,0,13,58764.107,60,python_function,X,asyncio/base_events.py(1871): _run_once,,12
+6935384392426.203,0,0,14,58761.457,61,python_function,X,selectors.py(469): select,,13
+6935384392429.395,0,0,15,58758.265,62,python_function,X,threading.py(973): _bootstrap,,14
+6935384392429.693,0,0,16,58757.967,63,python_function,X,threading.py(1016): _bootstrap_inner,,15
+6935384392430.749,0,0,17,58756.911,64,python_function,X,threading.py(953): run,,16
+6935384392432.228,0,0,18,58755.432,65,python_function,X,ipykernel/iostream.py(387): _watch_pipe_fd,,17
+6935384392437.286,0,0,19,58750.374,66,python_function,X,threading.py(973): _bootstrap,,18
+6935384392438.702,0,0,20,58748.958,67,python_function,X,threading.py(1016): _bootstrap_inner,,19
+6935384392439.991,0,0,21,58747.669,68,python_function,X,threading.py(953): run,,20
+6935384392440.259,0,0,22,58747.401,69,python_function,X,ipykernel/iostream.py(387): _watch_pipe_fd,,21
+6935384392444.56,0,0,23,58743.1,70,python_function,X,threading.py(973): _bootstrap,,22
+6935384392444.766,0,0,24,58742.894,71,python_function,X,threading.py(1016): _bootstrap_inner,,23
+6935384392446.623,0,0,25,58741.037,72,python_function,X,ipykernel/heartbeat.py(106): run,,24
+6935384392452.495,0,0,26,58735.165,73,python_function,X,threading.py(973): _bootstrap,,25
+6935384392452.738,0,0,27,58734.922,74,python_function,X,threading.py(1016): _bootstrap_inner,,26
+6935384392453.905,0,0,28,58733.755,75,python_function,X,threading.py(953): run,,27
+6935384392454.435,0,0,29,58733.225,76,python_function,X,ipykernel/iostream.py(92): _thread_main,,28
+6935384392457.563,0,0,30,58730.097,77,python_function,X,tornado/platform/asyncio.py(205): start,,29
+6935384392457.975,0,0,31,58729.685,78,python_function,X,asyncio/base_events.py(603): run_forever,,30
+6935384392458.483,0,0,32,58729.177,79,python_function,X,asyncio/base_events.py(1871): _run_once,,31
+6935384392458.991,0,0,33,58728.669,80,python_function,X,selectors.py(469): select,,32
+6935384392475.133,30902,30902,34,58712.527,81,python_function,X,runpy.py(196): _run_module_as_main,,
+6935384392477.657,30902,30902,35,58710.003,82,python_function,X,runpy.py(86): _run_code,,34
+6935384392480.5,30902,30902,36,58707.16,83,python_function,X,ipykernel_launcher.py(18): <module>,,35
+6935384392490.399,30902,30902,37,58697.261,84,python_function,X,traitlets/config/application.py(1075): launch_instance,,36
+6935384392493.477,30902,30902,38,58694.183,85,python_function,X,ipykernel/kernelapp.py(739): start,,37
+6935384392493.787,30902,30902,39,58693.873,86,python_function,X,tornado/platform/asyncio.py(205): start,,38
+6935384392494.296,30902,30902,40,58693.364,87,python_function,X,asyncio/base_events.py(603): run_forever,,39
+6935384392495.017,30902,30902,41,58692.643,88,python_function,X,asyncio/base_events.py(1909): _run_once,,40
+6935384392499.346,30902,30902,42,58688.314,89,python_function,X,asyncio/events.py(80): _run,,41
+6935384392500.412,30902,30902,43,58687.248,90,python_function,X,ipykernel/kernelbase.py(545): dispatch_queue,,42
+6935384392501.208,30902,30902,44,58686.452,91,python_function,X,ipykernel/kernelbase.py(534): process_one,,43
+6935384392502.331,30902,30902,45,58685.329,92,python_function,X,ipykernel/kernelbase.py(437): dispatch_shell,,44
+6935384392503.545,30902,30902,46,58684.115,93,python_function,X,ipykernel/ipkernel.py(362): execute_request,,45
+6935384392504.406,30902,30902,47,58683.254,94,python_function,X,ipykernel/kernelbase.py(778): execute_request,,46
+6935384392508.653,30902,30902,48,58679.007,95,python_function,X,ipykernel/ipkernel.py(449): do_execute,,47
+6935384392510.271,30902,30902,49,58677.389,96,python_function,X,ipykernel/zmqshell.py(549): run_cell,,48
+6935384392514.338,30902,30902,50,58673.322,97,python_function,X,IPython/core/interactiveshell.py(3075): run_cell,,49
+6935384392515.246,30902,30902,51,58672.414,98,python_function,X,IPython/core/interactiveshell.py(3130): _run_cell,,50
+6935384392526.02,30902,30902,52,58661.64,99,python_function,X,IPython/core/async_helpers.py(128): _pseudo_sync_runner,,51
+6935384392527.386,30902,30902,53,58660.274,100,python_function,X,IPython/core/interactiveshell.py(3334): run_cell_async,,52
+6935384392528.838,30902,30902,54,58658.822,101,python_function,X,IPython/core/interactiveshell.py(3517): run_ast_nodes,,53
+6935384392529.918,30902,30902,55,58657.742,102,python_function,X,IPython/core/interactiveshell.py(3577): run_code,,54
+6935384392530.634,30902,30902,56,58657.026,103,python_function,X,/tmp/ipykernel_30902/1201916040.py(17): <module>,,55
+6935384392531.701,30902,30902,57,58655.959,104,python_function,X,pytorch_tracing.py(28): py_tracing_forward,,56
+6935384392532.466,30902,30902,58,476.531,105,python_function,X,torch/profiler/profiler.py(776): step,,57
+6935384392533.507,30902,30902,59,218.266,106,python_function,X,torch/profiler/profiler.py(793): _transit_action,,58
+6935384392534.322,30902,30902,60,216.6,107,python_function,X,torch/profiler/profiler.py(174): start_trace,,59
+6935384392536.523,30902,30902,61,44.611,108,python_function,X,torch/autograd/profiler.py(339): _start_trace,,60
+6935384392571.329,30902,30902,62,0.935,109,python_function,X,<built-in function perf_counter_ns>,,61
+6935384392591.355,30902,30902,63,20.034,110,python_function,X,torch/profiler/profiler.py(304): add_metadata_json,,60
+6935384392605.244,30902,30902,64,5.869,111,python_function,X,<built-in method _add_metadata_json of PyCapsule object at 0x7f89c8330870>,,63
+6935384392612.458,30902,30902,65,1.326,112,python_function,X,torch/profiler/profiler.py(304): add_metadata_json,,60
+6935384392613.041,30902,30902,66,0.648,113,python_function,X,<built-in method _add_metadata_json of PyCapsule object at 0x7f89c8330870>,,65
+6935384392618.212,30902,30902,67,0.865,114,python_function,X,<built-in method kineto_available of PyCapsule object at 0x7f89c83308d0>,,60
+6935384392621.031,30902,30902,68,69.659,115,python_function,X,torch/profiler/profiler.py(319): _get_distributed_info,,60
+6935384392638.53,30902,30902,69,7.543,116,python_function,X,torch/distributed/__init__.py(14): is_available,,68
+6935384392642.303,30902,30902,70,3.709,117,python_function,X,<built-in function hasattr>,,69
+6935384392659.701,30902,30902,71,30.677,118,python_function,X,torch/distributed/distributed_c10d.py(1121): is_initialized,,68
+6935384392676.952,30902,30902,72,13.219,119,python_function,X,torch/distributed/distributed_c10d.py(705): WORLD,,71
+6935384392683.645,30902,30902,73,6.388,120,python_function,X,torch/distributed/distributed_c10d.py(576): default_pg,,72
+6935384392693.053,30902,30902,74,1.411,121,python_function,X,<built-in function hasattr>,,60
+6935384392728.345,30902,30902,75,14.569,122,python_function,X,torch/utils/_config_module.py(379): __getattr__,,60
+6935384392736.428,30902,30902,76,5.89,123,python_function,X,torch/utils/_config_module.py(148): __getattr__,,75
+6935384392748.394,30902,30902,77,0.533,124,python_function,X,<built-in method items of dict object at 0x7f880d26e000>,,60
+6935384392778.124,30902,30902,78,25.187,125,python_function,X,torch/autograd/profiler.py(1141): increment_step,,58
+6935384392787.12,30902,30902,79,0.365,126,python_function,X,<built-in method values of collections.defaultdict object at 0x7f89c8347ce0>,,78
+6935384392789.182,30902,30902,80,1.504,127,python_function,X,<built-in function max>,,78
+6935384392798.19,30902,30902,81,3.507,128,python_function,X,<built-in method _kineto_step of PyCapsule object at 0x7f89c83308a0>,,78
+6935384392808.57,30902,30902,82,17.228,129,python_function,X,torch/autograd/profiler.py(721): __init__,,58
+6935384392816.504,30902,30902,83,4.429,130,python_function,X,typing.py(306): inner,,82
+6935384392824.595,30902,30902,84,0.56,131,python_function,X,torch/jit/__init__.py(128): annotate,,82
+6935384392835.087,30902,30902,85,173.502,132,python_function,X,torch/autograd/profiler.py(732): __enter__,,58
+6935384392842.491,30902,30902,86,165.253,133,python_function,X,torch/_ops.py(1105): __call__,,85
+6935384392848.615,30902,30902,87,158.883,134,python_function,X,<built-in method _record_function_enter_new of PyCapsule object at 0x7f88f07ba430>,,86
+6935384393024.972,30902,30902,88,8978.627,135,python_function,X,nn.Module: SimpleLSTM_0,0,57
+6935384393029.462,30902,30902,89,8972.416,136,python_function,X,torch/nn/modules/module.py(1740): _call_impl,,88
+6935384393035.803,30902,30902,90,3.326,137,python_function,X,<built-in method _get_tracing_state of PyCapsule object at 0x7f8a4fbe3300>,,89
+6935384393044.749,30902,30902,91,8947.074,138,python_function,X,LSTM.py(13): forward,,89
+6935384393051.247,30902,30902,92,8.255,139,python_function,X,<built-in method size of Tensor object at 0x7f880ebdf3d0>,,91
+6935384393061.893,30902,30902,93,555.707,140,python_function,X,<built-in method zeros of type object at 0x7f8a4f65f1c0>,,91
+6935384393622.387,30902,30902,94,3161.407,141,python_function,X,<built-in method cuda of Tensor object at 0x7f880d271df0>,,91
+6935384396801.639,30902,30902,95,6.759,142,python_function,X,<built-in method size of Tensor object at 0x7f880ebdf3d0>,,91
+6935384396809.571,30902,30902,96,202.886,143,python_function,X,<built-in method zeros of type object at 0x7f8a4f65f1c0>,,91
+6935384397015.71,30902,30902,97,232.157,144,python_function,X,<built-in method cuda of Tensor object at 0x7f880d271df0>,,91
+6935384397264.321,30902,30902,98,7.657,145,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,91
+6935384397398.717,30902,30902,99,3931.784,146,python_function,X,nn.Module: LSTM_0,0,91
+6935384397403.952,30902,30902,100,3924.489,147,python_function,X,torch/nn/modules/module.py(1740): _call_impl,,99
+6935384397407.225,30902,30902,101,4.618,148,python_function,X,<built-in method _get_tracing_state of PyCapsule object at 0x7f8a4fbe3300>,,100
+6935384397420.479,30902,30902,102,3906.383,149,python_function,X,torch/nn/modules/rnn.py(1040): forward,,100
+6935384397423.532,30902,30902,103,210.966,150,python_function,X,torch/nn/modules/rnn.py(387): _update_flat_weights,,102
+6935384397431.929,30902,30902,104,0.566,151,python_function,X,torch/_jit_internal.py(103): is_scripting,,103
+6935384397435.421,30902,30902,105,198.47,152,python_function,X,torch/nn/modules/rnn.py(347): _weights_have_changed,,103
+6935384397443.192,30902,30902,106,4.017,153,python_function,X,<built-in function hasattr>,,105
+6935384397445.684,30902,30902,107,1.18,154,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,106
+6935384397451.224,30902,30902,108,2.175,155,python_function,X,<built-in function getattr>,,105
+6935384397452.696,30902,30902,109,0.525,156,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,108
+6935384397455.319,30902,30902,110,1.945,157,python_function,X,<built-in function hasattr>,,105
+6935384397456.59,30902,30902,111,0.556,158,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,110
+6935384397457.524,30902,30902,112,1.677,159,python_function,X,<built-in function getattr>,,105
+6935384397458.624,30902,30902,113,0.472,160,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,112
+6935384397460.128,30902,30902,114,1.698,161,python_function,X,<built-in function hasattr>,,105
+6935384397461.23,30902,30902,115,0.492,162,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,114
+6935384397462.004,30902,30902,116,1.651,163,python_function,X,<built-in function getattr>,,105
+6935384397463.046,30902,30902,117,0.507,164,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,116
+6935384397464.199,30902,30902,118,1.769,165,python_function,X,<built-in function hasattr>,,105
+6935384397465.377,30902,30902,119,0.477,166,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,118
+6935384397466.144,30902,30902,120,1.822,167,python_function,X,<built-in function getattr>,,105
+6935384397467.397,30902,30902,121,0.465,168,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,120
+6935384397468.608,30902,30902,122,1.785,169,python_function,X,<built-in function hasattr>,,105
+6935384397469.768,30902,30902,123,0.507,170,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,122
+6935384397470.58,30902,30902,124,1.629,171,python_function,X,<built-in function getattr>,,105
+6935384397471.664,30902,30902,125,0.447,172,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,124
+6935384397472.892,30902,30902,126,1.954,173,python_function,X,<built-in function hasattr>,,105
+6935384397474.071,30902,30902,127,0.664,174,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,126
+6935384397475.06,30902,30902,128,1.687,175,python_function,X,<built-in function getattr>,,105
+6935384397476.156,30902,30902,129,0.492,176,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,128
+6935384397477.39,30902,30902,130,1.832,177,python_function,X,<built-in function hasattr>,,105
+6935384397478.55,30902,30902,131,0.552,178,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,130
+6935384397479.398,30902,30902,132,1.589,179,python_function,X,<built-in function getattr>,,105
+6935384397480.425,30902,30902,133,0.469,180,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,132
+6935384397481.482,30902,30902,134,1.734,181,python_function,X,<built-in function hasattr>,,105
+6935384397482.636,30902,30902,135,0.469,182,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,134
+6935384397483.4,30902,30902,136,1.649,183,python_function,X,<built-in function getattr>,,105
+6935384397484.483,30902,30902,137,0.458,184,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,136
+6935384397485.58,30902,30902,138,2.113,185,python_function,X,<built-in function hasattr>,,105
+6935384397487.107,30902,30902,139,0.462,186,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,138
+6935384397487.885,30902,30902,140,1.642,187,python_function,X,<built-in function getattr>,,105
+6935384397488.896,30902,30902,141,0.535,188,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,140
+6935384397490.09,30902,30902,142,1.803,189,python_function,X,<built-in function hasattr>,,105
+6935384397491.262,30902,30902,143,0.529,190,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,142
+6935384397492.068,30902,30902,144,1.639,191,python_function,X,<built-in function getattr>,,105
+6935384397493.083,30902,30902,145,0.523,192,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,144
+6935384397494.671,30902,30902,146,1.944,193,python_function,X,<built-in function hasattr>,,105
+6935384397495.95,30902,30902,147,0.552,194,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,146
+6935384397496.804,30902,30902,148,1.645,195,python_function,X,<built-in function getattr>,,105
+6935384397497.795,30902,30902,149,0.556,196,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,148
+6935384397499.115,30902,30902,150,1.757,197,python_function,X,<built-in function hasattr>,,105
+6935384397500.213,30902,30902,151,0.554,198,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,150
+6935384397501.042,30902,30902,152,1.649,199,python_function,X,<built-in function getattr>,,105
+6935384397502.016,30902,30902,153,0.573,200,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,152
+6935384397503.351,30902,30902,154,2.407,201,python_function,X,<built-in function hasattr>,,105
+6935384397505.074,30902,30902,155,0.564,202,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,154
+6935384397505.926,30902,30902,156,1.634,203,python_function,X,<built-in function getattr>,,105
+6935384397506.944,30902,30902,157,0.511,204,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,156
+6935384397508.184,30902,30902,158,1.799,205,python_function,X,<built-in function hasattr>,,105
+6935384397509.312,30902,30902,159,0.562,206,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,158
+6935384397510.159,30902,30902,160,1.592,207,python_function,X,<built-in function getattr>,,105
+6935384397511.141,30902,30902,161,0.512,208,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,160
+6935384397512.213,30902,30902,162,1.714,209,python_function,X,<built-in function hasattr>,,105
+6935384397513.279,30902,30902,163,0.54,210,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,162
+6935384397514.096,30902,30902,164,1.627,211,python_function,X,<built-in function getattr>,,105
+6935384397515.075,30902,30902,165,0.55,212,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,164
+6935384397516.171,30902,30902,166,1.85,213,python_function,X,<built-in function hasattr>,,105
+6935384397517.394,30902,30902,167,0.519,214,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,166
+6935384397518.183,30902,30902,168,1.608,215,python_function,X,<built-in function getattr>,,105
+6935384397519.191,30902,30902,169,0.495,216,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,168
+6935384397520.249,30902,30902,170,1.65,217,python_function,X,<built-in function hasattr>,,105
+6935384397521.241,30902,30902,171,0.542,218,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,170
+6935384397522.063,30902,30902,172,1.581,219,python_function,X,<built-in function getattr>,,105
+6935384397523.042,30902,30902,173,0.501,220,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,172
+6935384397524.314,30902,30902,174,2.003,221,python_function,X,<built-in function hasattr>,,105
+6935384397525.683,30902,30902,175,0.533,222,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,174
+6935384397526.501,30902,30902,176,1.606,223,python_function,X,<built-in function getattr>,,105
+6935384397527.479,30902,30902,177,0.52,224,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,176
+6935384397529.151,30902,30902,178,1.737,225,python_function,X,<built-in function hasattr>,,105
+6935384397530.225,30902,30902,179,0.557,226,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,178
+6935384397531.08,30902,30902,180,1.628,227,python_function,X,<built-in function getattr>,,105
+6935384397532.089,30902,30902,181,0.519,228,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,180
+6935384397533.322,30902,30902,182,1.668,229,python_function,X,<built-in function hasattr>,,105
+6935384397534.345,30902,30902,183,0.54,230,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,182
+6935384397535.165,30902,30902,184,1.631,231,python_function,X,<built-in function getattr>,,105
+6935384397536.166,30902,30902,185,0.528,232,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,184
+6935384397537.588,30902,30902,186,1.739,233,python_function,X,<built-in function hasattr>,,105
+6935384397538.628,30902,30902,187,0.55,234,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,186
+6935384397539.495,30902,30902,188,1.658,235,python_function,X,<built-in function getattr>,,105
+6935384397540.544,30902,30902,189,0.511,236,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,188
+6935384397541.848,30902,30902,190,1.854,237,python_function,X,<built-in function hasattr>,,105
+6935384397543.045,30902,30902,191,0.547,238,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,190
+6935384397543.876,30902,30902,192,1.632,239,python_function,X,<built-in function getattr>,,105
+6935384397544.851,30902,30902,193,0.551,240,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,192
+6935384397546.507,30902,30902,194,1.736,241,python_function,X,<built-in function hasattr>,,105
+6935384397547.612,30902,30902,195,0.526,242,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,194
+6935384397548.443,30902,30902,196,1.627,243,python_function,X,<built-in function getattr>,,105
+6935384397549.467,30902,30902,197,0.507,244,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,196
+6935384397550.9,30902,30902,198,2.318,245,python_function,X,<built-in function hasattr>,,105
+6935384397552.577,30902,30902,199,0.533,246,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,198
+6935384397553.399,30902,30902,200,13.254,247,python_function,X,<built-in function getattr>,,105
+6935384397554.419,30902,30902,201,11.945,248,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,200
+6935384397567.274,30902,30902,202,1.968,249,python_function,X,<built-in function hasattr>,,105
+6935384397568.528,30902,30902,203,0.538,250,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,202
+6935384397569.445,30902,30902,204,1.601,251,python_function,X,<built-in function getattr>,,105
+6935384397570.448,30902,30902,205,0.499,252,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,204
+6935384397571.703,30902,30902,206,1.629,253,python_function,X,<built-in function hasattr>,,105
+6935384397572.678,30902,30902,207,0.552,254,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,206
+6935384397573.515,30902,30902,208,1.609,255,python_function,X,<built-in function getattr>,,105
+6935384397574.507,30902,30902,209,0.52,256,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,208
+6935384397576.039,30902,30902,210,1.986,257,python_function,X,<built-in function hasattr>,,105
+6935384397577.4,30902,30902,211,0.523,258,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,210
+6935384397578.217,30902,30902,212,1.62,259,python_function,X,<built-in function getattr>,,105
+6935384397579.205,30902,30902,213,0.534,260,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,212
+6935384397580.298,30902,30902,214,1.69,261,python_function,X,<built-in function hasattr>,,105
+6935384397581.346,30902,30902,215,0.527,262,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,214
+6935384397582.166,30902,30902,216,1.62,263,python_function,X,<built-in function getattr>,,105
+6935384397583.169,30902,30902,217,0.527,264,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,216
+6935384397584.42,30902,30902,218,1.862,265,python_function,X,<built-in function hasattr>,,105
+6935384397585.446,30902,30902,219,0.683,266,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,218
+6935384397586.45,30902,30902,220,1.63,267,python_function,X,<built-in function getattr>,,105
+6935384397587.428,30902,30902,221,0.543,268,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,220
+6935384397588.535,30902,30902,222,1.762,269,python_function,X,<built-in function hasattr>,,105
+6935384397589.616,30902,30902,223,0.579,270,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,222
+6935384397590.469,30902,30902,224,1.706,271,python_function,X,<built-in function getattr>,,105
+6935384397591.504,30902,30902,225,0.567,272,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,224
+6935384397592.784,30902,30902,226,1.611,273,python_function,X,<built-in function hasattr>,,105
+6935384397593.738,30902,30902,227,0.555,274,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,226
+6935384397594.576,30902,30902,228,1.659,275,python_function,X,<built-in function getattr>,,105
+6935384397595.619,30902,30902,229,0.519,276,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,228
+6935384397596.679,30902,30902,230,1.71,277,python_function,X,<built-in function hasattr>,,105
+6935384397597.728,30902,30902,231,0.555,278,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,230
+6935384397598.575,30902,30902,232,1.612,279,python_function,X,<built-in function getattr>,,105
+6935384397599.534,30902,30902,233,0.555,280,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,232
+6935384397600.638,30902,30902,234,1.675,281,python_function,X,<built-in function hasattr>,,105
+6935384397601.61,30902,30902,235,0.548,282,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,234
+6935384397602.484,30902,30902,236,1.635,283,python_function,X,<built-in function getattr>,,105
+6935384397603.483,30902,30902,237,0.531,284,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,236
+6935384397604.581,30902,30902,238,1.727,285,python_function,X,<built-in function hasattr>,,105
+6935384397605.635,30902,30902,239,0.56,286,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,238
+6935384397606.481,30902,30902,240,1.665,287,python_function,X,<built-in function getattr>,,105
+6935384397607.502,30902,30902,241,0.545,288,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,240
+6935384397608.72,30902,30902,242,1.631,289,python_function,X,<built-in function hasattr>,,105
+6935384397609.742,30902,30902,243,0.508,290,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,242
+6935384397610.548,30902,30902,244,1.596,291,python_function,X,<built-in function getattr>,,105
+6935384397611.52,30902,30902,245,0.526,292,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,244
+6935384397612.601,30902,30902,246,1.753,293,python_function,X,<built-in function hasattr>,,105
+6935384397613.705,30902,30902,247,0.538,294,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,246
+6935384397614.525,30902,30902,248,1.609,295,python_function,X,<built-in function getattr>,,105
+6935384397615.509,30902,30902,249,0.522,296,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,248
+6935384397616.587,30902,30902,250,1.895,297,python_function,X,<built-in function hasattr>,,105
+6935384397617.8,30902,30902,251,0.548,298,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,250
+6935384397618.65,30902,30902,252,1.659,299,python_function,X,<built-in function getattr>,,105
+6935384397619.647,30902,30902,253,0.561,300,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,252
+6935384397620.759,30902,30902,254,1.965,301,python_function,X,<built-in function hasattr>,,105
+6935384397621.792,30902,30902,255,0.828,302,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,254
+6935384397622.903,30902,30902,256,1.766,303,python_function,X,<built-in function getattr>,,105
+6935384397623.914,30902,30902,257,0.654,304,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,256
+6935384397625.139,30902,30902,258,2.036,305,python_function,X,<built-in function hasattr>,,105
+6935384397626.516,30902,30902,259,0.556,306,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,258
+6935384397627.352,30902,30902,260,1.574,307,python_function,X,<built-in function getattr>,,105
+6935384397628.311,30902,30902,261,0.511,308,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,260
+6935384397629.381,30902,30902,262,1.689,309,python_function,X,<built-in function hasattr>,,105
+6935384397630.417,30902,30902,263,0.546,310,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,262
+6935384397631.248,30902,30902,264,1.621,311,python_function,X,<built-in function getattr>,,105
+6935384397632.225,30902,30902,265,0.547,312,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,264
+6935384397639.865,30902,30902,266,1.286,313,python_function,X,<built-in function isinstance>,,102
+6935384397649.024,30902,30902,267,1.316,314,python_function,X,<built-in method dim of Tensor object at 0x7f880ebdf3d0>,,102
+6935384397651.905,30902,30902,268,0.207,315,python_function,X,<built-in method dim of Tensor object at 0x7f880ebdf3d0>,,102
+6935384397654.2,30902,30902,269,2.911,316,python_function,X,<built-in method size of Tensor object at 0x7f880ebdf3d0>,,102
+6935384397658.663,30902,30902,270,0.292,317,python_function,X,<built-in method dim of Tensor object at 0x7f880ebdf3d0>,,102
+6935384397659.507,30902,30902,271,0.245,318,python_function,X,<built-in method dim of Tensor object at 0x7f880ebdf3d0>,,102
+6935384397662.655,30902,30902,272,33.878,319,python_function,X,torch/nn/modules/rnn.py(994): check_forward_args,,102
+6935384397665.392,30902,30902,273,10.794,320,python_function,X,torch/nn/modules/rnn.py(297): check_input,,272
+6935384397666.826,30902,30902,274,0.176,321,python_function,X,torch/_jit_internal.py(103): is_scripting,,273
+6935384397672.885,30902,30902,275,0.173,322,python_function,X,<built-in method dim of Tensor object at 0x7f880ebdf3d0>,,273
+6935384397674.078,30902,30902,276,1.789,323,python_function,X,<built-in method size of Tensor object at 0x7f880ebdf3d0>,,273
+6935384397678.93,30902,30902,277,4.153,324,python_function,X,torch/nn/modules/rnn.py(316): get_expected_hidden_size,,272
+6935384397680.275,30902,30902,278,0.93,325,python_function,X,<built-in method size of Tensor object at 0x7f880ebdf3d0>,,277
+6935384397684.852,30902,30902,279,4.407,326,python_function,X,torch/nn/modules/rnn.py(338): check_hidden_size,,272
+6935384397685.659,30902,30902,280,2.032,327,python_function,X,<built-in method size of Tensor object at 0x7f880ebdf3d0>,,279
+6935384397691.643,30902,30902,281,2.138,328,python_function,X,torch/nn/modules/rnn.py(977): get_expected_cell_size,,272
+6935384397692.426,30902,30902,282,0.651,329,python_function,X,<built-in method size of Tensor object at 0x7f880ebdf3d0>,,281
+6935384397694.881,30902,30902,283,1.368,330,python_function,X,torch/nn/modules/rnn.py(338): check_hidden_size,,272
+6935384397695.165,30902,30902,284,0.751,331,python_function,X,<built-in method size of Tensor object at 0x7f880ebdf3d0>,,283
+6935384397699.04,30902,30902,285,0.492,332,python_function,X,torch/nn/modules/rnn.py(1013): permute_hidden,,102
+6935384397708.913,30902,30902,286,3.912,333,python_function,X,torch/_VF.py(27): __getattr__,,102
+6935384397711.378,30902,30902,287,1.287,334,python_function,X,<built-in function getattr>,,286
+6935384397719.445,30902,30902,288,3588.519,335,python_function,X,<built-in method lstm of type object at 0x7f8a4f65f1c0>,,102
+6935384401316.884,30902,30902,289,2.246,336,python_function,X,<built-in function isinstance>,,102
+6935384401325.016,30902,30902,290,0.998,337,python_function,X,torch/nn/modules/rnn.py(1013): permute_hidden,,102
+6935384401341.125,30902,30902,291,5.433,338,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,91
+6935384401501.494,30902,30902,292,487.382,339,python_function,X,nn.Module: Linear_0,0,91
+6935384401504.875,30902,30902,293,482.763,340,python_function,X,torch/nn/modules/module.py(1740): _call_impl,,292
+6935384401507.806,30902,30902,294,5.089,341,python_function,X,<built-in method _get_tracing_state of PyCapsule object at 0x7f8a4fbe3300>,,293
+6935384401530.161,30902,30902,295,456.42,342,python_function,X,torch/nn/modules/linear.py(124): forward,,293
+6935384401535.937,30902,30902,296,1.212,343,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,295
+6935384401538.782,30902,30902,297,0.531,344,python_function,X,torch/nn/modules/module.py(1918): __getattr__,,295
+6935384401549.278,30902,30902,298,436.493,345,python_function,X,<built-in function linear>,,295
+6935384402061.715,30902,30902,299,49125.945,346,python_function,X,torch/profiler/profiler.py(766): step,,57
+6935384402065.493,30902,30902,300,161.054,347,python_function,X,torch/autograd/profiler.py(738): __exit__,,299
+6935384402071.444,30902,30902,301,0.363,348,python_function,X,torch/_jit_internal.py(103): is_scripting,,300
+6935384402087.845,30902,30902,302,133.884,349,python_function,X,torch/_ops.py(939): __call__,,300
+6935384402090.624,30902,30902,303,94.831,350,python_function,X,torch/_ops.py(993): _must_dispatch_in_python,,302
+6935384402101.219,30902,30902,304,83.524,351,python_function,X,torch/utils/_pytree.py(1197): tree_any,,303
+6935384402110.45,30902,30902,305,73.849,352,python_function,X,<built-in function any>,,304
+6935384402112.299,30902,30902,306,39.723,353,python_function,X,torch/utils/_pytree.py(890): tree_iter,,305
+6935384402114.936,30902,30902,307,12.567,354,python_function,X,torch/utils/_pytree.py(672): _is_leaf,,306
+6935384402116.812,30902,30902,308,8.746,355,python_function,X,torch/utils/_pytree.py(665): _get_node_type,,307
+6935384402118.883,30902,30902,309,6.154,356,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,,308
+6935384402123.098,30902,30902,310,0.672,357,python_function,X,<built-in function len>,,309
+6935384402128.599,30902,30902,311,1.719,358,python_function,X,torch/utils/_pytree.py(665): _get_node_type,,306
+6935384402129.015,30902,30902,312,1.084,359,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,,311
+6935384402129.792,30902,30902,313,0.059,360,python_function,X,<built-in function len>,,312
+6935384402133.545,30902,30902,314,2.29,361,python_function,X,torch/utils/_pytree.py(411): _tuple_flatten,,306
+6935384402140.043,30902,30902,315,11.844,362,python_function,X,torch/utils/_pytree.py(890): tree_iter,,306
+6935384402140.545,30902,30902,316,2.172,363,python_function,X,torch/utils/_pytree.py(672): _is_leaf,,315
+6935384402141.214,30902,30902,317,1.237,364,python_function,X,torch/utils/_pytree.py(665): _get_node_type,,316
+6935384402141.565,30902,30902,318,0.712,365,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,,317
+6935384402141.935,30902,30902,319,0.068,366,python_function,X,<built-in function len>,,318
+6935384402143.108,30902,30902,320,1.356,367,python_function,X,torch/utils/_pytree.py(665): _get_node_type,,315
+6935384402143.663,30902,30902,321,0.619,368,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,,320
+6935384402143.992,30902,30902,322,0.063,369,python_function,X,<built-in function len>,,321
+6935384402145.042,30902,30902,323,0.532,370,python_function,X,torch/utils/_pytree.py(411): _tuple_flatten,,315
+6935384402146.648,30902,30902,324,4.966,371,python_function,X,torch/utils/_pytree.py(890): tree_iter,,315
+6935384402147.172,30902,30902,325,4.172,372,python_function,X,torch/utils/_pytree.py(672): _is_leaf,,324
+6935384402147.531,30902,30902,326,3.386,373,python_function,X,torch/utils/_pytree.py(665): _get_node_type,,325
+6935384402147.812,30902,30902,327,2.939,374,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,,326
+6935384402150.002,30902,30902,328,0.292,375,python_function,X,<built-in function len>,,327
+6935384402153.111,30902,30902,329,6.668,376,python_function,X,torch/_ops.py(995): <lambda>,,305
+6935384402156.808,30902,30902,330,2.821,377,python_function,X,<built-in function isinstance>,,329
+6935384402160.783,30902,30902,331,22.929,378,python_function,X,torch/utils/_pytree.py(904): tree_iter,,305
+6935384402161.333,30902,30902,332,1.951,379,python_function,X,torch/utils/_pytree.py(904): tree_iter,,331
+6935384402161.884,30902,30902,333,0.182,380,python_function,X,torch/utils/_pytree.py(896): tree_iter,,332
+6935384402164.606,30902,30902,334,18.607,381,python_function,X,torch/utils/_pytree.py(890): tree_iter,,331
+6935384402165.021,30902,30902,335,2.047,382,python_function,X,torch/utils/_pytree.py(672): _is_leaf,,334
+6935384402165.341,30902,30902,336,1.519,383,python_function,X,torch/utils/_pytree.py(665): _get_node_type,,335
+6935384402165.811,30902,30902,337,0.828,384,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,,336
+6935384402166.259,30902,30902,338,0.118,385,python_function,X,<built-in function len>,,337
+6935384402167.421,30902,30902,339,1.194,386,python_function,X,torch/utils/_pytree.py(665): _get_node_type,,334
+6935384402167.706,30902,30902,340,0.753,387,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,,339
+6935384402168.198,30902,30902,341,0.055,388,python_function,X,<built-in function len>,,340
+6935384402170.416,30902,30902,342,12.369,389,python_function,X,torch/utils/_pytree.py(439): _dict_flatten,,334
+6935384402171.932,30902,30902,343,0.576,390,python_function,X,<built-in method values of collections.defaultdict object at 0x7f89c8347ce0>,,342
+6935384402180.837,30902,30902,344,0.431,391,python_function,X,<built-in method keys of dict object at 0x7f880d258140>,,342
+6935384402188.968,30902,30902,345,32.516,392,python_function,X,<built-in method  of PyCapsule object at 0x7f880d2434b0>,,302
+6935384402225.935,30902,30902,346,0.311,393,python_function,X,<built-in method __exit__ of torch._C.DisableTorchFunctionSubclass object at 0x7f880d5cd830>,,299
+6935384402231.827,30902,30902,347,7.023,394,python_function,X,torch/profiler/profiler.py(420): schedule_fn,,299
+6935384402241.188,30902,30902,348,48946.472,395,python_function,X,torch/profiler/profiler.py(789): _transit_action,,299
+6935384402245.011,30902,30902,349,14.971,396,python_function,X,<built-in method get of dict object at 0x7f88ef9efb40>,,348
+6935384402253.208,30902,30902,350,4.009,397,python_function,X,enum.py(783): __hash__,,349
+6935384402256.373,30902,30902,351,0.709,398,python_function,X,<built-in function hash>,,350
+6935384402257.933,30902,30902,352,0.875,399,python_function,X,enum.py(783): __hash__,,349
+6935384402258.577,30902,30902,353,0.173,400,python_function,X,<built-in function hash>,,352
+6935384402262.0,30902,30902,354,48925.66,401,python_function,X,torch/profiler/profiler.py(208): stop_trace,,348
+6935384402266.547,30902,30902,355,48921.113,402,python_function,X,torch/autograd/profiler.py(344): __exit__,,354
+6935384402270.577,30902,30902,356,0.962,403,python_function,X,<built-in function hasattr>,,355
+6935384402272.729,30902,30902,357,0.194,404,python_function,X,<built-in function getattr>,,355
+6935384402275.542,30902,30902,358,5.1,405,python_function,X,<built-in function hasattr>,,355
+6935384402286.233,30902,30902,359,48901.427,406,python_function,X,torch/cuda/__init__.py(944): synchronize,,355
+6935384402291.803,30902,30902,360,19.921,407,python_function,X,torch/cuda/__init__.py(289): _lazy_init,,359
+6935384402305.248,30902,30902,361,4.351,408,python_function,X,torch/cuda/__init__.py(242): is_initialized,,360
+6935384402307.991,30902,30902,362,1.262,409,python_function,X,<built-in function _cuda_isInBadFork>,,361
+6935384402317.065,30902,30902,363,106.316,410,python_function,X,torch/cuda/__init__.py(439): __init__,,359
+6935384402319.362,30902,30902,364,100.379,411,python_function,X,torch/cuda/_utils.py(9): _get_device_index,,363
+6935384402320.416,30902,30902,365,0.267,412,python_function,X,<built-in function isinstance>,,364
+6935384402321.467,30902,30902,366,0.094,413,python_function,X,<built-in function isinstance>,,364
+6935384402322.658,30902,30902,367,0.098,414,python_function,X,<built-in function isinstance>,,364
+6935384402323.774,30902,30902,368,0.163,415,python_function,X,torch/_jit_internal.py(103): is_scripting,,364
+6935384402324.644,30902,30902,369,0.135,416,python_function,X,<built-in function isinstance>,,364
+6935384402332.143,30902,30902,370,87.327,417,python_function,X,torch/_utils.py(773): _get_device_index,,364
+6935384402335.666,30902,30902,371,0.097,418,python_function,X,<built-in function isinstance>,,370
+6935384402338.746,30902,30902,372,0.368,419,python_function,X,<built-in function isinstance>,,370
+6935384402339.66,30902,30902,373,0.096,420,python_function,X,<built-in function isinstance>,,370
+6935384402340.628,30902,30902,374,0.112,421,python_function,X,torch/_jit_internal.py(103): is_scripting,,370
+6935384402344.053,30902,30902,375,75.109,422,python_function,X,torch/_utils.py(747): _get_current_device_index,,370
+6935384402346.383,30902,30902,376,72.466,423,python_function,X,torch/_utils.py(733): _get_device_attr,,375
+6935384402350.414,30902,30902,377,44.747,424,python_function,X,torch/_utils.py(718): _get_available_device_type,,376
+6935384402352.85,30902,30902,378,42.021,425,python_function,X,torch/cuda/__init__.py(116): is_available,,377
+6935384402355.12,30902,30902,379,2.393,426,python_function,X,torch/cuda/__init__.py(107): _is_compiled,,378
+6935384402356.49,30902,30902,380,0.386,427,python_function,X,<built-in function hasattr>,,379
+6935384402359.259,30902,30902,381,31.866,428,python_function,X,torch/cuda/__init__.py(112): _nvml_based_avail,,378
+6935384402362.991,30902,30902,382,27.363,429,python_function,X,os.py(772): getenv,,381
+6935384402368.012,30902,30902,383,22.067,430,python_function,X,_collections_abc.py(821): get,,382
+6935384402370.706,30902,30902,384,17.248,431,python_function,X,os.py(675): __getitem__,,383
+6935384402375.818,30902,30902,385,6.27,432,python_function,X,os.py(755): encode,,384
+6935384402377.37,30902,30902,386,0.086,433,python_function,X,<built-in function isinstance>,,385
+6935384402380.975,30902,30902,387,0.882,434,python_function,X,<built-in method encode of str object at 0x7f8a4e327460>,,385
+6935384402393.264,30902,30902,388,1.215,435,python_function,X,<built-in function _cuda_getDeviceCount>,,378
+6935384402398.93,30902,30902,389,0.77,436,python_function,X,<built-in method lower of str object at 0x7f8a72a05b30>,,376
+6935384402401.659,30902,30902,390,16.931,437,python_function,X,torch/_utils.py(749): <lambda>,,376
+6935384402405.253,30902,30902,391,13.158,438,python_function,X,torch/cuda/__init__.py(938): current_device,,390
+6935384402408.996,30902,30902,392,1.473,439,python_function,X,torch/cuda/__init__.py(289): _lazy_init,,391
+6935384402409.451,30902,30902,393,0.831,440,python_function,X,torch/cuda/__init__.py(242): is_initialized,,392
+6935384402409.873,30902,30902,394,0.286,441,python_function,X,<built-in function _cuda_isInBadFork>,,393
+6935384402413.476,30902,30902,395,4.801,442,python_function,X,<built-in function _cuda_getDevice>,,391
+6935384402428.204,30902,30902,396,5.894,443,python_function,X,torch/cuda/__init__.py(443): __enter__,,359
+6935384402430.912,30902,30902,397,2.813,444,python_function,X,<built-in function _cuda_exchangeDevice>,,396
+6935384402439.36,30902,30902,398,48719.227,445,python_function,X,<built-in function _cuda_synchronize>,,359
+6935384451159.88,30902,30902,399,27.78,446,python_function,X,torch/cuda/__init__.py(446): __exit__,,359
+6935384451164.937,30902,30902,400,2.08,447,python_function,X,<built-in function _cuda_maybeExchangeDevice>,,399
+6935384451170.422,30902,30902,401,1.191,448,python_function,X,<built-in function perf_counter_ns>,,399
+6935384451175.226,30902,30902,402,12.434,449,python_function,X,<built-in method _disable_profiler of PyCapsule object at 0x7f89c83307e0>,,399

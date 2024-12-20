@@ -1,4 +1,4 @@
-External id,cat,Ev Idx,ph,pid,tid,Record function id,name,ts,dur
-2049,user_annotation,630,X,2151687,2151687,0,ProfilerStep#0,6783223253942.675,39.334
-2050,user_annotation,631,X,2151687,2151687,0,Optimizer.zero_grad#SGD.zero_grad,6783223193166.474,274.906
-2055,user_annotation,636,X,2151687,2151687,0,Optimizer.step#SGD.step,6783223215657.694,38214.438
+ts,tid,pid,Ev Idx,dur,cat,ph,name,Record function id,External id
+6928969587968.061,4097061,4097061,630,40.173,user_annotation,X,ProfilerStep#0,0,2049
+6928969537879.738,4097061,4097061,631,343.414,user_annotation,X,Optimizer.zero_grad#SGD.zero_grad,0,2050
+6928969552821.939,4097061,4097061,636,35061.503,user_annotation,X,Optimizer.step#SGD.step,0,2055
