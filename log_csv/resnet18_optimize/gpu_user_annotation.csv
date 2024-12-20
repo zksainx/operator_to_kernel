@@ -1,3 +1,3 @@
-ts,tid,pid,dur,cat,ph,name,External id
-6928969587300.119,7,0,254.37,gpu_user_annotation,X,Optimizer.step#SGD.step,2055
-6928969541349.88,7,0,1.314,gpu_user_annotation,X,ProfilerStep#0,2049
+tid,cat,name,pid,dur,External id,ts,ph
+7,gpu_user_annotation,Optimizer.step#SGD.step,0,254.37,2055,6928969587300.119,X
+7,gpu_user_annotation,ProfilerStep#0,0,1.314,2049,6928969541349.88,X

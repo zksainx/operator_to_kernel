@@ -1,5 +1,5 @@
-ts,memory bandwidth (GB/s),tid,pid,dur,context,stream,cat,ph,name,device,bytes,correlation,External id
-6928969222278.624,0.5009784735812133,7,0,0.512,1,7,gpu_memset,X,Memset (Device),0,512,1530,264
-6928969222785.183,0.1336116910229645,7,0,0.48,1,7,gpu_memset,X,Memset (Device),0,128,1628,281
-6928969224176.253,0.1336116910229645,7,0,0.48,1,7,gpu_memset,X,Memset (Device),0,128,1828,314
-6928969224937.244,0.08020050125313283,7,0,0.8,1,7,gpu_memset,X,Memset (Device),0,128,1932,331
+tid,cat,memory bandwidth (GB/s),name,device,pid,dur,External id,stream,context,bytes,correlation,ts,ph
+7,gpu_memset,0.5009784735812133,Memset (Device),0,0,0.512,264,7,1,512,1530,6928969222278.624,X
+7,gpu_memset,0.1336116910229645,Memset (Device),0,0,0.48,281,7,1,128,1628,6928969222785.183,X
+7,gpu_memset,0.1336116910229645,Memset (Device),0,0,0.48,314,7,1,128,1828,6928969224176.253,X
+7,gpu_memset,0.08020050125313283,Memset (Device),0,0,0.8,331,7,1,128,1932,6928969224937.244,X

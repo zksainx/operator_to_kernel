@@ -1,304 +1,304 @@
-ts,tid,pid,Python id,dur,Ev Idx,cat,ph,name,Python parent id
-6928969280072.107,0,0,1,191769.263,638,python_function,X,threading.py(973): _bootstrap,
-6928969280073.445,0,0,2,191767.925,639,python_function,X,threading.py(1016): _bootstrap_inner,1
-6928969280075.577,0,0,3,191765.793,640,python_function,X,decorator.py(232): fun,2
-6928969280076.491,0,0,4,191764.879,641,python_function,X,IPython/core/history.py(61): only_when_enabled,3
-6928969280079.843,0,0,5,191761.527,642,python_function,X,IPython/core/history.py(903): run,4
-6928969280080.473,0,0,6,191760.897,643,python_function,X,threading.py(607): wait,5
-6928969280081.057,0,0,7,191760.313,644,python_function,X,threading.py(320): wait,6
-6928969280085.685,0,0,8,191755.685,645,python_function,X,threading.py(973): _bootstrap,7
-6928969280086.181,0,0,9,191755.189,646,python_function,X,threading.py(1016): _bootstrap_inner,8
-6928969280087.416,0,0,10,191753.954,647,python_function,X,ipykernel/control.py(23): run,9
-6928969280089.54,0,0,11,191751.83,648,python_function,X,tornado/platform/asyncio.py(205): start,10
-6928969280091.117,0,0,12,191750.253,649,python_function,X,asyncio/base_events.py(603): run_forever,11
-6928969280092.083,0,0,13,191749.287,650,python_function,X,asyncio/base_events.py(1871): _run_once,12
-6928969280093.471,0,0,14,191747.899,651,python_function,X,selectors.py(469): select,13
-6928969280095.924,0,0,15,191745.446,652,python_function,X,threading.py(973): _bootstrap,14
-6928969280096.269,0,0,16,191745.101,653,python_function,X,threading.py(1016): _bootstrap_inner,15
-6928969280097.132,0,0,17,191744.238,654,python_function,X,threading.py(953): run,16
-6928969280098.108,0,0,18,191743.262,655,python_function,X,ipykernel/iostream.py(387): _watch_pipe_fd,17
-6928969280099.923,0,0,19,191741.447,656,python_function,X,threading.py(973): _bootstrap,18
-6928969280100.305,0,0,20,191741.065,657,python_function,X,threading.py(1016): _bootstrap_inner,19
-6928969280100.869,0,0,21,191740.501,658,python_function,X,threading.py(953): run,20
-6928969280101.155,0,0,22,191740.215,659,python_function,X,ipykernel/iostream.py(387): _watch_pipe_fd,21
-6928969280103.505,0,0,23,191737.865,660,python_function,X,threading.py(973): _bootstrap,22
-6928969280103.836,0,0,24,191737.534,661,python_function,X,threading.py(1016): _bootstrap_inner,23
-6928969280105.103,0,0,25,191736.267,662,python_function,X,ipykernel/heartbeat.py(106): run,24
-6928969280108.553,0,0,26,191732.817,663,python_function,X,threading.py(973): _bootstrap,25
-6928969280108.798,0,0,27,191732.572,664,python_function,X,threading.py(1016): _bootstrap_inner,26
-6928969280109.315,0,0,28,191732.055,665,python_function,X,threading.py(953): run,27
-6928969280109.986,0,0,29,191731.384,666,python_function,X,ipykernel/iostream.py(92): _thread_main,28
-6928969280110.983,0,0,30,191730.387,667,python_function,X,tornado/platform/asyncio.py(205): start,29
-6928969280111.379,0,0,31,191729.991,668,python_function,X,asyncio/base_events.py(603): run_forever,30
-6928969280111.693,0,0,32,191729.677,669,python_function,X,asyncio/base_events.py(1871): _run_once,31
-6928969280112.17,0,0,33,191729.2,670,python_function,X,selectors.py(469): select,32
-6928969280121.413,4097061,4097061,34,191719.957,671,python_function,X,runpy.py(196): _run_module_as_main,
-6928969280122.551,4097061,4097061,35,191718.819,672,python_function,X,runpy.py(86): _run_code,34
-6928969280123.599,4097061,4097061,36,191717.771,673,python_function,X,ipykernel_launcher.py(18): <module>,35
-6928969280124.724,4097061,4097061,37,191716.646,674,python_function,X,traitlets/config/application.py(1075): launch_instance,36
-6928969280126.021,4097061,4097061,38,191715.349,675,python_function,X,ipykernel/kernelapp.py(739): start,37
-6928969280126.337,4097061,4097061,39,191715.033,676,python_function,X,tornado/platform/asyncio.py(205): start,38
-6928969280126.579,4097061,4097061,40,191714.791,677,python_function,X,asyncio/base_events.py(603): run_forever,39
-6928969280127.159,4097061,4097061,41,191714.211,678,python_function,X,asyncio/base_events.py(1909): _run_once,40
-6928969280129.599,4097061,4097061,42,191711.771,679,python_function,X,asyncio/events.py(80): _run,41
-6928969280130.658,4097061,4097061,43,191710.712,680,python_function,X,ipykernel/kernelbase.py(545): dispatch_queue,42
-6928969280131.612,4097061,4097061,44,191709.758,681,python_function,X,ipykernel/kernelbase.py(534): process_one,43
-6928969280132.654,4097061,4097061,45,191708.716,682,python_function,X,ipykernel/kernelbase.py(437): dispatch_shell,44
-6928969280133.597,4097061,4097061,46,191707.773,683,python_function,X,ipykernel/ipkernel.py(362): execute_request,45
-6928969280134.506,4097061,4097061,47,191706.864,684,python_function,X,ipykernel/kernelbase.py(778): execute_request,46
-6928969280136.305,4097061,4097061,48,191705.065,685,python_function,X,ipykernel/ipkernel.py(449): do_execute,47
-6928969280137.935,4097061,4097061,49,191703.435,686,python_function,X,ipykernel/zmqshell.py(549): run_cell,48
-6928969280140.115,4097061,4097061,50,191701.255,687,python_function,X,IPython/core/interactiveshell.py(3075): run_cell,49
-6928969280141.072,4097061,4097061,51,191700.298,688,python_function,X,IPython/core/interactiveshell.py(3130): _run_cell,50
-6928969280157.222,4097061,4097061,52,191684.148,689,python_function,X,IPython/core/async_helpers.py(128): _pseudo_sync_runner,51
-6928969280158.8,4097061,4097061,53,191682.57,690,python_function,X,IPython/core/interactiveshell.py(3334): run_cell_async,52
-6928969280160.069,4097061,4097061,54,191681.301,691,python_function,X,IPython/core/interactiveshell.py(3517): run_ast_nodes,53
-6928969280160.88,4097061,4097061,55,191680.49,692,python_function,X,IPython/core/interactiveshell.py(3577): run_code,54
-6928969280161.479,4097061,4097061,56,191679.891,693,python_function,X,/tmp/ipykernel_4097061/4243629771.py(14): <module>,55
-6928969280162.283,4097061,4097061,57,191679.087,694,python_function,X,pytorch_tracing.py(49): py_tracing_backward,56
-6928969280163.002,4097061,4097061,58,291.259,695,python_function,X,torch/profiler/profiler.py(744): __enter__,57
-6928969280163.374,4097061,4097061,59,290.536,696,python_function,X,torch/profiler/profiler.py(754): start,58
-6928969280164.068,4097061,4097061,60,133.365,697,python_function,X,torch/profiler/profiler.py(793): _transit_action,59
-6928969280164.535,4097061,4097061,61,132.124,698,python_function,X,torch/profiler/profiler.py(174): start_trace,60
-6928969280164.908,4097061,4097061,62,32.152,699,python_function,X,torch/autograd/profiler.py(339): _start_trace,61
-6928969280188.268,4097061,4097061,63,1.32,700,python_function,X,<built-in function perf_counter_ns>,62
-6928969280204.46,4097061,4097061,64,13.472,701,python_function,X,torch/profiler/profiler.py(304): add_metadata_json,61
-6928969280213.536,4097061,4097061,65,4.146,702,python_function,X,<built-in method _add_metadata_json of PyCapsule object at 0x7fdec2bfd890>,64
-6928969280218.924,4097061,4097061,66,1.274,703,python_function,X,torch/profiler/profiler.py(304): add_metadata_json,61
-6928969280219.318,4097061,4097061,67,0.766,704,python_function,X,<built-in method _add_metadata_json of PyCapsule object at 0x7fdec2bfd890>,66
-6928969280224.656,4097061,4097061,68,0.988,705,python_function,X,<built-in method kineto_available of PyCapsule object at 0x7fdec2bfd8f0>,61
-6928969280227.502,4097061,4097061,69,26.69,706,python_function,X,torch/profiler/profiler.py(319): _get_distributed_info,61
-6928969280241.413,4097061,4097061,70,4.225,707,python_function,X,torch/distributed/__init__.py(14): is_available,69
-6928969280244.603,4097061,4097061,71,0.915,708,python_function,X,<built-in function hasattr>,70
-6928969280247.492,4097061,4097061,72,6.467,709,python_function,X,torch/distributed/distributed_c10d.py(1121): is_initialized,69
-6928969280250.242,4097061,4097061,73,3.561,710,python_function,X,torch/distributed/distributed_c10d.py(705): WORLD,72
-6928969280253.041,4097061,4097061,74,0.649,711,python_function,X,torch/distributed/distributed_c10d.py(576): default_pg,73
-6928969280256.179,4097061,4097061,75,1.18,712,python_function,X,<built-in function hasattr>,61
-6928969280268.818,4097061,4097061,76,5.871,713,python_function,X,torch/utils/_config_module.py(379): __getattr__,61
-6928969280271.946,4097061,4097061,77,2.487,714,python_function,X,torch/utils/_config_module.py(148): __getattr__,76
-6928969280294.949,4097061,4097061,78,0.48,715,python_function,X,<built-in method items of dict object at 0x7fdeb3b37f80>,61
-6928969280302.118,4097061,4097061,79,13.33,716,python_function,X,torch/autograd/profiler.py(721): __init__,59
-6928969280308.39,4097061,4097061,80,3.902,717,python_function,X,typing.py(306): inner,79
-6928969280313.873,4097061,4097061,81,0.742,718,python_function,X,torch/jit/__init__.py(128): annotate,79
-6928969280317.387,4097061,4097061,82,136.201,719,python_function,X,torch/autograd/profiler.py(732): __enter__,59
-6928969280321.975,4097061,4097061,83,130.806,720,python_function,X,torch/_ops.py(1105): __call__,82
-6928969280326.058,4097061,4097061,84,126.557,721,python_function,X,<built-in method _record_function_enter_new of PyCapsule object at 0x7fdec25333f0>,83
-6928969280462.166,4097061,4097061,85,15640.102,722,python_function,X,<built-in method sum of Tensor object at 0x7fdeb3b1b740>,57
-6928969296114.914,4097061,4097061,86,174955.558,723,python_function,X,torch/_tensor.py(525): backward,57
-6928969296126.304,4097061,4097061,87,1.812,724,python_function,X,<built-in function _has_torch_function_unary>,86
-6928969296133.943,4097061,4097061,88,174917.078,725,python_function,X,torch/autograd/__init__.py(242): backward,86
-6928969296145.073,4097061,4097061,89,4.254,726,python_function,X,<built-in method _are_functorch_transforms_active of PyCapsule object at 0x7fe0449150e0>,88
-6928969296153.18,4097061,4097061,90,0.551,727,python_function,X,<built-in function isinstance>,88
-6928969296157.316,4097061,4097061,91,2.544,728,python_function,X,<built-in function isinstance>,88
-6928969296163.405,4097061,4097061,92,0.701,729,python_function,X,<built-in function len>,88
-6928969296166.222,4097061,4097061,93,2.35,730,python_function,X,torch/autograd/__init__.py(232): _tensor_or_tensors_to_tuple,88
-6928969296171.019,4097061,4097061,94,8049.959,731,python_function,X,torch/autograd/__init__.py(88): _make_grads,88
-6928969296179.731,4097061,4097061,95,231.434,732,python_function,X,typing.py(306): inner,94
-6928969296185.011,4097061,4097061,96,222.817,733,python_function,X,typing.py(401): __getitem__,95
-6928969296190.481,4097061,4097061,97,216.866,734,python_function,X,typing.py(483): Union,96
-6928969296192.871,4097061,4097061,98,0.187,735,python_function,X,<built-in function isinstance>,97
-6928969296199.103,4097061,4097061,99,26.151,736,python_function,X,typing.py(515): <genexpr>,97
-6928969296202.577,4097061,4097061,100,22.211,737,python_function,X,typing.py(146): _type_check,99
-6928969296208.449,4097061,4097061,101,2.843,738,python_function,X,typing.py(137): _type_convert,100
-6928969296209.533,4097061,4097061,102,1.548,739,python_function,X,<built-in function isinstance>,101
-6928969296212.243,4097061,4097061,103,0.211,740,python_function,X,<built-in function isinstance>,100
-6928969296220.904,4097061,4097061,104,0.2,741,python_function,X,<built-in function isinstance>,100
-6928969296224.344,4097061,4097061,105,0.151,742,python_function,X,<built-in function isinstance>,100
-6928969296225.772,4097061,4097061,106,5.491,743,python_function,X,typing.py(515): <genexpr>,97
-6928969296226.49,4097061,4097061,107,4.601,744,python_function,X,typing.py(146): _type_check,106
-6928969296227.474,4097061,4097061,108,1.316,745,python_function,X,typing.py(137): _type_convert,107
-6928969296227.849,4097061,4097061,109,0.825,746,python_function,X,<built-in function isinstance>,108
-6928969296229.225,4097061,4097061,110,0.134,747,python_function,X,<built-in function isinstance>,107
-6928969296229.996,4097061,4097061,111,0.093,748,python_function,X,<built-in function isinstance>,107
-6928969296230.808,4097061,4097061,112,0.118,749,python_function,X,<built-in function isinstance>,107
-6928969296231.548,4097061,4097061,113,0.348,750,python_function,X,typing.py(515): <genexpr>,97
-6928969296235.171,4097061,4097061,114,17.471,751,python_function,X,typing.py(267): _remove_dups_flatten,97
-6928969296237.301,4097061,4097061,115,0.314,752,python_function,X,<built-in function isinstance>,114
-6928969296238.417,4097061,4097061,116,0.139,753,python_function,X,<built-in function isinstance>,114
-6928969296243.236,4097061,4097061,117,0.751,754,python_function,X,<built-in method append of list object at 0x7fdeb3c3ccc0>,114
-6928969296244.816,4097061,4097061,118,0.223,755,python_function,X,<built-in function isinstance>,114
-6928969296245.35,4097061,4097061,119,0.112,756,python_function,X,<built-in function isinstance>,114
-6928969296245.831,4097061,4097061,120,0.094,757,python_function,X,<built-in method append of list object at 0x7fdeb3c3ccc0>,114
-6928969296248.079,4097061,4097061,121,3.843,758,python_function,X,typing.py(253): _deduplicate,114
-6928969296250.744,4097061,4097061,122,0.262,759,python_function,X,<built-in function len>,121
-6928969296251.29,4097061,4097061,123,0.212,760,python_function,X,<built-in function len>,121
-6928969296253.378,4097061,4097061,124,0.08,761,python_function,X,<built-in function len>,97
-6928969296254.29,4097061,4097061,125,0.101,762,python_function,X,<built-in function len>,97
-6928969296258.599,4097061,4097061,126,148.008,763,python_function,X,typing.py(1016): __init__,97
-6928969296263.887,4097061,4097061,127,31.244,764,python_function,X,typing.py(947): __init__,126
-6928969296267.606,4097061,4097061,128,13.072,765,python_function,X,typing.py(986): __setattr__,127
-6928969296270.097,4097061,4097061,129,5.685,766,python_function,X,typing.py(935): _is_dunder,128
-6928969296273.694,4097061,4097061,130,1.752,767,python_function,X,<built-in method startswith of str object at 0x7fe046267770>,129
-6928969296282.08,4097061,4097061,131,2.672,768,python_function,X,typing.py(986): __setattr__,127
-6928969296282.464,4097061,4097061,132,0.931,769,python_function,X,typing.py(935): _is_dunder,131
-6928969296283.039,4097061,4097061,133,0.251,770,python_function,X,<built-in method startswith of str object at 0x7fe046267770>,132
-6928969296285.64,4097061,4097061,134,5.108,771,python_function,X,typing.py(986): __setattr__,127
-6928969296285.924,4097061,4097061,135,3.851,772,python_function,X,typing.py(935): _is_dunder,134
-6928969296286.136,4097061,4097061,136,0.346,773,python_function,X,<built-in method startswith of str object at 0x7fe046267770>,135
-6928969296288.781,4097061,4097061,137,0.849,774,python_function,X,<built-in method endswith of str object at 0x7fe046446130>,135
-6928969296291.874,4097061,4097061,138,3.037,775,python_function,X,typing.py(986): __setattr__,127
-6928969296292.158,4097061,4097061,139,1.227,776,python_function,X,typing.py(935): _is_dunder,138
-6928969296292.398,4097061,4097061,140,0.236,777,python_function,X,<built-in method startswith of str object at 0x7fe046267770>,139
-6928969296292.94,4097061,4097061,141,0.375,778,python_function,X,<built-in method endswith of str object at 0x7fe046446130>,139
-6928969296296.597,4097061,4097061,142,0.093,779,python_function,X,<built-in function isinstance>,126
-6928969296334.651,4097061,4097061,143,1.9,780,python_function,X,typing.py(1022): <genexpr>,126
-6928969296337.014,4097061,4097061,144,0.299,781,python_function,X,typing.py(1022): <genexpr>,126
-6928969296337.79,4097061,4097061,145,0.179,782,python_function,X,typing.py(1022): <genexpr>,126
-6928969296339.25,4097061,4097061,146,3.073,783,python_function,X,typing.py(986): __setattr__,126
-6928969296339.582,4097061,4097061,147,1.821,784,python_function,X,typing.py(935): _is_dunder,146
-6928969296339.881,4097061,4097061,148,0.395,785,python_function,X,<built-in method startswith of str object at 0x7fe046267770>,147
-6928969296340.622,4097061,4097061,149,0.507,786,python_function,X,<built-in method endswith of str object at 0x7fe046446130>,147
-6928969296349.528,4097061,4097061,150,42.812,787,python_function,X,typing_extensions.py(2989): _collect_type_vars,126
-6928969296352.215,4097061,4097061,151,17.378,788,python_function,X,typing_extensions.py(2954): _has_generic_or_protocol_as_origin,150
-6928969296356.016,4097061,4097061,152,1.174,789,python_function,X,<built-in function _getframe>,151
-6928969296360.752,4097061,4097061,153,0.484,790,python_function,X,<built-in method get of dict object at 0x7fe046264580>,151
-6928969296366.86,4097061,4097061,154,0.27,791,python_function,X,<built-in method get of dict object at 0x7fe046264580>,151
-6928969296371.679,4097061,4097061,155,8.877,792,python_function,X,typing_extensions.py(2976): _is_unpacked_typevartuple,150
-6928969296373.598,4097061,4097061,156,6.453,793,python_function,X,typing.py(1902): get_origin,155
-6928969296374.949,4097061,4097061,157,0.19,794,python_function,X,<built-in function isinstance>,156
-6928969296376.216,4097061,4097061,158,0.402,795,python_function,X,<built-in function isinstance>,156
-6928969296379.645,4097061,4097061,159,0.125,796,python_function,X,<built-in function isinstance>,156
-6928969296381.202,4097061,4097061,160,0.088,797,python_function,X,<built-in function isinstance>,150
-6928969296382.695,4097061,4097061,161,3.514,798,python_function,X,typing_extensions.py(154): _should_collect_from_parameters,150
-6928969296385.829,4097061,4097061,162,0.215,799,python_function,X,<built-in function isinstance>,161
-6928969296386.822,4097061,4097061,163,2.822,800,python_function,X,typing_extensions.py(2976): _is_unpacked_typevartuple,150
-6928969296387.154,4097061,4097061,164,2.074,801,python_function,X,typing.py(1902): get_origin,163
-6928969296387.455,4097061,4097061,165,0.173,802,python_function,X,<built-in function isinstance>,164
-6928969296388.083,4097061,4097061,166,0.382,803,python_function,X,<built-in function isinstance>,164
-6928969296388.978,4097061,4097061,167,0.092,804,python_function,X,<built-in function isinstance>,164
-6928969296390.023,4097061,4097061,168,0.085,805,python_function,X,<built-in function isinstance>,150
-6928969296390.583,4097061,4097061,169,0.984,806,python_function,X,typing_extensions.py(154): _should_collect_from_parameters,150
-6928969296391.254,4097061,4097061,170,0.201,807,python_function,X,<built-in function isinstance>,169
-6928969296393.666,4097061,4097061,171,3.228,808,python_function,X,typing.py(986): __setattr__,126
-6928969296394.056,4097061,4097061,172,1.437,809,python_function,X,typing.py(935): _is_dunder,171
-6928969296394.329,4097061,4097061,173,0.383,810,python_function,X,<built-in method startswith of str object at 0x7fe046267770>,172
-6928969296395.037,4097061,4097061,174,0.355,811,python_function,X,<built-in method endswith of str object at 0x7fe046446130>,172
-6928969296397.64,4097061,4097061,175,2.095,812,python_function,X,typing.py(986): __setattr__,126
-6928969296397.937,4097061,4097061,176,0.732,813,python_function,X,typing.py(935): _is_dunder,175
-6928969296398.252,4097061,4097061,177,0.255,814,python_function,X,<built-in method startswith of str object at 0x7fe046267770>,176
-6928969296400.523,4097061,4097061,178,1.988,815,python_function,X,typing.py(986): __setattr__,126
-6928969296400.865,4097061,4097061,179,0.666,816,python_function,X,typing.py(935): _is_dunder,178
-6928969296401.159,4097061,4097061,180,0.254,817,python_function,X,<built-in method startswith of str object at 0x7fe046267770>,179
-6928969296403.631,4097061,4097061,181,2.742,818,python_function,X,typing.py(986): __setattr__,126
-6928969296403.922,4097061,4097061,182,1.16,819,python_function,X,typing.py(935): _is_dunder,181
-6928969296404.178,4097061,4097061,183,0.266,820,python_function,X,<built-in method startswith of str object at 0x7fe046267770>,182
-6928969296404.735,4097061,4097061,184,0.257,821,python_function,X,<built-in method endswith of str object at 0x7fe046446130>,182
-6928969296412.562,4097061,4097061,185,0.514,822,python_function,X,typing.py(1737): cast,94
-6928969296414.537,4097061,4097061,186,0.94,823,python_function,X,<built-in function isinstance>,94
-6928969296428.76,4097061,4097061,187,0.092,824,python_function,X,<built-in function isinstance>,94
-6928969296437.577,4097061,4097061,188,0.515,825,python_function,X,<built-in function isinstance>,94
-6928969296439.525,4097061,4097061,189,0.226,826,python_function,X,<built-in function isinstance>,94
-6928969296442.882,4097061,4097061,190,0.117,827,python_function,X,<built-in function isinstance>,94
-6928969296443.628,4097061,4097061,191,0.075,828,python_function,X,<built-in function isinstance>,94
-6928969296449.4,4097061,4097061,192,2.5,829,python_function,X,<built-in method numel of Tensor object at 0x7fdeb3b1ae30>,94
-6928969296454.791,4097061,4097061,193,0.15,830,python_function,X,<built-in function isinstance>,94
-6928969296455.528,4097061,4097061,194,0.075,831,python_function,X,<built-in function isinstance>,94
-6928969296461.156,4097061,4097061,195,7748.661,832,python_function,X,<built-in method ones_like of type object at 0x7fe02965f1c0>,94
-6928969304215.053,4097061,4097061,196,0.855,833,python_function,X,<built-in method append of list object at 0x7fdeb3c3ccc0>,94
-6928969304229.222,4097061,4097061,197,166813.936,834,python_function,X,torch/autograd/graph.py(816): _engine_run_backward,88
-6928969304233.093,4097061,4097061,198,5.936,835,python_function,X,logging/__init__.py(1710): getEffectiveLevel,197
-6928969304258.56,4097061,4097061,199,166775.643,836,python_function,X,<built-in method run_backward of torch._C._EngineBase object at 0x7fe02a18f410>,197
-6928969471087.59,4097061,4097061,200,753.78,837,python_function,X,torch/profiler/profiler.py(766): step,57
-6928969471098.771,4097061,4097061,201,295.493,838,python_function,X,torch/autograd/profiler.py(738): __exit__,200
-6928969471109.219,4097061,4097061,202,0.574,839,python_function,X,torch/_jit_internal.py(103): is_scripting,201
-6928969471142.465,4097061,4097061,203,239.487,840,python_function,X,torch/_ops.py(939): __call__,201
-6928969471146.326,4097061,4097061,204,152.167,841,python_function,X,torch/_ops.py(993): _must_dispatch_in_python,203
-6928969471154.29,4097061,4097061,205,142.828,842,python_function,X,torch/utils/_pytree.py(1197): tree_any,204
-6928969471177.814,4097061,4097061,206,118.699,843,python_function,X,<built-in function any>,205
-6928969471180.404,4097061,4097061,207,59.482,844,python_function,X,torch/utils/_pytree.py(890): tree_iter,206
-6928969471184.263,4097061,4097061,208,19.108,845,python_function,X,torch/utils/_pytree.py(672): _is_leaf,207
-6928969471188.357,4097061,4097061,209,12.614,846,python_function,X,torch/utils/_pytree.py(665): _get_node_type,208
-6928969471191.117,4097061,4097061,210,9.331,847,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,209
-6928969471195.626,4097061,4097061,211,1.502,848,python_function,X,<built-in function len>,210
-6928969471204.923,4097061,4097061,212,2.398,849,python_function,X,torch/utils/_pytree.py(665): _get_node_type,207
-6928969471205.603,4097061,4097061,213,1.386,850,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,212
-6928969471206.484,4097061,4097061,214,0.077,851,python_function,X,<built-in function len>,213
-6928969471212.001,4097061,4097061,215,3.023,852,python_function,X,torch/utils/_pytree.py(411): _tuple_flatten,207
-6928969471221.915,4097061,4097061,216,17.779,853,python_function,X,torch/utils/_pytree.py(890): tree_iter,207
-6928969471222.746,4097061,4097061,217,3.148,854,python_function,X,torch/utils/_pytree.py(672): _is_leaf,216
-6928969471223.598,4097061,4097061,218,1.957,855,python_function,X,torch/utils/_pytree.py(665): _get_node_type,217
-6928969471224.286,4097061,4097061,219,0.979,856,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,218
-6928969471224.829,4097061,4097061,220,0.1,857,python_function,X,<built-in function len>,219
-6928969471226.509,4097061,4097061,221,1.898,858,python_function,X,torch/utils/_pytree.py(665): _get_node_type,216
-6928969471227.116,4097061,4097061,222,0.87,859,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,221
-6928969471227.624,4097061,4097061,223,0.085,860,python_function,X,<built-in function len>,222
-6928969471229.174,4097061,4097061,224,0.839,861,python_function,X,torch/utils/_pytree.py(411): _tuple_flatten,216
-6928969471232.101,4097061,4097061,225,7.265,862,python_function,X,torch/utils/_pytree.py(890): tree_iter,216
-6928969471232.777,4097061,4097061,226,6.241,863,python_function,X,torch/utils/_pytree.py(672): _is_leaf,225
-6928969471233.347,4097061,4097061,227,5.046,864,python_function,X,torch/utils/_pytree.py(665): _get_node_type,226
-6928969471233.905,4097061,4097061,228,4.241,865,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,227
-6928969471237.363,4097061,4097061,229,0.286,866,python_function,X,<built-in function len>,228
-6928969471241.486,4097061,4097061,230,8.283,867,python_function,X,torch/_ops.py(995): <lambda>,206
-6928969471246.906,4097061,4097061,231,2.577,868,python_function,X,<built-in function isinstance>,230
-6928969471251.38,4097061,4097061,232,44.129,869,python_function,X,torch/utils/_pytree.py(904): tree_iter,206
-6928969471252.564,4097061,4097061,233,4.008,870,python_function,X,torch/utils/_pytree.py(904): tree_iter,232
-6928969471253.765,4097061,4097061,234,0.442,871,python_function,X,torch/utils/_pytree.py(896): tree_iter,233
-6928969471258.706,4097061,4097061,235,36.125,872,python_function,X,torch/utils/_pytree.py(890): tree_iter,232
-6928969471259.302,4097061,4097061,236,3.145,873,python_function,X,torch/utils/_pytree.py(672): _is_leaf,235
-6928969471259.824,4097061,4097061,237,2.357,874,python_function,X,torch/utils/_pytree.py(665): _get_node_type,236
-6928969471260.461,4097061,4097061,238,1.405,875,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,237
-6928969471261.269,4097061,4097061,239,0.114,876,python_function,X,<built-in function len>,238
-6928969471262.956,4097061,4097061,240,1.655,877,python_function,X,torch/utils/_pytree.py(665): _get_node_type,235
-6928969471263.349,4097061,4097061,241,1.023,878,python_function,X,torch/utils/_pytree.py(654): _is_namedtuple_instance,240
-6928969471264.005,4097061,4097061,242,0.08,879,python_function,X,<built-in function len>,241
-6928969471268.306,4097061,4097061,243,25.741,880,python_function,X,torch/utils/_pytree.py(439): _dict_flatten,235
-6928969471281.183,4097061,4097061,244,1.157,881,python_function,X,<built-in method values of dict object at 0x7fdeb3b64740>,243
-6928969471291.99,4097061,4097061,245,0.51,882,python_function,X,<built-in method keys of dict object at 0x7fdeb3b64740>,243
-6928969471307.178,4097061,4097061,246,74.336,883,python_function,X,<built-in method  of PyCapsule object at 0x7fdeb3b0fe40>,203
-6928969471393.034,4097061,4097061,247,0.766,884,python_function,X,<built-in method __exit__ of torch._C.DisableTorchFunctionSubclass object at 0x7fdeb3c013d0>,200
-6928969471402.747,4097061,4097061,248,12.513,885,python_function,X,torch/profiler/profiler.py(420): schedule_fn,200
-6928969471418.226,4097061,4097061,249,423.144,886,python_function,X,torch/profiler/profiler.py(789): _transit_action,200
-6928969471421.055,4097061,4097061,250,15.141,887,python_function,X,<built-in method get of dict object at 0x7fe046264580>,249
-6928969471424.772,4097061,4097061,251,7.221,888,python_function,X,enum.py(783): __hash__,250
-6928969471430.161,4097061,4097061,252,1.668,889,python_function,X,<built-in function hash>,251
-6928969471433.329,4097061,4097061,253,1.248,890,python_function,X,enum.py(783): __hash__,250
-6928969471434.234,4097061,4097061,254,0.235,891,python_function,X,<built-in function hash>,253
-6928969471440.185,4097061,4097061,255,401.185,892,python_function,X,torch/profiler/profiler.py(208): stop_trace,249
-6928969471444.547,4097061,4097061,256,396.823,893,python_function,X,torch/autograd/profiler.py(344): __exit__,255
-6928969471448.044,4097061,4097061,257,1.185,894,python_function,X,<built-in function hasattr>,256
-6928969471452.148,4097061,4097061,258,0.476,895,python_function,X,<built-in function getattr>,256
-6928969471453.882,4097061,4097061,259,1.221,896,python_function,X,<built-in function hasattr>,256
-6928969471458.908,4097061,4097061,260,382.462,897,python_function,X,torch/cuda/__init__.py(944): synchronize,256
-6928969471462.008,4097061,4097061,261,12.755,898,python_function,X,torch/cuda/__init__.py(289): _lazy_init,260
-6928969471465.578,4097061,4097061,262,8.678,899,python_function,X,torch/cuda/__init__.py(242): is_initialized,261
-6928969471471.218,4097061,4097061,263,2.513,900,python_function,X,<built-in function _cuda_isInBadFork>,262
-6928969471481.429,4097061,4097061,264,273.148,901,python_function,X,torch/cuda/__init__.py(439): __init__,260
-6928969471484.89,4097061,4097061,265,267.902,902,python_function,X,torch/cuda/_utils.py(9): _get_device_index,264
-6928969471486.18,4097061,4097061,266,0.681,903,python_function,X,<built-in function isinstance>,265
-6928969471488.655,4097061,4097061,267,0.176,904,python_function,X,<built-in function isinstance>,265
-6928969471491.013,4097061,4097061,268,0.203,905,python_function,X,<built-in function isinstance>,265
-6928969471493.329,4097061,4097061,269,0.573,906,python_function,X,torch/_jit_internal.py(103): is_scripting,265
-6928969471495.531,4097061,4097061,270,0.189,907,python_function,X,<built-in function isinstance>,265
-6928969471498.829,4097061,4097061,271,253.517,908,python_function,X,torch/_utils.py(773): _get_device_index,265
-6928969471537.53,4097061,4097061,272,0.287,909,python_function,X,<built-in function isinstance>,271
-6928969471539.403,4097061,4097061,273,0.391,910,python_function,X,<built-in function isinstance>,271
-6928969471540.657,4097061,4097061,274,0.133,911,python_function,X,<built-in function isinstance>,271
-6928969471543.062,4097061,4097061,275,0.412,912,python_function,X,torch/_jit_internal.py(103): is_scripting,271
-6928969471546.373,4097061,4097061,276,205.5,913,python_function,X,torch/_utils.py(747): _get_current_device_index,271
-6928969471549.894,4097061,4097061,277,201.589,914,python_function,X,torch/_utils.py(733): _get_device_attr,276
-6928969471552.407,4097061,4097061,278,164.201,915,python_function,X,torch/_utils.py(718): _get_available_device_type,277
-6928969471555.415,4097061,4097061,279,160.622,916,python_function,X,torch/cuda/__init__.py(116): is_available,278
-6928969471558.422,4097061,4097061,280,2.829,917,python_function,X,torch/cuda/__init__.py(107): _is_compiled,279
-6928969471560.195,4097061,4097061,281,0.966,918,python_function,X,<built-in function hasattr>,280
-6928969471563.464,4097061,4097061,282,47.85,919,python_function,X,torch/cuda/__init__.py(112): _nvml_based_avail,279
-6928969471567.532,4097061,4097061,283,42.579,920,python_function,X,os.py(772): getenv,282
-6928969471571.419,4097061,4097061,284,38.233,921,python_function,X,_collections_abc.py(821): get,283
-6928969471575.019,4097061,4097061,285,30.251,922,python_function,X,os.py(675): __getitem__,284
-6928969471581.392,4097061,4097061,286,9.799,923,python_function,X,os.py(755): encode,285
-6928969471582.793,4097061,4097061,287,0.146,924,python_function,X,<built-in function isinstance>,286
-6928969471589.405,4097061,4097061,288,1.524,925,python_function,X,<built-in method encode of str object at 0x7fdfd178c800>,286
-6928969471713.976,4097061,4097061,289,1.706,926,python_function,X,<built-in function _cuda_getDeviceCount>,279
-6928969471721.227,4097061,4097061,290,1.588,927,python_function,X,<built-in method lower of str object at 0x7fe044aa1c30>,277
-6928969471725.098,4097061,4097061,291,25.916,928,python_function,X,torch/_utils.py(749): <lambda>,277
-6928969471727.207,4097061,4097061,292,23.564,929,python_function,X,torch/cuda/__init__.py(938): current_device,291
-6928969471728.683,4097061,4097061,293,2.351,930,python_function,X,torch/cuda/__init__.py(289): _lazy_init,292
-6928969471729.521,4097061,4097061,294,1.246,931,python_function,X,torch/cuda/__init__.py(242): is_initialized,293
-6928969471730.06,4097061,4097061,295,0.397,932,python_function,X,<built-in function _cuda_isInBadFork>,294
-6928969471735.521,4097061,4097061,296,15.039,933,python_function,X,<built-in function _cuda_getDevice>,292
-6928969471758.883,4097061,4097061,297,8.813,934,python_function,X,torch/cuda/__init__.py(443): __enter__,260
-6928969471762.185,4097061,4097061,298,5.008,935,python_function,X,<built-in function _cuda_exchangeDevice>,297
-6928969471775.913,4097061,4097061,299,30.01,936,python_function,X,<built-in function _cuda_synchronize>,260
-6928969471808.317,4097061,4097061,300,33.053,937,python_function,X,torch/cuda/__init__.py(446): __exit__,260
-6928969471811.289,4097061,4097061,301,2.853,938,python_function,X,<built-in function _cuda_maybeExchangeDevice>,300
-6928969471819.734,4097061,4097061,302,2.745,939,python_function,X,<built-in function perf_counter_ns>,300
-6928969471826.401,4097061,4097061,303,14.969,940,python_function,X,<built-in method _disable_profiler of PyCapsule object at 0x7fdec2bfd800>,300
+Ev Idx,tid,cat,name,pid,dur,Python parent id,Python id,ts,ph
+638,0,python_function,threading.py(973): _bootstrap,0,191769.263,,1,6928969280072.107,X
+639,0,python_function,threading.py(1016): _bootstrap_inner,0,191767.925,1,2,6928969280073.445,X
+640,0,python_function,decorator.py(232): fun,0,191765.793,2,3,6928969280075.577,X
+641,0,python_function,IPython/core/history.py(61): only_when_enabled,0,191764.879,3,4,6928969280076.491,X
+642,0,python_function,IPython/core/history.py(903): run,0,191761.527,4,5,6928969280079.843,X
+643,0,python_function,threading.py(607): wait,0,191760.897,5,6,6928969280080.473,X
+644,0,python_function,threading.py(320): wait,0,191760.313,6,7,6928969280081.057,X
+645,0,python_function,threading.py(973): _bootstrap,0,191755.685,7,8,6928969280085.685,X
+646,0,python_function,threading.py(1016): _bootstrap_inner,0,191755.189,8,9,6928969280086.181,X
+647,0,python_function,ipykernel/control.py(23): run,0,191753.954,9,10,6928969280087.416,X
+648,0,python_function,tornado/platform/asyncio.py(205): start,0,191751.83,10,11,6928969280089.54,X
+649,0,python_function,asyncio/base_events.py(603): run_forever,0,191750.253,11,12,6928969280091.117,X
+650,0,python_function,asyncio/base_events.py(1871): _run_once,0,191749.287,12,13,6928969280092.083,X
+651,0,python_function,selectors.py(469): select,0,191747.899,13,14,6928969280093.471,X
+652,0,python_function,threading.py(973): _bootstrap,0,191745.446,14,15,6928969280095.924,X
+653,0,python_function,threading.py(1016): _bootstrap_inner,0,191745.101,15,16,6928969280096.269,X
+654,0,python_function,threading.py(953): run,0,191744.238,16,17,6928969280097.132,X
+655,0,python_function,ipykernel/iostream.py(387): _watch_pipe_fd,0,191743.262,17,18,6928969280098.108,X
+656,0,python_function,threading.py(973): _bootstrap,0,191741.447,18,19,6928969280099.923,X
+657,0,python_function,threading.py(1016): _bootstrap_inner,0,191741.065,19,20,6928969280100.305,X
+658,0,python_function,threading.py(953): run,0,191740.501,20,21,6928969280100.869,X
+659,0,python_function,ipykernel/iostream.py(387): _watch_pipe_fd,0,191740.215,21,22,6928969280101.155,X
+660,0,python_function,threading.py(973): _bootstrap,0,191737.865,22,23,6928969280103.505,X
+661,0,python_function,threading.py(1016): _bootstrap_inner,0,191737.534,23,24,6928969280103.836,X
+662,0,python_function,ipykernel/heartbeat.py(106): run,0,191736.267,24,25,6928969280105.103,X
+663,0,python_function,threading.py(973): _bootstrap,0,191732.817,25,26,6928969280108.553,X
+664,0,python_function,threading.py(1016): _bootstrap_inner,0,191732.572,26,27,6928969280108.798,X
+665,0,python_function,threading.py(953): run,0,191732.055,27,28,6928969280109.315,X
+666,0,python_function,ipykernel/iostream.py(92): _thread_main,0,191731.384,28,29,6928969280109.986,X
+667,0,python_function,tornado/platform/asyncio.py(205): start,0,191730.387,29,30,6928969280110.983,X
+668,0,python_function,asyncio/base_events.py(603): run_forever,0,191729.991,30,31,6928969280111.379,X
+669,0,python_function,asyncio/base_events.py(1871): _run_once,0,191729.677,31,32,6928969280111.693,X
+670,0,python_function,selectors.py(469): select,0,191729.2,32,33,6928969280112.17,X
+671,4097061,python_function,runpy.py(196): _run_module_as_main,4097061,191719.957,,34,6928969280121.413,X
+672,4097061,python_function,runpy.py(86): _run_code,4097061,191718.819,34,35,6928969280122.551,X
+673,4097061,python_function,ipykernel_launcher.py(18): <module>,4097061,191717.771,35,36,6928969280123.599,X
+674,4097061,python_function,traitlets/config/application.py(1075): launch_instance,4097061,191716.646,36,37,6928969280124.724,X
+675,4097061,python_function,ipykernel/kernelapp.py(739): start,4097061,191715.349,37,38,6928969280126.021,X
+676,4097061,python_function,tornado/platform/asyncio.py(205): start,4097061,191715.033,38,39,6928969280126.337,X
+677,4097061,python_function,asyncio/base_events.py(603): run_forever,4097061,191714.791,39,40,6928969280126.579,X
+678,4097061,python_function,asyncio/base_events.py(1909): _run_once,4097061,191714.211,40,41,6928969280127.159,X
+679,4097061,python_function,asyncio/events.py(80): _run,4097061,191711.771,41,42,6928969280129.599,X
+680,4097061,python_function,ipykernel/kernelbase.py(545): dispatch_queue,4097061,191710.712,42,43,6928969280130.658,X
+681,4097061,python_function,ipykernel/kernelbase.py(534): process_one,4097061,191709.758,43,44,6928969280131.612,X
+682,4097061,python_function,ipykernel/kernelbase.py(437): dispatch_shell,4097061,191708.716,44,45,6928969280132.654,X
+683,4097061,python_function,ipykernel/ipkernel.py(362): execute_request,4097061,191707.773,45,46,6928969280133.597,X
+684,4097061,python_function,ipykernel/kernelbase.py(778): execute_request,4097061,191706.864,46,47,6928969280134.506,X
+685,4097061,python_function,ipykernel/ipkernel.py(449): do_execute,4097061,191705.065,47,48,6928969280136.305,X
+686,4097061,python_function,ipykernel/zmqshell.py(549): run_cell,4097061,191703.435,48,49,6928969280137.935,X
+687,4097061,python_function,IPython/core/interactiveshell.py(3075): run_cell,4097061,191701.255,49,50,6928969280140.115,X
+688,4097061,python_function,IPython/core/interactiveshell.py(3130): _run_cell,4097061,191700.298,50,51,6928969280141.072,X
+689,4097061,python_function,IPython/core/async_helpers.py(128): _pseudo_sync_runner,4097061,191684.148,51,52,6928969280157.222,X
+690,4097061,python_function,IPython/core/interactiveshell.py(3334): run_cell_async,4097061,191682.57,52,53,6928969280158.8,X
+691,4097061,python_function,IPython/core/interactiveshell.py(3517): run_ast_nodes,4097061,191681.301,53,54,6928969280160.069,X
+692,4097061,python_function,IPython/core/interactiveshell.py(3577): run_code,4097061,191680.49,54,55,6928969280160.88,X
+693,4097061,python_function,/tmp/ipykernel_4097061/4243629771.py(14): <module>,4097061,191679.891,55,56,6928969280161.479,X
+694,4097061,python_function,pytorch_tracing.py(49): py_tracing_backward,4097061,191679.087,56,57,6928969280162.283,X
+695,4097061,python_function,torch/profiler/profiler.py(744): __enter__,4097061,291.259,57,58,6928969280163.002,X
+696,4097061,python_function,torch/profiler/profiler.py(754): start,4097061,290.536,58,59,6928969280163.374,X
+697,4097061,python_function,torch/profiler/profiler.py(793): _transit_action,4097061,133.365,59,60,6928969280164.068,X
+698,4097061,python_function,torch/profiler/profiler.py(174): start_trace,4097061,132.124,60,61,6928969280164.535,X
+699,4097061,python_function,torch/autograd/profiler.py(339): _start_trace,4097061,32.152,61,62,6928969280164.908,X
+700,4097061,python_function,<built-in function perf_counter_ns>,4097061,1.32,62,63,6928969280188.268,X
+701,4097061,python_function,torch/profiler/profiler.py(304): add_metadata_json,4097061,13.472,61,64,6928969280204.46,X
+702,4097061,python_function,<built-in method _add_metadata_json of PyCapsule object at 0x7fdec2bfd890>,4097061,4.146,64,65,6928969280213.536,X
+703,4097061,python_function,torch/profiler/profiler.py(304): add_metadata_json,4097061,1.274,61,66,6928969280218.924,X
+704,4097061,python_function,<built-in method _add_metadata_json of PyCapsule object at 0x7fdec2bfd890>,4097061,0.766,66,67,6928969280219.318,X
+705,4097061,python_function,<built-in method kineto_available of PyCapsule object at 0x7fdec2bfd8f0>,4097061,0.988,61,68,6928969280224.656,X
+706,4097061,python_function,torch/profiler/profiler.py(319): _get_distributed_info,4097061,26.69,61,69,6928969280227.502,X
+707,4097061,python_function,torch/distributed/__init__.py(14): is_available,4097061,4.225,69,70,6928969280241.413,X
+708,4097061,python_function,<built-in function hasattr>,4097061,0.915,70,71,6928969280244.603,X
+709,4097061,python_function,torch/distributed/distributed_c10d.py(1121): is_initialized,4097061,6.467,69,72,6928969280247.492,X
+710,4097061,python_function,torch/distributed/distributed_c10d.py(705): WORLD,4097061,3.561,72,73,6928969280250.242,X
+711,4097061,python_function,torch/distributed/distributed_c10d.py(576): default_pg,4097061,0.649,73,74,6928969280253.041,X
+712,4097061,python_function,<built-in function hasattr>,4097061,1.18,61,75,6928969280256.179,X
+713,4097061,python_function,torch/utils/_config_module.py(379): __getattr__,4097061,5.871,61,76,6928969280268.818,X
+714,4097061,python_function,torch/utils/_config_module.py(148): __getattr__,4097061,2.487,76,77,6928969280271.946,X
+715,4097061,python_function,<built-in method items of dict object at 0x7fdeb3b37f80>,4097061,0.48,61,78,6928969280294.949,X
+716,4097061,python_function,torch/autograd/profiler.py(721): __init__,4097061,13.33,59,79,6928969280302.118,X
+717,4097061,python_function,typing.py(306): inner,4097061,3.902,79,80,6928969280308.39,X
+718,4097061,python_function,torch/jit/__init__.py(128): annotate,4097061,0.742,79,81,6928969280313.873,X
+719,4097061,python_function,torch/autograd/profiler.py(732): __enter__,4097061,136.201,59,82,6928969280317.387,X
+720,4097061,python_function,torch/_ops.py(1105): __call__,4097061,130.806,82,83,6928969280321.975,X
+721,4097061,python_function,<built-in method _record_function_enter_new of PyCapsule object at 0x7fdec25333f0>,4097061,126.557,83,84,6928969280326.058,X
+722,4097061,python_function,<built-in method sum of Tensor object at 0x7fdeb3b1b740>,4097061,15640.102,57,85,6928969280462.166,X
+723,4097061,python_function,torch/_tensor.py(525): backward,4097061,174955.558,57,86,6928969296114.914,X
+724,4097061,python_function,<built-in function _has_torch_function_unary>,4097061,1.812,86,87,6928969296126.304,X
+725,4097061,python_function,torch/autograd/__init__.py(242): backward,4097061,174917.078,86,88,6928969296133.943,X
+726,4097061,python_function,<built-in method _are_functorch_transforms_active of PyCapsule object at 0x7fe0449150e0>,4097061,4.254,88,89,6928969296145.073,X
+727,4097061,python_function,<built-in function isinstance>,4097061,0.551,88,90,6928969296153.18,X
+728,4097061,python_function,<built-in function isinstance>,4097061,2.544,88,91,6928969296157.316,X
+729,4097061,python_function,<built-in function len>,4097061,0.701,88,92,6928969296163.405,X
+730,4097061,python_function,torch/autograd/__init__.py(232): _tensor_or_tensors_to_tuple,4097061,2.35,88,93,6928969296166.222,X
+731,4097061,python_function,torch/autograd/__init__.py(88): _make_grads,4097061,8049.959,88,94,6928969296171.019,X
+732,4097061,python_function,typing.py(306): inner,4097061,231.434,94,95,6928969296179.731,X
+733,4097061,python_function,typing.py(401): __getitem__,4097061,222.817,95,96,6928969296185.011,X
+734,4097061,python_function,typing.py(483): Union,4097061,216.866,96,97,6928969296190.481,X
+735,4097061,python_function,<built-in function isinstance>,4097061,0.187,97,98,6928969296192.871,X
+736,4097061,python_function,typing.py(515): <genexpr>,4097061,26.151,97,99,6928969296199.103,X
+737,4097061,python_function,typing.py(146): _type_check,4097061,22.211,99,100,6928969296202.577,X
+738,4097061,python_function,typing.py(137): _type_convert,4097061,2.843,100,101,6928969296208.449,X
+739,4097061,python_function,<built-in function isinstance>,4097061,1.548,101,102,6928969296209.533,X
+740,4097061,python_function,<built-in function isinstance>,4097061,0.211,100,103,6928969296212.243,X
+741,4097061,python_function,<built-in function isinstance>,4097061,0.2,100,104,6928969296220.904,X
+742,4097061,python_function,<built-in function isinstance>,4097061,0.151,100,105,6928969296224.344,X
+743,4097061,python_function,typing.py(515): <genexpr>,4097061,5.491,97,106,6928969296225.772,X
+744,4097061,python_function,typing.py(146): _type_check,4097061,4.601,106,107,6928969296226.49,X
+745,4097061,python_function,typing.py(137): _type_convert,4097061,1.316,107,108,6928969296227.474,X
+746,4097061,python_function,<built-in function isinstance>,4097061,0.825,108,109,6928969296227.849,X
+747,4097061,python_function,<built-in function isinstance>,4097061,0.134,107,110,6928969296229.225,X
+748,4097061,python_function,<built-in function isinstance>,4097061,0.093,107,111,6928969296229.996,X
+749,4097061,python_function,<built-in function isinstance>,4097061,0.118,107,112,6928969296230.808,X
+750,4097061,python_function,typing.py(515): <genexpr>,4097061,0.348,97,113,6928969296231.548,X
+751,4097061,python_function,typing.py(267): _remove_dups_flatten,4097061,17.471,97,114,6928969296235.171,X
+752,4097061,python_function,<built-in function isinstance>,4097061,0.314,114,115,6928969296237.301,X
+753,4097061,python_function,<built-in function isinstance>,4097061,0.139,114,116,6928969296238.417,X
+754,4097061,python_function,<built-in method append of list object at 0x7fdeb3c3ccc0>,4097061,0.751,114,117,6928969296243.236,X
+755,4097061,python_function,<built-in function isinstance>,4097061,0.223,114,118,6928969296244.816,X
+756,4097061,python_function,<built-in function isinstance>,4097061,0.112,114,119,6928969296245.35,X
+757,4097061,python_function,<built-in method append of list object at 0x7fdeb3c3ccc0>,4097061,0.094,114,120,6928969296245.831,X
+758,4097061,python_function,typing.py(253): _deduplicate,4097061,3.843,114,121,6928969296248.079,X
+759,4097061,python_function,<built-in function len>,4097061,0.262,121,122,6928969296250.744,X
+760,4097061,python_function,<built-in function len>,4097061,0.212,121,123,6928969296251.29,X
+761,4097061,python_function,<built-in function len>,4097061,0.08,97,124,6928969296253.378,X
+762,4097061,python_function,<built-in function len>,4097061,0.101,97,125,6928969296254.29,X
+763,4097061,python_function,typing.py(1016): __init__,4097061,148.008,97,126,6928969296258.599,X
+764,4097061,python_function,typing.py(947): __init__,4097061,31.244,126,127,6928969296263.887,X
+765,4097061,python_function,typing.py(986): __setattr__,4097061,13.072,127,128,6928969296267.606,X
+766,4097061,python_function,typing.py(935): _is_dunder,4097061,5.685,128,129,6928969296270.097,X
+767,4097061,python_function,<built-in method startswith of str object at 0x7fe046267770>,4097061,1.752,129,130,6928969296273.694,X
+768,4097061,python_function,typing.py(986): __setattr__,4097061,2.672,127,131,6928969296282.08,X
+769,4097061,python_function,typing.py(935): _is_dunder,4097061,0.931,131,132,6928969296282.464,X
+770,4097061,python_function,<built-in method startswith of str object at 0x7fe046267770>,4097061,0.251,132,133,6928969296283.039,X
+771,4097061,python_function,typing.py(986): __setattr__,4097061,5.108,127,134,6928969296285.64,X
+772,4097061,python_function,typing.py(935): _is_dunder,4097061,3.851,134,135,6928969296285.924,X
+773,4097061,python_function,<built-in method startswith of str object at 0x7fe046267770>,4097061,0.346,135,136,6928969296286.136,X
+774,4097061,python_function,<built-in method endswith of str object at 0x7fe046446130>,4097061,0.849,135,137,6928969296288.781,X
+775,4097061,python_function,typing.py(986): __setattr__,4097061,3.037,127,138,6928969296291.874,X
+776,4097061,python_function,typing.py(935): _is_dunder,4097061,1.227,138,139,6928969296292.158,X
+777,4097061,python_function,<built-in method startswith of str object at 0x7fe046267770>,4097061,0.236,139,140,6928969296292.398,X
+778,4097061,python_function,<built-in method endswith of str object at 0x7fe046446130>,4097061,0.375,139,141,6928969296292.94,X
+779,4097061,python_function,<built-in function isinstance>,4097061,0.093,126,142,6928969296296.597,X
+780,4097061,python_function,typing.py(1022): <genexpr>,4097061,1.9,126,143,6928969296334.651,X
+781,4097061,python_function,typing.py(1022): <genexpr>,4097061,0.299,126,144,6928969296337.014,X
+782,4097061,python_function,typing.py(1022): <genexpr>,4097061,0.179,126,145,6928969296337.79,X
+783,4097061,python_function,typing.py(986): __setattr__,4097061,3.073,126,146,6928969296339.25,X
+784,4097061,python_function,typing.py(935): _is_dunder,4097061,1.821,146,147,6928969296339.582,X
+785,4097061,python_function,<built-in method startswith of str object at 0x7fe046267770>,4097061,0.395,147,148,6928969296339.881,X
+786,4097061,python_function,<built-in method endswith of str object at 0x7fe046446130>,4097061,0.507,147,149,6928969296340.622,X
+787,4097061,python_function,typing_extensions.py(2989): _collect_type_vars,4097061,42.812,126,150,6928969296349.528,X
+788,4097061,python_function,typing_extensions.py(2954): _has_generic_or_protocol_as_origin,4097061,17.378,150,151,6928969296352.215,X
+789,4097061,python_function,<built-in function _getframe>,4097061,1.174,151,152,6928969296356.016,X
+790,4097061,python_function,<built-in method get of dict object at 0x7fe046264580>,4097061,0.484,151,153,6928969296360.752,X
+791,4097061,python_function,<built-in method get of dict object at 0x7fe046264580>,4097061,0.27,151,154,6928969296366.86,X
+792,4097061,python_function,typing_extensions.py(2976): _is_unpacked_typevartuple,4097061,8.877,150,155,6928969296371.679,X
+793,4097061,python_function,typing.py(1902): get_origin,4097061,6.453,155,156,6928969296373.598,X
+794,4097061,python_function,<built-in function isinstance>,4097061,0.19,156,157,6928969296374.949,X
+795,4097061,python_function,<built-in function isinstance>,4097061,0.402,156,158,6928969296376.216,X
+796,4097061,python_function,<built-in function isinstance>,4097061,0.125,156,159,6928969296379.645,X
+797,4097061,python_function,<built-in function isinstance>,4097061,0.088,150,160,6928969296381.202,X
+798,4097061,python_function,typing_extensions.py(154): _should_collect_from_parameters,4097061,3.514,150,161,6928969296382.695,X
+799,4097061,python_function,<built-in function isinstance>,4097061,0.215,161,162,6928969296385.829,X
+800,4097061,python_function,typing_extensions.py(2976): _is_unpacked_typevartuple,4097061,2.822,150,163,6928969296386.822,X
+801,4097061,python_function,typing.py(1902): get_origin,4097061,2.074,163,164,6928969296387.154,X
+802,4097061,python_function,<built-in function isinstance>,4097061,0.173,164,165,6928969296387.455,X
+803,4097061,python_function,<built-in function isinstance>,4097061,0.382,164,166,6928969296388.083,X
+804,4097061,python_function,<built-in function isinstance>,4097061,0.092,164,167,6928969296388.978,X
+805,4097061,python_function,<built-in function isinstance>,4097061,0.085,150,168,6928969296390.023,X
+806,4097061,python_function,typing_extensions.py(154): _should_collect_from_parameters,4097061,0.984,150,169,6928969296390.583,X
+807,4097061,python_function,<built-in function isinstance>,4097061,0.201,169,170,6928969296391.254,X
+808,4097061,python_function,typing.py(986): __setattr__,4097061,3.228,126,171,6928969296393.666,X
+809,4097061,python_function,typing.py(935): _is_dunder,4097061,1.437,171,172,6928969296394.056,X
+810,4097061,python_function,<built-in method startswith of str object at 0x7fe046267770>,4097061,0.383,172,173,6928969296394.329,X
+811,4097061,python_function,<built-in method endswith of str object at 0x7fe046446130>,4097061,0.355,172,174,6928969296395.037,X
+812,4097061,python_function,typing.py(986): __setattr__,4097061,2.095,126,175,6928969296397.64,X
+813,4097061,python_function,typing.py(935): _is_dunder,4097061,0.732,175,176,6928969296397.937,X
+814,4097061,python_function,<built-in method startswith of str object at 0x7fe046267770>,4097061,0.255,176,177,6928969296398.252,X
+815,4097061,python_function,typing.py(986): __setattr__,4097061,1.988,126,178,6928969296400.523,X
+816,4097061,python_function,typing.py(935): _is_dunder,4097061,0.666,178,179,6928969296400.865,X
+817,4097061,python_function,<built-in method startswith of str object at 0x7fe046267770>,4097061,0.254,179,180,6928969296401.159,X
+818,4097061,python_function,typing.py(986): __setattr__,4097061,2.742,126,181,6928969296403.631,X
+819,4097061,python_function,typing.py(935): _is_dunder,4097061,1.16,181,182,6928969296403.922,X
+820,4097061,python_function,<built-in method startswith of str object at 0x7fe046267770>,4097061,0.266,182,183,6928969296404.178,X
+821,4097061,python_function,<built-in method endswith of str object at 0x7fe046446130>,4097061,0.257,182,184,6928969296404.735,X
+822,4097061,python_function,typing.py(1737): cast,4097061,0.514,94,185,6928969296412.562,X
+823,4097061,python_function,<built-in function isinstance>,4097061,0.94,94,186,6928969296414.537,X
+824,4097061,python_function,<built-in function isinstance>,4097061,0.092,94,187,6928969296428.76,X
+825,4097061,python_function,<built-in function isinstance>,4097061,0.515,94,188,6928969296437.577,X
+826,4097061,python_function,<built-in function isinstance>,4097061,0.226,94,189,6928969296439.525,X
+827,4097061,python_function,<built-in function isinstance>,4097061,0.117,94,190,6928969296442.882,X
+828,4097061,python_function,<built-in function isinstance>,4097061,0.075,94,191,6928969296443.628,X
+829,4097061,python_function,<built-in method numel of Tensor object at 0x7fdeb3b1ae30>,4097061,2.5,94,192,6928969296449.4,X
+830,4097061,python_function,<built-in function isinstance>,4097061,0.15,94,193,6928969296454.791,X
+831,4097061,python_function,<built-in function isinstance>,4097061,0.075,94,194,6928969296455.528,X
+832,4097061,python_function,<built-in method ones_like of type object at 0x7fe02965f1c0>,4097061,7748.661,94,195,6928969296461.156,X
+833,4097061,python_function,<built-in method append of list object at 0x7fdeb3c3ccc0>,4097061,0.855,94,196,6928969304215.053,X
+834,4097061,python_function,torch/autograd/graph.py(816): _engine_run_backward,4097061,166813.936,88,197,6928969304229.222,X
+835,4097061,python_function,logging/__init__.py(1710): getEffectiveLevel,4097061,5.936,197,198,6928969304233.093,X
+836,4097061,python_function,<built-in method run_backward of torch._C._EngineBase object at 0x7fe02a18f410>,4097061,166775.643,197,199,6928969304258.56,X
+837,4097061,python_function,torch/profiler/profiler.py(766): step,4097061,753.78,57,200,6928969471087.59,X
+838,4097061,python_function,torch/autograd/profiler.py(738): __exit__,4097061,295.493,200,201,6928969471098.771,X
+839,4097061,python_function,torch/_jit_internal.py(103): is_scripting,4097061,0.574,201,202,6928969471109.219,X
+840,4097061,python_function,torch/_ops.py(939): __call__,4097061,239.487,201,203,6928969471142.465,X
+841,4097061,python_function,torch/_ops.py(993): _must_dispatch_in_python,4097061,152.167,203,204,6928969471146.326,X
+842,4097061,python_function,torch/utils/_pytree.py(1197): tree_any,4097061,142.828,204,205,6928969471154.29,X
+843,4097061,python_function,<built-in function any>,4097061,118.699,205,206,6928969471177.814,X
+844,4097061,python_function,torch/utils/_pytree.py(890): tree_iter,4097061,59.482,206,207,6928969471180.404,X
+845,4097061,python_function,torch/utils/_pytree.py(672): _is_leaf,4097061,19.108,207,208,6928969471184.263,X
+846,4097061,python_function,torch/utils/_pytree.py(665): _get_node_type,4097061,12.614,208,209,6928969471188.357,X
+847,4097061,python_function,torch/utils/_pytree.py(654): _is_namedtuple_instance,4097061,9.331,209,210,6928969471191.117,X
+848,4097061,python_function,<built-in function len>,4097061,1.502,210,211,6928969471195.626,X
+849,4097061,python_function,torch/utils/_pytree.py(665): _get_node_type,4097061,2.398,207,212,6928969471204.923,X
+850,4097061,python_function,torch/utils/_pytree.py(654): _is_namedtuple_instance,4097061,1.386,212,213,6928969471205.603,X
+851,4097061,python_function,<built-in function len>,4097061,0.077,213,214,6928969471206.484,X
+852,4097061,python_function,torch/utils/_pytree.py(411): _tuple_flatten,4097061,3.023,207,215,6928969471212.001,X
+853,4097061,python_function,torch/utils/_pytree.py(890): tree_iter,4097061,17.779,207,216,6928969471221.915,X
+854,4097061,python_function,torch/utils/_pytree.py(672): _is_leaf,4097061,3.148,216,217,6928969471222.746,X
+855,4097061,python_function,torch/utils/_pytree.py(665): _get_node_type,4097061,1.957,217,218,6928969471223.598,X
+856,4097061,python_function,torch/utils/_pytree.py(654): _is_namedtuple_instance,4097061,0.979,218,219,6928969471224.286,X
+857,4097061,python_function,<built-in function len>,4097061,0.1,219,220,6928969471224.829,X
+858,4097061,python_function,torch/utils/_pytree.py(665): _get_node_type,4097061,1.898,216,221,6928969471226.509,X
+859,4097061,python_function,torch/utils/_pytree.py(654): _is_namedtuple_instance,4097061,0.87,221,222,6928969471227.116,X
+860,4097061,python_function,<built-in function len>,4097061,0.085,222,223,6928969471227.624,X
+861,4097061,python_function,torch/utils/_pytree.py(411): _tuple_flatten,4097061,0.839,216,224,6928969471229.174,X
+862,4097061,python_function,torch/utils/_pytree.py(890): tree_iter,4097061,7.265,216,225,6928969471232.101,X
+863,4097061,python_function,torch/utils/_pytree.py(672): _is_leaf,4097061,6.241,225,226,6928969471232.777,X
+864,4097061,python_function,torch/utils/_pytree.py(665): _get_node_type,4097061,5.046,226,227,6928969471233.347,X
+865,4097061,python_function,torch/utils/_pytree.py(654): _is_namedtuple_instance,4097061,4.241,227,228,6928969471233.905,X
+866,4097061,python_function,<built-in function len>,4097061,0.286,228,229,6928969471237.363,X
+867,4097061,python_function,torch/_ops.py(995): <lambda>,4097061,8.283,206,230,6928969471241.486,X
+868,4097061,python_function,<built-in function isinstance>,4097061,2.577,230,231,6928969471246.906,X
+869,4097061,python_function,torch/utils/_pytree.py(904): tree_iter,4097061,44.129,206,232,6928969471251.38,X
+870,4097061,python_function,torch/utils/_pytree.py(904): tree_iter,4097061,4.008,232,233,6928969471252.564,X
+871,4097061,python_function,torch/utils/_pytree.py(896): tree_iter,4097061,0.442,233,234,6928969471253.765,X
+872,4097061,python_function,torch/utils/_pytree.py(890): tree_iter,4097061,36.125,232,235,6928969471258.706,X
+873,4097061,python_function,torch/utils/_pytree.py(672): _is_leaf,4097061,3.145,235,236,6928969471259.302,X
+874,4097061,python_function,torch/utils/_pytree.py(665): _get_node_type,4097061,2.357,236,237,6928969471259.824,X
+875,4097061,python_function,torch/utils/_pytree.py(654): _is_namedtuple_instance,4097061,1.405,237,238,6928969471260.461,X
+876,4097061,python_function,<built-in function len>,4097061,0.114,238,239,6928969471261.269,X
+877,4097061,python_function,torch/utils/_pytree.py(665): _get_node_type,4097061,1.655,235,240,6928969471262.956,X
+878,4097061,python_function,torch/utils/_pytree.py(654): _is_namedtuple_instance,4097061,1.023,240,241,6928969471263.349,X
+879,4097061,python_function,<built-in function len>,4097061,0.08,241,242,6928969471264.005,X
+880,4097061,python_function,torch/utils/_pytree.py(439): _dict_flatten,4097061,25.741,235,243,6928969471268.306,X
+881,4097061,python_function,<built-in method values of dict object at 0x7fdeb3b64740>,4097061,1.157,243,244,6928969471281.183,X
+882,4097061,python_function,<built-in method keys of dict object at 0x7fdeb3b64740>,4097061,0.51,243,245,6928969471291.99,X
+883,4097061,python_function,<built-in method  of PyCapsule object at 0x7fdeb3b0fe40>,4097061,74.336,203,246,6928969471307.178,X
+884,4097061,python_function,<built-in method __exit__ of torch._C.DisableTorchFunctionSubclass object at 0x7fdeb3c013d0>,4097061,0.766,200,247,6928969471393.034,X
+885,4097061,python_function,torch/profiler/profiler.py(420): schedule_fn,4097061,12.513,200,248,6928969471402.747,X
+886,4097061,python_function,torch/profiler/profiler.py(789): _transit_action,4097061,423.144,200,249,6928969471418.226,X
+887,4097061,python_function,<built-in method get of dict object at 0x7fe046264580>,4097061,15.141,249,250,6928969471421.055,X
+888,4097061,python_function,enum.py(783): __hash__,4097061,7.221,250,251,6928969471424.772,X
+889,4097061,python_function,<built-in function hash>,4097061,1.668,251,252,6928969471430.161,X
+890,4097061,python_function,enum.py(783): __hash__,4097061,1.248,250,253,6928969471433.329,X
+891,4097061,python_function,<built-in function hash>,4097061,0.235,253,254,6928969471434.234,X
+892,4097061,python_function,torch/profiler/profiler.py(208): stop_trace,4097061,401.185,249,255,6928969471440.185,X
+893,4097061,python_function,torch/autograd/profiler.py(344): __exit__,4097061,396.823,255,256,6928969471444.547,X
+894,4097061,python_function,<built-in function hasattr>,4097061,1.185,256,257,6928969471448.044,X
+895,4097061,python_function,<built-in function getattr>,4097061,0.476,256,258,6928969471452.148,X
+896,4097061,python_function,<built-in function hasattr>,4097061,1.221,256,259,6928969471453.882,X
+897,4097061,python_function,torch/cuda/__init__.py(944): synchronize,4097061,382.462,256,260,6928969471458.908,X
+898,4097061,python_function,torch/cuda/__init__.py(289): _lazy_init,4097061,12.755,260,261,6928969471462.008,X
+899,4097061,python_function,torch/cuda/__init__.py(242): is_initialized,4097061,8.678,261,262,6928969471465.578,X
+900,4097061,python_function,<built-in function _cuda_isInBadFork>,4097061,2.513,262,263,6928969471471.218,X
+901,4097061,python_function,torch/cuda/__init__.py(439): __init__,4097061,273.148,260,264,6928969471481.429,X
+902,4097061,python_function,torch/cuda/_utils.py(9): _get_device_index,4097061,267.902,264,265,6928969471484.89,X
+903,4097061,python_function,<built-in function isinstance>,4097061,0.681,265,266,6928969471486.18,X
+904,4097061,python_function,<built-in function isinstance>,4097061,0.176,265,267,6928969471488.655,X
+905,4097061,python_function,<built-in function isinstance>,4097061,0.203,265,268,6928969471491.013,X
+906,4097061,python_function,torch/_jit_internal.py(103): is_scripting,4097061,0.573,265,269,6928969471493.329,X
+907,4097061,python_function,<built-in function isinstance>,4097061,0.189,265,270,6928969471495.531,X
+908,4097061,python_function,torch/_utils.py(773): _get_device_index,4097061,253.517,265,271,6928969471498.829,X
+909,4097061,python_function,<built-in function isinstance>,4097061,0.287,271,272,6928969471537.53,X
+910,4097061,python_function,<built-in function isinstance>,4097061,0.391,271,273,6928969471539.403,X
+911,4097061,python_function,<built-in function isinstance>,4097061,0.133,271,274,6928969471540.657,X
+912,4097061,python_function,torch/_jit_internal.py(103): is_scripting,4097061,0.412,271,275,6928969471543.062,X
+913,4097061,python_function,torch/_utils.py(747): _get_current_device_index,4097061,205.5,271,276,6928969471546.373,X
+914,4097061,python_function,torch/_utils.py(733): _get_device_attr,4097061,201.589,276,277,6928969471549.894,X
+915,4097061,python_function,torch/_utils.py(718): _get_available_device_type,4097061,164.201,277,278,6928969471552.407,X
+916,4097061,python_function,torch/cuda/__init__.py(116): is_available,4097061,160.622,278,279,6928969471555.415,X
+917,4097061,python_function,torch/cuda/__init__.py(107): _is_compiled,4097061,2.829,279,280,6928969471558.422,X
+918,4097061,python_function,<built-in function hasattr>,4097061,0.966,280,281,6928969471560.195,X
+919,4097061,python_function,torch/cuda/__init__.py(112): _nvml_based_avail,4097061,47.85,279,282,6928969471563.464,X
+920,4097061,python_function,os.py(772): getenv,4097061,42.579,282,283,6928969471567.532,X
+921,4097061,python_function,_collections_abc.py(821): get,4097061,38.233,283,284,6928969471571.419,X
+922,4097061,python_function,os.py(675): __getitem__,4097061,30.251,284,285,6928969471575.019,X
+923,4097061,python_function,os.py(755): encode,4097061,9.799,285,286,6928969471581.392,X
+924,4097061,python_function,<built-in function isinstance>,4097061,0.146,286,287,6928969471582.793,X
+925,4097061,python_function,<built-in method encode of str object at 0x7fdfd178c800>,4097061,1.524,286,288,6928969471589.405,X
+926,4097061,python_function,<built-in function _cuda_getDeviceCount>,4097061,1.706,279,289,6928969471713.976,X
+927,4097061,python_function,<built-in method lower of str object at 0x7fe044aa1c30>,4097061,1.588,277,290,6928969471721.227,X
+928,4097061,python_function,torch/_utils.py(749): <lambda>,4097061,25.916,277,291,6928969471725.098,X
+929,4097061,python_function,torch/cuda/__init__.py(938): current_device,4097061,23.564,291,292,6928969471727.207,X
+930,4097061,python_function,torch/cuda/__init__.py(289): _lazy_init,4097061,2.351,292,293,6928969471728.683,X
+931,4097061,python_function,torch/cuda/__init__.py(242): is_initialized,4097061,1.246,293,294,6928969471729.521,X
+932,4097061,python_function,<built-in function _cuda_isInBadFork>,4097061,0.397,294,295,6928969471730.06,X
+933,4097061,python_function,<built-in function _cuda_getDevice>,4097061,15.039,292,296,6928969471735.521,X
+934,4097061,python_function,torch/cuda/__init__.py(443): __enter__,4097061,8.813,260,297,6928969471758.883,X
+935,4097061,python_function,<built-in function _cuda_exchangeDevice>,4097061,5.008,297,298,6928969471762.185,X
+936,4097061,python_function,<built-in function _cuda_synchronize>,4097061,30.01,260,299,6928969471775.913,X
+937,4097061,python_function,torch/cuda/__init__.py(446): __exit__,4097061,33.053,260,300,6928969471808.317,X
+938,4097061,python_function,<built-in function _cuda_maybeExchangeDevice>,4097061,2.853,300,301,6928969471811.289,X
+939,4097061,python_function,<built-in function perf_counter_ns>,4097061,2.745,300,302,6928969471819.734,X
+940,4097061,python_function,<built-in method _disable_profiler of PyCapsule object at 0x7fdec2bfd800>,4097061,14.969,300,303,6928969471826.401,X

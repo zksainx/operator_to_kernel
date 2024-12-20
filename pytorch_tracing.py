@@ -43,7 +43,6 @@ def py_tracing_forward(model, input_data,  model_name,input_data_2=None, wait=1,
     # convert_json_to_csv(output_directory, log_directory)
 
     print(f"Profiling completed. Trace log saved to '{json_path}'")
-    print(f"CSV files saved to '{output_directory}'")
 
 
 def py_tracing_backward(model, input_data, model_name ,input_data_2=None, wait=0, warmup=0, active=1, repeat=1):
@@ -84,7 +83,6 @@ def py_tracing_backward(model, input_data, model_name ,input_data_2=None, wait=0
     # convert_json_to_csv(output_directory, log_directory)
 
     print(f"Profiling completed. Trace log saved to '{json_path}'")
-    print(f"CSV files saved to '{output_directory}'")
 
 def py_tracing_optimize(model, input_data, optimizer, model_name, input_data_2=None, wait=0, warmup=0, active=1, repeat=1):
     total = (wait + warmup + active) * repeat
@@ -126,4 +124,3 @@ def py_tracing_optimize(model, input_data, optimizer, model_name, input_data_2=N
     # convert_json_to_csv(output_directory, log_directory)
 
     print(f"Profiling completed. Trace log saved to '{json_path}'")
-    print(f"CSV files saved to '{output_directory}'")

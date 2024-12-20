@@ -1,3 +1,3 @@
-ts,memory bandwidth (GB/s),tid,pid,dur,context,stream,cat,ph,name,device,bytes,correlation,External id
-6935384775922.987,21.84996358339403,7,0,1.376,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,60000,2580,2098
-6935384776152.779,136.4250276260681,7,0,220.417,1,7,gpu_memcpy,X,Memcpy DtoD (Device -> Device),0,60000000,2632,2118
+tid,cat,memory bandwidth (GB/s),name,device,pid,dur,External id,stream,context,bytes,correlation,ts,ph
+7,gpu_memcpy,21.84996358339403,Memcpy DtoD (Device -> Device),0,0,1.376,2098,7,1,60000,2580,6935384775922.987,X
+7,gpu_memcpy,136.4250276260681,Memcpy DtoD (Device -> Device),0,0,220.417,2118,7,1,60000000,2632,6935384776152.779,X
