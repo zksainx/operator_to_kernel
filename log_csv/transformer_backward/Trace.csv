@@ -1,2 +1,2 @@
 ts,tid,Op count,pid,dur,cat,ph,name
-6939292586142.454,PyTorch Profiler,0,Spans,197188.168,Trace,X,PyTorch Profiler (0)
+6939565486059.604,PyTorch Profiler,0,Spans,55213.265,Trace,X,PyTorch Profiler (0)
